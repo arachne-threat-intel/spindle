@@ -16,6 +16,12 @@
 
 ---
 
+* Name = APT4
+* Aliases = [Maverick Panda, Sykipot Group, Wisp](https://www.fireeye.com/current-threats/apt-groups.html), [BRONZE EDISON, TG-0623](https://www.secureworks.com/research/threat-profiles)
+* Organisation = 
+
+---
+
 * Name = APT5
 * Aliases = [BRONZE FLEETWOOD, DPD, Keyhole Panda, Poisoned Flight, TG-2754](https://www.secureworks.com/research/threat-profiles), [MANGANESE](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
 * Organisation = 
@@ -30,6 +36,18 @@
 
 * Name = APT7
 * Aliases = N/A
+* Organisation = 
+
+---
+
+* Name = APT8
+* Aliases = 
+* Organisation = 
+
+---
+
+* Name = APT9
+* Aliases = 
 * Organisation = 
 
 ---
@@ -55,5 +73,97 @@
 * Name = APT13
 * Aliases = N/A
 * Organisation = 
+
+---
+
+* Name = APT14
+* Aliases = 
+* Organisation = 
+
+---
+
+* Name = APT15
+* Aliases = 
+* Associations = [Winnti Umbrella](https://securityaffairs.co/wordpress/72208/apt/analyzing-winnti-umbrella.html)
+* Organisation = 
+
+---
+
+* Name = APT16
+* Aliases = 
+* Organisation = 
+
+---
+
+* Name = APT17
+* Aliases = 
+* Associations = [Winnti Umbrella](https://securityaffairs.co/wordpress/72208/apt/analyzing-winnti-umbrella.html)
+* Organisation = 
+
+---
+
+* Name = APT18
+* Aliases = [Wekby](https://www.fireeye.com/current-threats/apt-groups.html)
+* Organisation = 
+
+---
+
+* Name = APT19
+* Aliases = 
+* Organisation = 
+
+---
+
+* Name = APT20
+* Aliases = 
+* Organisation = 
+
+---
+
+* Name = APT21
+* Aliases = [Zhenbao, Hammer Panda](https://cybergeeks.tech/dissecting-apt21-samples-using-a-step-by-step-approach/), [NetTraveler](https://www.cfr.org/cyber-operations/nettraveler)
+* Organisation = 
+
+---
+
+* Name = APT22
+* Aliases = [Barista](https://www.fireeye.com/current-threats/apt-groups.html), [Group 46, Suckfly, BRONZE OLIVE](https://www.secureworks.com/research/threat-profiles)
+* Organisation = 
+
+---
+
+* Name = APT23
+* Aliases = [Earth Centaur](https://threatpost.com/tropic-trooper-transportation/177106/), [BRONZE HOBART](https://www.secureworks.com/research/threat-profiles), [TA413](https://vblocalhost.com/uploads/VB2021-Tanabe-etal.pdf), [White Dev, LuckyCat](https://www.proofpoint.com/us/blog/threat-insight/chasing-currents-espionage-south-china-sea)
+* Organisation = 
+
+---
+
+* Name = APT24
+* Aliases = [PittyTiger](https://www.fireeye.com/current-threats/apt-groups.html)
+* Organisation = 
+
+---
+
+* Name = APT25
+* Aliases = 
+* Organisation = 
+
+---
+
+* Name = APT26
+* Aliases = 
+* Organisation = 
+
+---
+
+* Name = APT27
+* Aliases = 
+* Organisation = 
+
+---
+
+* Name = APT28
+* Aliases = [Fancy Bear, Sofacy, Strontium, Grizzly Steppe](https://www.zdnet.com/article/german-authorities-charge-russian-hacker-for-2015-bundestag-hack/), [Sednit, SIG40](https://www.crysys.hu/publications/files/tedi/ukatemicrysys_territorialdispute.pdf), [Group 74, PawnStorm, Snakemackerel, TG-4127, Tsar Team](https://www.secureworks.com/research/threat-profiles), [Blue Athena](https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/threat-actor-of-in-tur-est.html), [IRON TWILIGHT, Swallowtail, Threat Group-4127](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
+* Organisation = [Unit 26165 of the 85th Main Special Service Center](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
 
 ---

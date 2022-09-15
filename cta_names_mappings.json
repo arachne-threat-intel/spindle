@@ -1,0 +1,88 @@
+{
+  "APT1": {
+    "aliases": ["Comment Crew"]
+  },
+  "APT2": {
+    "aliases": ["Putter Panda", "MSUpdater Group"]
+  },
+  "APT3": {
+    "aliases": ["UPS Team", "Gothic Panda", "TG-0110", "BRONZE MAYFAIR", "Buckeye", "Red Sylvan"]
+  },
+  "APT4": {
+    "aliases": ["Maverick Panda", "Sykipot Group", "Wisp", "BRONZE EDISON", "TG-0623"]
+  },
+  "APT5": {
+    "aliases": ["BRONZE FLEETWOOD", "DPD", "Keyhole Panda", "Poisoned Flight", "TG-2754", "MANGANESE"]
+  },
+  "APT6": {
+    "aliases": []
+  },
+  "APT7": {
+    "aliases": []
+  },
+  "APT8": {
+    "aliases": []
+  },
+  "APT9": {
+    "aliases": []
+  },
+  "APT10": {
+    "aliases": ["Stone Panda", "Menu Pass", "Red Apollo", "CVNX", "Potassium", "Cicada", "Cloud Hopper",
+      "BRONZE RIVERSIDE", "CTG-5938", "Hogfish"]
+  },
+  "APT11": {
+    "aliases": []
+  },
+  "APT12": {
+    "aliases": ["Calc Team", "BRONZE GLOBE", "CTG-8223", "DNSCalc", "DyncCalc", "Numbered Panda"]
+  },
+  "APT13": {
+    "aliases": []
+  },
+  "APT14": {
+    "aliases": []
+  },
+  "APT15": {
+    "aliases": ["Winnti Umbrella"]
+  },
+  "APT16": {
+    "aliases": []
+  },
+  "APT17": {
+    "aliases": ["Winnti Umbrella"]
+  },
+  "APT18": {
+    "aliases": ["Wekby"]
+  },
+  "APT19": {
+    "aliases": []
+  },
+  "APT20": {
+    "aliases": []
+  },
+  "APT21": {
+    "aliases": ["Zhenbao", "Hammer Panda", "NetTraveler"]
+  },
+  "APT22": {
+    "aliases": ["Barista", "Group 46", "Suckfly", "BRONZE OLIVE"]
+  },
+  "APT23": {
+    "aliases": ["Earth Centaur", "BRONZE HOBART", "TA413", "White Dev", "LuckyCat"]
+  },
+  "APT24": {
+    "aliases": ["PittyTiger"]
+  },
+  "APT25": {
+    "aliases": []
+  },
+  "APT26": {
+    "aliases": []
+  },
+  "APT27": {
+    "aliases": []
+  },
+  "APT28": {
+    "aliases": ["Fancy Bear", "Sofacy", "Strontium", "Grizzly Steppe", "Sednit", "SIG40", "Group 74", "PawnStorm",
+      "Snakemackerel", "TG-4127", "Tsar Team", "Blue Athena", "IRON TWILIGHT", "Swallowtail", "Threat Group-4127"]
+  }
+}

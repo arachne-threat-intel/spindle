@@ -260,7 +260,7 @@
 ---
 
 * Name = CERIUM
-* Country = [North Korea](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
+* Country of organisation = [North Korea](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
 
 ---
 

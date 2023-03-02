@@ -185,8 +185,8 @@
 ---
 
 * Name = APT29
-* Full Aliases = [Cozy Bear, The Dukes](https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/), [Nobelium](https://www.bleepingcomputer.com/news/security/microsoft-russian-hackers-used-4-new-malware-in-usaid-phishing/), [UNC2452](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi), [YTTRIUM, IRON HEMLOCK, Dark Halo, NOBELIUM, StellarParticle, UNC2452](https://www.secureworks.com/research/threat-profiles), [Blue Kitsune](https://www.pwc.co.uk/issues/cyber-security-services/insights/cleaning-up-after-wellmess.html), [CozyDuke, NobleBaron](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a), [HotCousin](https://securelist.com/apt-trends-report-q3-2022/107787/)
-* Organisation = [Foreign Intelligence Service/SVR](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
+* Full aliases = [Cozy Bear, The Dukes](https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/), [Nobelium](https://www.bleepingcomputer.com/news/security/microsoft-russian-hackers-used-4-new-malware-in-usaid-phishing/), [UNC2452](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi), [YTTRIUM, IRON HEMLOCK, Dark Halo, NOBELIUM, StellarParticle, UNC2452](https://www.secureworks.com/research/threat-profiles), [Blue Kitsune](https://www.pwc.co.uk/issues/cyber-security-services/insights/cleaning-up-after-wellmess.html), [CozyDuke, NobleBaron](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a), [HotCousin](https://securelist.com/apt-trends-report-q3-2022/107787/)
+* Organisation = [Foreign Intelligence Service, SVR](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
 * Country of organisation = [Russian Federation](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
 
 ---
@@ -203,12 +203,12 @@
 ---
 
 * Name = APT32
-* Aliases = [WOODLAWN (SCWX CTU), TIN WOODLAWN](https://www.secureworks.com/research/threat-profiles/tin-woodlawn), [BISMUTH](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi) 
+* Full aliases = [WOODLAWN, SCWX CTU, TIN WOODLAWN](https://www.secureworks.com/research/threat-profiles/tin-woodlawn), [BISMUTH](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi) 
 
 ---
 
 * Name = APT33
-* Full Aliases = [Elfin, Refined Kitten, Magnallium, Holmium](https://brica.de/alerts/alert/public/1277530/hunting-apt33-campaign-infrastructure/), [COBALT TRINITY, TA451](https://www.secureworks.com/research/threat-profiles)
+* Full aliases = [Elfin, Refined Kitten, Magnallium, Holmium](https://brica.de/alerts/alert/public/1277530/hunting-apt33-campaign-infrastructure/), [COBALT TRINITY, TA451](https://www.secureworks.com/research/threat-profiles)
 * Organisation = [Islamic Revolutionary Guard Corps](https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf)
 * Country of organisation = [Islamic Republic of Iran](https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf)
 
@@ -223,7 +223,7 @@
 ---
 
 * Name = APT35
-* Subgroups = [DEV-0270/Nemesis Kitten](https://www.microsoft.com/security/blog/2022/09/07/profiling-dev-0270-phosphorus-ransomware-operations/)
+* Subgroups = [DEV-0270](https://www.microsoft.com/security/blog/2022/09/07/profiling-dev-0270-phosphorus-ransomware-operations/)
 * Organisation = [Islamic Revolutionary Guard Corps](https://www.mandiant.com/media/17826)
 * Country of organisation = [Islamic Republic of Iran](https://www.mandiant.com/media/17826)
 
@@ -265,7 +265,7 @@
 ---
 
 * Name = APT38
-* Full aliases = check they are actually full, [Lazarus Group](https://www.fireeye.com/current-threats/apt-groups.html#north-korea), [Hidden Cobra, Guardians of Peace](https://www.cisa.gov/uscert/ncas/alerts/TA17-164A), [NICKEL ACADEMY](https://www.secureworks.com/about/press/media-alert-secureworks-discovers-north-korean-cyber-threat-group-lazarus-spearphishing), [Black Artemis, COVELLITE, CTG-2460, Dark Seoul, High Anonymous, Labyrinth Chollima, New Romanic Cyber Army Team, NNPT Group, Who Am I?, Whois Team, ZINC](https://www.secureworks.com/research/threat-profiles), [TA404](https://www.proofpoint.com/us/blog/threat-insight/above-fold-and-your-inbox-tracing-state-aligned-activity-targeting-journalists), [APT-C-26](https://mp-weixin-qq-com.translate.goog/s/W4hkBRJnwN1G32QCpaNNoA?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp&utm_source=substack&utm_medium=email)
+* Full aliases = [Lazarus Group](https://www.fireeye.com/current-threats/apt-groups.html#north-korea), [Hidden Cobra, Guardians of Peace](https://www.cisa.gov/uscert/ncas/alerts/TA17-164A), [NICKEL ACADEMY](https://www.secureworks.com/about/press/media-alert-secureworks-discovers-north-korean-cyber-threat-group-lazarus-spearphishing), [Black Artemis, COVELLITE, CTG-2460, Dark Seoul, High Anonymous, Labyrinth Chollima, New Romanic Cyber Army Team, NNPT Group, Who Am I?, Whois Team, ZINC](https://www.secureworks.com/research/threat-profiles), [TA404](https://www.proofpoint.com/us/blog/threat-insight/above-fold-and-your-inbox-tracing-state-aligned-activity-targeting-journalists), [APT-C-26](https://mp-weixin-qq-com.translate.goog/s/W4hkBRJnwN1G32QCpaNNoA?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp&utm_source=substack&utm_medium=email)
 * Subgroups = [AndAriel](https://home.treasury.gov/news/press-releases/sm774)
 * Country of organisation = [North Korea](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
 * Campaigns = [Operation AppleJeus](https://www.cisa.gov/uscert/ncas/alerts/aa21-048a), [Operation Dream Job](https://www.clearskysec.com/wp-content/uploads/2020/08/Dream-Job-Campaign.pdf)
@@ -301,7 +301,7 @@
 
 * Name = APT39
 * Full aliases = [Chafer, Cadelspy, Remexi, ITG07](https://www.iranwatch.org/sites/default/files/public-intelligence-alert.pdf), [COBALT HICKMAN](https://www.secureworks.com/research/threat-profiles), [Remix Kitten, Cadelle](https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf)
-* Organisation = [Iranian Ministry of Intelligence and Security/Rana Intelligence Computing](https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf)
+* Organisation = [Iranian Ministry of Intelligence and Security, Rana Intelligence Computing](https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf)
 * Country of organisation = [Islamic Republic of Iran](https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf)
 
 ---
@@ -365,17 +365,17 @@
 ---
 
 * Name = APT-C-35
-* Aliases = [Donot Team, SectorE02](https://www.welivesecurity.com/2022/01/18/donot-go-do-not-respawn/), [SideWinder](https://blog.talosintelligence.com/2022/02/whats-with-shared-vba-code.html), [Rattlesnake, Hardcore Nationalist, RAZOR TIGER, T-APT-04, APT-C-17](https://blog.group-ib.com/sidewinder-antibot)
+* Full aliases = [Donot Team, SectorE02](https://www.welivesecurity.com/2022/01/18/donot-go-do-not-respawn/), [SideWinder](https://blog.talosintelligence.com/2022/02/whats-with-shared-vba-code.html), [Rattlesnake, Hardcore Nationalist, RAZOR TIGER, T-APT-04, APT-C-17](https://blog.group-ib.com/sidewinder-antibot)
 
 ---
 
 * Name = APT-C-36
-* Aliases = [Blind Eagle](https://www.trendmicro.com/en_us/research/21/i/apt-c-36-updates-its-long-term-spam-campaign-against-south-ameri.html)
+* Full aliases = [Blind Eagle](https://www.trendmicro.com/en_us/research/21/i/apt-c-36-updates-its-long-term-spam-campaign-against-south-ameri.html)
 
 ---
 
 * Name = APT-C-38
-* Aliases = [COBALT JUNO, SABER LION, TG-2884](https://www.secureworks.com/research/threat-profiles)
+* Full aliases = [COBALT JUNO, SABER LION, TG-2884](https://www.secureworks.com/research/threat-profiles)
 
 ---
 
@@ -431,17 +431,17 @@
 
 * Name = Xenotime
 * Full aliases = [Triton, Trisis](https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america), [Temp.Veles](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
-* Department = [Applied Developments Center of the Central Scientific Research Institute of Chemistry and Mechanics/TsNIIKhM, State Research Center](https://www.securityweek.com/us-charges-russian-hackers-over-infamous-triton-havex-cyberattacks-energy-sector)
-* Organisation = [Ministry of Defense of the Russian Federation](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
+* Department = [Applied Developments Center of the Central Scientific Research Institute of Chemistry and Mechanics, TsNIIKhM, State Research Center](https://www.securityweek.com/us-charges-russian-hackers-over-infamous-triton-havex-cyberattacks-energy-sector)
+* Organisation = [Ministry of Defense](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
 * Country of organisation = [Russian Federation](https://www.securityweek.com/us-charges-russian-hackers-over-infamous-triton-havex-cyberattacks-energy-sector)
 * Members = [Evgeny Viktorovich Gladkikh](https://www.securityweek.com/us-charges-russian-hackers-over-infamous-triton-havex-cyberattacks-energy-sector)
 
 ---
 
 * Name = Sandworm
-* Full aliases = [Electrum](https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america), [Telebots, BlackEnergy](https://www.zdnet.com/article/us-charges-russian-hackers-behind-notpetya-killdisk-olympicdestroyer-attacks/#ftag=RSSbaffb68), [Quedagh](https://blog-assets.f-secure.com/wp-content/uploads/2019/10/15163408/BlackEnergy_Quedagh.pdf), [Voodoo Bear](https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-january-voodoo-bear/), [CTG-7263, Hades/OlympicDestroyer, IRIDIUM, TEMP.Noble, IRON VIKING](https://www.secureworks.com/research/threat-profiles)
-* Department = [Unit 74455 of the Main Center of Special Technologies/GTsST](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
-* Organisation =  [Main Directorate of the General Staff of the Armed Forces/GRU](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
+* Full aliases = [Electrum](https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america), [Telebots, BlackEnergy](https://www.zdnet.com/article/us-charges-russian-hackers-behind-notpetya-killdisk-olympicdestroyer-attacks/#ftag=RSSbaffb68), [Quedagh](https://blog-assets.f-secure.com/wp-content/uploads/2019/10/15163408/BlackEnergy_Quedagh.pdf), [Voodoo Bear](https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-january-voodoo-bear/), [CTG-7263, Hades, OlympicDestroyer, IRIDIUM, TEMP.Noble, IRON VIKING](https://www.secureworks.com/research/threat-profiles)
+* Department = [Unit 74455 of the Main Center of Special Technologies, GTsST](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
+* Organisation =  [Main Directorate of the General Staff of the Armed Forces, GRU](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
 
 ---
 
@@ -459,15 +459,15 @@
 ---
 
 * Name = Muddy Water
-* Full Aliases = [Cobalt Ultser, Seed Worm, TEMP.Zagros, Static Kitten](https://www.secureworks.com/blog/business-as-usual-for-iranian-operations-despite-increased-tensions), [Earth Vetala](https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf)
-* Organisation = [Ministry of Intelligence of the Islamic Republic of Iran](https://www.cybercom.mil/Media/News/Article/2897570/iranian-intel-cyber-suite-of-malware-uses-open-source-tools/)
+* Full aliases = [Cobalt Ultser, Seed Worm, TEMP.Zagros, Static Kitten](https://www.secureworks.com/blog/business-as-usual-for-iranian-operations-despite-increased-tensions), [Earth Vetala](https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf)
+* Organisation = [Ministry of Intelligence](https://www.cybercom.mil/Media/News/Article/2897570/iranian-intel-cyber-suite-of-malware-uses-open-source-tools/)
 * Country of organisation = [Islamic Republic of Iran](https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf)
 
 ---
 
 * Name = Gaza Cybergang
 * Full aliases = [TA402](https://thehackernews.com/2021/06/molerats-hackers-return-with-new.html), [ALUMINUM SARATOGA, Extreme Jackal, DustySky](https://www.secureworks.com/research/threat-profiles), [Moonlight](https://cybersecurity.att.com/blogs/labs-research/alien-labs-2019-analysis-of-threat-groups-molerats-and-apt-c-37)
-* Subgroups = [Molerats/Gaza Cybergang Group1](https://cybersecurity.att.com/blogs/labs-research/alien-labs-2019-analysis-of-threat-groups-molerats-and-apt-c-37), [Desert Falcons/Gaza Cybergang Group2](https://cybersecurity.att.com/blogs/labs-research/alien-labs-2019-analysis-of-threat-groups-molerats-and-apt-c-37), [Gaza Cybergang Group3](https://cybersecurity.att.com/blogs/labs-research/alien-labs-2019-analysis-of-threat-groups-molerats-and-apt-c-37)
+* Subgroups = [Molerats](https://cybersecurity.att.com/blogs/labs-research/alien-labs-2019-analysis-of-threat-groups-molerats-and-apt-c-37), [Desert Falcon](https://cybersecurity.att.com/blogs/labs-research/alien-labs-2019-analysis-of-threat-groups-molerats-and-apt-c-37), [Gaza Cybergang Group3](https://cybersecurity.att.com/blogs/labs-research/alien-labs-2019-analysis-of-threat-groups-molerats-and-apt-c-37)
 
 ---
 
@@ -491,8 +491,8 @@
 
 * Name = Dragonfly
 * Full aliases = [Energetic Bear, Koala, Iron Liberty](https://www.wired.com/story/russian-hacking-teams-infrastructure/), [BROMINE](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi), [BERSERK BEAR, Crouching Yeti, Temp.Isotope](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
-* Department = [16th Centre/Military Unit 71330 of the Special Communications and Information Service](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
-* Organisation = [Federal Security Service of the Russian Federation (FSB)](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
+* Department = [16th Centre, Military Unit 71330 of the Special Communications and Information Service](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
+* Organisation = [Federal Security Service, FSB](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
 * Country of organisation = [Russian Federation](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
 * Members = [Pavel Aleksandrovich Akulov, Mikhail Mikhailovich Gavrilov, Marat Valeryevich Tyukov](https://www.justice.gov/opa/press-release/file/1486836/download)
 
@@ -533,7 +533,7 @@
 ---
 
 * Name = Dark Hotel
-* Full Aliases =  [TUNGSTEN BRIDGE, CTG-1948, DUBNIUM](https://www.secureworks.com/research/threat-profiles)
+* Full aliases =  [TUNGSTEN BRIDGE, CTG-1948, DUBNIUM](https://www.secureworks.com/research/threat-profiles)
 
 ---
 

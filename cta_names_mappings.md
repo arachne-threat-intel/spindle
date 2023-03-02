@@ -180,7 +180,7 @@
 ---
 
 * Name = Zebrocy
-* Full aliases = [PETROVITE](https://github.com/Panopticon-Project/panopticon-Zebrocy/blob/master
+* Full aliases = [PETROVITE](https://github.com/Panopticon-Project/panopticon-Zebrocy/blob/master)
 
 ---
 

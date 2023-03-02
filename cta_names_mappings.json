@@ -1,88 +1,348 @@
 {
   "APT1": {
-    "aliases": ["Comment Crew"]
+    "full_aliases": ["Comment Crew"],
+    "organisations": ["China’s People’s Liberation Army (PLA) General Staff Department’s (GSD) 3rd Department, Military Unit Cover Designator (MUCD) Unit 61398"]
   },
   "APT2": {
-    "aliases": ["Putter Panda", "MSUpdater Group"]
+    "full_aliases": ["Putter Panda", "MSUpdater Group"],
+    "organisations": ["China's People’s Liberation Army (PLA) General Staff Department's (GSD) 3rd Department, 12th Bureau, Military Unit Cover Designator (MUCD) 61486"]
   },
   "APT3": {
-    "aliases": ["UPS Team", "Gothic Panda", "TG-0110", "BRONZE MAYFAIR", "Buckeye", "Red Sylvan"]
+    "full_aliases": ["UPS Team", "Gothic Panda", "TG-0110", "BRONZE MAYFAIR", "Buckeye", "Red Sylvan"]
   },
   "APT4": {
-    "aliases": ["Maverick Panda", "Sykipot Group", "Wisp", "BRONZE EDISON", "TG-0623"]
+    "full_aliases": ["Maverick Panda", "Sykipot Group", "Wisp", "BRONZE EDISON", "TG-0623"]
   },
   "APT5": {
-    "aliases": ["BRONZE FLEETWOOD", "DPD", "Keyhole Panda", "Poisoned Flight", "TG-2754", "MANGANESE"]
+    "full_aliases": ["BRONZE FLEETWOOD", "DPD", "Keyhole Panda", "Poisoned Flight", "TG-2754", "MANGANESE"]
   },
   "APT6": {
-    "aliases": []
   },
   "APT7": {
-    "aliases": []
   },
   "APT8": {
-    "aliases": []
   },
   "APT9": {
-    "aliases": []
   },
   "APT10": {
-    "aliases": ["Stone Panda", "Menu Pass", "Red Apollo", "CVNX", "Potassium", "Cicada", "Cloud Hopper",
-      "BRONZE RIVERSIDE", "CTG-5938", "Hogfish"]
+    "full_aliases": ["Stone Panda", "Menu Pass", "Red Apollo", "CVNX", "Potassium", "Cicada", "Cloud Hopper",
+      "BRONZE RIVERSIDE", "CTG-5938", "Hogfish"],
+    "partial_aliases": ["A41APT"]
+  },
+  "Earth Tengshe": {
+    "full_aliases": ["A41APT"]
+  },
+  "MirrorFace": {
   },
   "APT11": {
-    "aliases": []
   },
   "APT12": {
-    "aliases": ["Calc Team", "BRONZE GLOBE", "CTG-8223", "DNSCalc", "DyncCalc", "Numbered Panda"]
+    "full_aliases": ["Calc Team", "BRONZE GLOBE", "CTG-8223", "DNSCalc", "DyncCalc", "Numbered Panda"]
   },
   "APT13": {
-    "aliases": []
   },
   "APT14": {
-    "aliases": []
   },
   "APT15": {
-    "aliases": ["Winnti Umbrella"]
+    "associations": ["Winnti Umbrella"]
   },
   "APT16": {
-    "aliases": []
   },
   "APT17": {
-    "aliases": ["Winnti Umbrella"]
+    "associations": ["Winnti Umbrella"]
   },
   "APT18": {
-    "aliases": ["Wekby"]
+    "full_aliases": ["Wekby"]
   },
   "APT19": {
-    "aliases": []
   },
   "APT20": {
-    "aliases": []
   },
   "APT21": {
-    "aliases": ["Zhenbao", "Hammer Panda", "NetTraveler"]
+    "full_aliases": ["Zhenbao", "Hammer Panda", "NetTraveler"]
   },
   "APT22": {
-    "aliases": ["Barista", "Group 46", "Suckfly", "BRONZE OLIVE"]
+    "full_aliases": ["Barista", "Group 46", "Suckfly", "BRONZE OLIVE"]
   },
   "APT23": {
-    "aliases": ["Earth Centaur", "BRONZE HOBART", "TA413", "White Dev", "LuckyCat"]
+    "full_aliases": ["Earth Centaur", "BRONZE HOBART", "TA413", "White Dev", "LuckyCat"]
   },
   "APT24": {
-    "aliases": ["PittyTiger"]
+    "full_aliases": ["PittyTiger"]
   },
   "APT25": {
-    "aliases": []
   },
   "APT26": {
-    "aliases": []
   },
   "APT27": {
-    "aliases": []
   },
   "APT28": {
-    "aliases": ["Fancy Bear", "Sofacy", "Strontium", "Grizzly Steppe", "Sednit", "SIG40", "Group 74", "PawnStorm",
-      "Snakemackerel", "TG-4127", "Tsar Team", "Blue Athena", "IRON TWILIGHT", "Swallowtail", "Threat Group-4127"]
+    "full_aliases": ["Fancy Bear", "Sofacy", "Strontium", "Grizzly Steppe", "Sednit", "SIG40", "Group 74", "PawnStorm",
+      "Snakemackerel", "TG-4127", "Tsar Team", "Blue Athena", "IRON TWILIGHT", "Swallowtail", "Threat Group-4127"],
+    "organisations": ["Unit 26165 of the 85th Main Special Service Center"],
+    "countries": ["RU"]
+  },
+  "Zebrocy": {
+    "full_aliases": ["PETROVITE"]
+  },
+  "APT29": {
+    "full_aliases": ["Cozy Bear", "The Dukes", "Nobelium", "UNC2452", "YTTRIUM", "IRON HEMLOCK", "Dark Halo", "NOBELIUM",
+      "StellarParticle", "UNC2452", "Blue Kitsune", "CozyDuke", "NobleBaron", "HotCousin"],
+    "organisations": ["Foreign Intelligence Service/SVR"],
+    "countries": ["RU"]
+  },
+  "APT30": {
+    "organisations": ["China's People’s Liberation Army Unit 78020"],
+    "countries": ["CN"]
+  },
+  "APT31": {
+    "countries": ["CN"]
+  },
+  "APT32": {
+    "full_aliases": ["WOODLAWN (SCWX CTU)", "TIN WOODLAWN", "BISMUTH"]
+  },
+  "APT33": {
+    "full_aliases": ["Elfin", "Refined Kitten", "Magnallium", "Holmium", "COBALT TRINITY", "TA451"],
+    "organisations": ["Islamic Revolutionary Guard Corps"],
+    "countries": ["IR"]
+  },
+  "APT34": {
+  },
+  "CHRYSENE": {
+  },
+  "APT35": {
+    "subgroups": ["DEV-0270/Nemesis Kitten"],
+    "organisations": ["Islamic Revolutionary Guard Corps"],
+    "countries": ["IR"]
+  },
+  "Nemesis Kitten": {
+  },
+  "TunnelVision": {
+  },
+  "APT36": {
+    "full_aliases": ["Transparent Tribe", "ProjectM", "Mythic Leopard", "TEMP.Lapis", "COPPER FIELDSTONE",
+      "Gorgon Group", "Green Havildar", "Operation C-Major", "ProjectM", "Earth Karkaddan", "APT-C-56"]
+  },
+  "APT37": {
+    "subgroups": ["TA406"]
+  },
+  "TA406": {
+  },
+  "TA408": {
+  },
+  "TA427": {
+  },
+  "CERIUM": {
+    "countries": ["KP"]
+  },
+  "APT38": {
+    "full_aliases": ["Lazarus Group", "Hidden Cobra", "Guardians of Peace", "NICKEL ACADEMY", "Black Artemis",
+      "COVELLITE", "CTG-2460", "Dark Seoul", "High Anonymous", "Labyrinth Chollima", "New Romanic Cyber Army Team",
+      "NNPT Group", "Who Am I?", "Whois Team", "ZINC", "TA404", "APT-C-26"],
+    "subgroups": ["AndAriel"],
+    "countries": ["KP"],
+    "campaigns": ["Operation AppleJeus", "Operation Dream Job"]
+  },
+  "BlueNorOff": {
+    "full_aliases": ["Stardust Chollima", "BeagleBoyz", "CTG-6459", "NICKEL GLADSTONE"]
+  },
+  "AndAriel": {
+    "full_aliases": ["Silent Chollima", "Dark Seoul", "Rifle", "Wassonite", "NICKEL HYATT", "PLUTONIUM", "Stonefly"],
+    "countries": ["KP"]
+  },
+  "Pompilios": {
+  },
+  "Bollworm": {
+  },
+  "Cloverworm": {
+  },
+  "Springtail": {
+  },
+  "APT39": {
+    "full_aliases": ["Chafer", "Cadelspy", "Remexi", "ITG07", "COBALT HICKMAN", "Remix Kitten", "Cadelle"],
+    "organisations": ["Iranian Ministry of Intelligence and Security/Rana Intelligence Computing"],
+    "countries": ["IR"]
+  },
+  "APT40": {
+  },
+  "APT41": {
+    "subgroups": ["Earth Lusca", "Earth Longzhi"]
+  },
+  "Grayfly": {
+  },
+  "Blackfly": {
+  },
+  "Earth Lusca": {
+    "full_aliases": ["Fishmaster", "TAG-22"]
+  },
+  "Earth Longzhi": {
+  },
+  "Tianwu": {
+  },
+  "APT42": {
+  },
+  "FIN6": {
+    "full_aliases": ["ITG08", "MageCart Group 6", "Skeleton Spider", "White Giant", "GOLD FRANKLIN"]
+  },
+  "FIN7": {
+    "full_aliases": ["Carbon Spider", "Calcium", "Carbanak", "Navigator", "TelePort Crew", "GOLD NIAGARA", "Anunak",
+      "ELBRUS"]
+  },
+  "FIN8": {
+  },
+  "FIN11": {
+  },
+  "APT-C-21": {
+    "full_aliases": ["GnatSpy", "FrozenCell", "VAMP"]
+  },
+  "APT-C-35": {
+    "full_aliases": ["Donot Team", "SectorE02", "SideWinder", "Rattlesnake", "Hardcore Nationalist", "RAZOR TIGER",
+      "T-APT-04", "APT-C-17"]
+  },
+  "APT-C-36": {
+    "full_aliases": ["Blind Eagle"]
+  },
+  "APT-C-38": {
+    "full_aliases": ["COBALT JUNO", "SABER LION", "TG-2884"]
+  },
+  "APT-C-50": {
+  },
+  "APT-Q-11": {
+  },
+  "APT-Q-27": {
+  },
+  "UNC215": {
+  },
+  "UNC1151": {
+    "full_aliases": ["Ghostwriter", "TA445"]
+  },
+  "UNC2465": {
+  },
+  "UNC2546": {
+  },
+  "UNC2582": {
+  },
+  "UNC2628": {
+  },
+  "UNC2659": {
+  },
+  "UNC2717": {
+  },
+  "Hexane": {
+    "full_aliases": ["Lyceum", "COBALT LYCEUM", "ScorchedEpoch", "SiameseKitten", "DEV-0133"]
+  },
+  "Xenotime": {
+    "full_aliases": ["Triton", "Trisis", "Temp.Veles"],
+    "organisations": ["Applied Developments Center of the Central Scientific Research Institute of Chemistry and Mechanics/TsNIIKhM, State Research Center",
+      "Ministry of Defense of the Russian Federation", "Evgeny Viktorovich Gladkikh"],
+    "countries": ["RU"]
+  },
+  "Sandworm": {
+    "full_aliases": ["Electrum", "Telebots", "BlackEnergy", "Quedagh", "Voodoo Bear", "CTG-7263",
+      "Hades/OlympicDestroyer", "IRIDIUM", "TEMP.Noble", "IRON VIKING"],
+    "subgroups": ["Kamacite"],
+    "organisations": ["Unit 74455 of the Main Center of Special Technologies/GTsST",
+      "Main Directorate of the General Staff of the Armed Forces/GRU"]
+  },
+  "Black Energy": {
+  },
+  "Grey Energy": {
+  },
+  "Kamacite": {
+  },
+  "Muddy Water": {
+    "full_aliases": ["Cobalt Ultser", "Seed Worm", "TEMP.Zagros", "Static Kitten", "Earth Vetala"],
+    "organisations": ["Ministry of Intelligence of the Islamic Republic of Iran"],
+    "countries": ["IR"]
+  },
+  "Gaza Cybergang": {
+    "full_aliases": ["TA402", "ALUMINUM SARATOGA", "Extreme Jackal", "DustySky", "Moonlight"],
+    "subgroups": ["Molerats", "Desert Falcon", "Gaza Cybergang Group3"]
+  },
+  "Molerats": {
+    "full_aliases": ["Gaza Cybergang Group1"],
+    "campaigns": ["SneakyPastes"]
+  },
+  "Desert Falcon": {
+    "full_aliases": ["Arid Viper", "APT-C-23", "Two-Tailed Scorpion", "Gaza Cybergang Group2"]
+  },
+  "Gaza Cybergang Group3": {
+    "campaigns": ["Operation Parliament"]
+  },
+  "Dragonfly": {
+    "full_aliases": ["Energetic Bear", "Koala", "Iron Liberty", "BROMINE", "BERSERK BEAR", "Crouching Yeti", "Temp.Isotope"],
+    "organisations": ["16th Centre/Military Unit 71330 of the Special Communications and Information Service",
+      "Federal Security Service of the Russian Federation (FSB)", "Pavel Aleksandrovich Akulov",
+      "Mikhail Mikhailovich Gavrilov", "Marat Valeryevich Tyukov"],
+    "countries": ["RU"]
+  },
+  "Electric Panda": {
+    "countries": ["CN"]
+  },
+  "Cobalt Dickens": {
+    "full_aliases": ["Yellow Nabu"]
+  },
+  "Shadow Academy": {
+  },
+  "Cactus Pete": {
+    "full_aliases": ["Karma Panda", "Tonto Team", "BRONZE HUNTLEY"]
+  },
+  "BlackTech": {
+    "full_aliases": ["Palmerworm", "BRONZE CANAL", "Circuit Panda", "CTG-6177", "Shrouded Crossbow"]
+  },
+  "Water Bear": {
+    "campaigns": ["PLEAD", "Shrouded Crossbow"]
+  },
+  "Red Delta": {
+    "full_aliases": ["BRONZE PRESIDENT", "HoneyMyte", "Red Lich", "Temp.Hex", "Earth Preta"]
+  },
+  "Dark Hotel": {
+    "full_aliases": ["TUNGSTEN BRIDGE", "CTG-1948", "DUBNIUM"]
+  },
+  "UNC2630": {
+  },
+  "Agrius": {
+  },
+  "DLTminer": {
+  },
+  "Mikroceen": {
+    "full_aliases": ["SixLittleMonkeys"]
+  },
+  "Websiic": {
+  },
+  "Calypso": {
+    "full_aliases": ["BRONZE MEDLEY"]
+  },
+  "Tick": {
+    "full_aliases": ["REDBALDKNIGHT", "BRONZE BUTLER", "CTG-2006", "Stalker Panda"]
+  },
+  "TALONITE": {
+  },
+  "HAFNIUM": {
+    "countries": ["CN"]
+  },
+  "Gamaredon": {
+    "full_aliases": ["Armageddon", "Blue Otso", "Dancing Salome", "Primitive Bear", "WinterFlounder", "IRON TILDEN"]
+  },
+  "InvisiMole": {
+  },
+  "BlueAlpha": {
+  },
+  "Sharp Panda": {
+  },
+  "Indrik Spider": {
+    "full_aliases": ["EvilCorp", "Silverfish", "GOLD DRAKE", "DEV-0243", "DEV-0206"],
+    "partial_aliases": ["Gold Winter"],
+    "subgroups": ["Doppel Spider"]
+  },
+  "Wizard Spider": {
+    "full_aliases": ["UNC1878", "RYUK", "DEV-0193", "FIN12", "GOLD BLACKBURN"],
+    "subgroups": ["Conti Team 1", "Conti Team 2", "Conti Team 3"]
+  },
+  "Conti Team 1": {
+  },
+  "Conti Team 2": {
+  },
+  "Conti Team 3": {
   }
 }

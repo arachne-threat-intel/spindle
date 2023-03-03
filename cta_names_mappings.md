@@ -310,7 +310,8 @@
 
 ---
 
-* Name = APT40
+* Name = APT41
+* Subgroups = [Earth Lusca](https://i.blackhat.com/Asia-22/Thursday-Materials/AS-22-LeonSilvia-NextGenPlugXShadowPad.pdf), [Earth Longzhi](https://www.trendmicro.com/en_us/research/22/k/hack-the-real-box-apt41-new-subgroup-earth-longzhi.html)
 
 ---
 

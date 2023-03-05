@@ -620,3 +620,34 @@
 
 * Name = Conti Team 3
 * Parent group = [Wizard Spider](https://twitter.com/VK_Intel/status/1557003350541242369/photo/1)
+
+---
+
+* Name = Exotic Lily
+
+---
+
+* Name = Mummy Spider
+* Full aliases = [Mealybug, TA542](https://www.cert.ssi.gouv.fr/uploads/CERTFR-2020-CTI-008.pdf), [GOLD CRESTWOOD](https://www.cert.ssi.gouv.fr/uploads/CERTFR-2021-CTI-003.pdf), [ATK 104](https://medium.com/@awaisafzal0/mummy-spiders-emotet-a-short-introduction-6f5770da8821), [TEMP.Mixmaster, UNC3443](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
+
+---
+
+* Name = DarkSide
+* Full aliases = [GOLD WATERFALL](https://www.secureworks.com/research/threat-profiles)
+
+---
+
+* Name = REvil Group
+* Full aliases = [GOLD SOUTHFIELD](https://www.secureworks.com/research/threat-profiles), [Sodinokibi](https://www.cybereason.com/blog/research/the-sodinokibi-ransomware-attack), [Pinchy Spider](https://www.crowdstrike.com/blog/double-trouble-ransomware-data-leak-extortion-part-1/)
+
+---
+
+* Name = DeathStalker
+* Full aliases = [Eviulnum](https://securelist.com/deathstalker-mercenary-triumvirate/98177/)
+
+---
+
+* Name = StrongPity
+* Full aliases = [Promethium](https://thehackernews.com/2021/07/apt-hackers-distributed-android-trojan.html?utm_source=social_share)
+
+---

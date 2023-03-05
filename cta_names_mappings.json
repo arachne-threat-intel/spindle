@@ -344,5 +344,22 @@
   "Conti Team 2": {
   },
   "Conti Team 3": {
+  },
+  "Exotic Lily": {
+  },
+  "Mummy Spider": {
+    "full_aliases": ["Mealybug", "TA542", "GOLD CRESTWOOD", "ATK 104", "TEMP.Mixmaster", "UNC3443"]
+  },
+  "DarkSide": {
+    "full_aliases": ["GOLD WATERFALL"]
+  },
+  "REvil Group": {
+    "full_aliases": ["GOLD SOUTHFIELD", "Sodinokibi", "Pinchy Spider"]
+  },
+  "DeathStalker": {
+	  "full_aliases": ["Eviulnum"]
+  },
+  "StrongPity": {
+	  "full_aliases": ["Promethium"]
   }
 }

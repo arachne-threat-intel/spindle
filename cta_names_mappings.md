@@ -663,3 +663,6 @@
 * Name = AppMilad
 
 ---
+
+* Name = Earth Berberoka
+* Full Aliases = [GamblingPuppet, DiceyF](https://securelist.com/diceyf-deploys-gameplayerframework-in-online-casino-development-studio/107723/)

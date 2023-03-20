@@ -666,3 +666,10 @@
 
 * Name = Earth Berberoka
 * Full Aliases = [GamblingPuppet, DiceyF](https://securelist.com/diceyf-deploys-gameplayerframework-in-online-casino-development-studio/107723/)
+
+---
+
+Name = Scattered Spider
+Full aliases = [Roasted 0ktapus, UNC3944](https://www.crowdstrike.com/blog/scattered-spider-attempts-to-avoid-detection-with-bring-your-own-vulnerable-driver-tactic/)
+
+---

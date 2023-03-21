@@ -669,7 +669,10 @@
 
 ---
 
-Name = Scattered Spider
-Full aliases = [Roasted 0ktapus, UNC3944](https://www.crowdstrike.com/blog/scattered-spider-attempts-to-avoid-detection-with-bring-your-own-vulnerable-driver-tactic/)
+* Name = Scattered Spider
+* Full aliases = [Roasted 0ktapus, UNC3944](https://www.crowdstrike.com/blog/scattered-spider-attempts-to-avoid-detection-with-bring-your-own-vulnerable-driver-tactic/)
 
 ---
+
+* Name = KillNet
+* Full aliases = [Zatoichi](https://therecord.media/russia-or-ukraine-hacking-groups-take-sides/?msclkid=235244a7ba6611ec92f21c9bd3b8ee49)

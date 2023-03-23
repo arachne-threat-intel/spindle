@@ -676,3 +676,10 @@
 
 * Name = KillNet
 * Full aliases = [Zatoichi](https://therecord.media/russia-or-ukraine-hacking-groups-take-sides/?msclkid=235244a7ba6611ec92f21c9bd3b8ee49)
+
+---
+
+* Name = Urpage
+* Full aliases = [EHDEVEL, WINDSHIFT, THE WHITE COMPANY, BAHAMUT](https://blogs.blackberry.com/en/2020/10/blackberry-uncovers-massive-hack-for-hire-group-targeting-governments-businesses-human-rights-groups-and-influential-individuals)
+
+---

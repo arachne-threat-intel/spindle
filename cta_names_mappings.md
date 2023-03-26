@@ -683,3 +683,7 @@
 * Full aliases = [EHDEVEL, WINDSHIFT, THE WHITE COMPANY, BAHAMUT](https://blogs.blackberry.com/en/2020/10/blackberry-uncovers-massive-hack-for-hire-group-targeting-governments-businesses-human-rights-groups-and-influential-individuals)
 
 ---
+
+* Name = GOLD DUPONT
+
+---

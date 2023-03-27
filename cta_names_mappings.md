@@ -693,3 +693,7 @@
 * Country of organisation = [Russian Federation](https://www.mandiant.com/resources/blog/turla-galaxy-opportunity)
 
 ---
+
+* Name = Void Balaur
+
+---

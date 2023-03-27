@@ -687,3 +687,8 @@
 * Name = GOLD DUPONT
 
 ---
+
+* Name = Turla
+* Full aliases = [CTG-8875, ITG12, KRYPTON, Venomous Bear, Waterbug, Iron Hunter](https://www.secureworks.com/research/threat-profiles), [Uroburos](https://blog.talosintelligence.com/snake-campaign-few-words-about-uroburos/)
+
+---

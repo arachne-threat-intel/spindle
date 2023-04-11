@@ -378,8 +378,32 @@
   "KillNet": {
     "full_aliases": ["Zatoichi"]
   },
+  "Urpage": {
+    "full_aliases": ["EHDEVEL", "WINDSHIFT", "THE WHITE COMPANY", "BAHAMUT"]
+  },
+  "GOLD DUPONT": {
+  },
+  "Turla": {
+    "full_aliases": ["CTG-8875", "ITG12", "KRYPTON", "Venomous Bear", "Waterbug", "Iron Hunter", "Uroburos"]
+    "countries": ["RU"]
+  },
+  "Void Balaur": {
+    "full_aliases": ["Rockethack"]
+  },
   "TEMP.Hermit": {
   },
   "Kimsuky": {
+  },
+  "Lorec53": {
+  },
+  "MontysThree": {
+  },
+  "DarkHydrus": {
+  },
+  "LofyGang": {
+  },
+  "IAmTheKing": {
+  },
+  "IntelBroker": {
   }
 }

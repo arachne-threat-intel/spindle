@@ -730,3 +730,14 @@
 * Name = IntelBroker
 
 ---
+
+* Name = Gonjeshke Darande
+* Full aliases = [Predatory Sparrow](https://twitter.com/gonjeshkedarand?lang=en)
+
+---
+
+* Name = Indra
+
+---
+
+---

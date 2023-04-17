@@ -676,3 +676,68 @@
 
 * Name = KillNet
 * Full aliases = [Zatoichi](https://therecord.media/russia-or-ukraine-hacking-groups-take-sides/?msclkid=235244a7ba6611ec92f21c9bd3b8ee49)
+
+---
+
+* Name = Urpage
+* Full aliases = [EHDEVEL, WINDSHIFT, THE WHITE COMPANY, BAHAMUT](https://blogs.blackberry.com/en/2020/10/blackberry-uncovers-massive-hack-for-hire-group-targeting-governments-businesses-human-rights-groups-and-influential-individuals)
+
+---
+
+* Name = GOLD DUPONT
+
+---
+
+* Name = Turla
+* Full aliases = [CTG-8875, ITG12, KRYPTON, Venomous Bear, Waterbug, Iron Hunter](https://www.secureworks.com/research/threat-profiles), [Uroburos](https://blog.talosintelligence.com/snake-campaign-few-words-about-uroburos/)
+* Country of organisation = [Russian Federation](https://www.mandiant.com/resources/blog/turla-galaxy-opportunity)
+
+---
+
+* Name = Void Balaur
+* Full aliases = [Rockethack](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/the-far-reaching-attacks-of-the-void-balaur-cybermercenary-group)
+
+---
+
+* Name = TEMP.Hermit
+
+---
+
+* Name = Kimsuky
+
+---
+
+* Name = Lorec53
+
+---
+
+* Name = MontysThree
+
+---
+
+* Name = DarkHydrus
+
+---
+
+* Name = LofyGang
+
+---
+
+* Name = IAmTheKing
+
+---
+
+* Name = IntelBroker
+
+---
+
+* Name = Gonjeshke Darande
+* Full aliases = [Predatory Sparrow](https://twitter.com/gonjeshkedarand?lang=en)
+
+---
+
+* Name = Indra
+
+---
+
+---

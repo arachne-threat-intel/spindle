@@ -15,6 +15,8 @@ In the video below:
 - I pasted into the checker website and checked all 415 lines were pasted.
 - I corrected the errors.
 
+If you are struggling to address any JSON syntax errors, as a last-resort do proceed with your commit and flag this in your pull request via a comment.
+
 [json-validate.webm](https://user-images.githubusercontent.com/52256544/232485080-7c95d708-a574-41be-8e18-c3f61404cbe5.webm)
 
 ---

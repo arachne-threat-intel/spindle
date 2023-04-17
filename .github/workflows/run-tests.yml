@@ -1,0 +1,35 @@
+# This workflow will run Python tests with a variety of Python versions
+# Further docs here: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+# The name of this workflow
+name: Test-suite
+
+# We want this to occur for new commits on `main` and any PRs targeting `main`
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+# The actual jobs of this workflow
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    strategy:
+      # Don't fail-fast: i.e. let all other jobs continue if one fails
+      fail-fast: false
+      # We're testing Python versions 3.8+
+      matrix:
+        python-version: ["3.8", "3.9", "3.10"]
+
+    # The main steps: set-up Python & run tests
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Run the tests
+      run: |
+        python -m unittest discover tests/

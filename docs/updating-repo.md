@@ -2,6 +2,7 @@
 
 * [Branch Selection](#branch-selection)
 * [Committing Your Changes](#committing-your-changes)
+  * [Checking JSON syntax](#checking-json-syntax)
   * [Unable to Select Branch](#unable-to-select-branch)
 
 ## Branch Selection
@@ -22,11 +23,13 @@ With the new branch selected, navigate to the file you wish to edit. You can con
 
 ## Committing Your Changes
 
-**Before committing, please see [our docs on editing JSON files](updating-json-files.md) too.**
-
 When committing your changes, you will then be able to confirm which branch you are committing to
 
 ![commit-to-new-branch](https://user-images.githubusercontent.com/52256544/223460917-b6369517-7138-4e25-a31c-ecfe9b0ff5dc.png)
+
+### Checking JSON syntax
+
+You can check edited JSON files either before or after committing. Please see [our docs on editing JSON files](updating-json-files.md) for more info.
 
 ### Unable to Select Branch
 

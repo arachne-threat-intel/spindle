@@ -707,7 +707,9 @@
 
 ---
 
-* Name = Lorec53
+* Name = EMBER BEAR
+* Full aliases = [UAC-0056, Lorec53, Lorec Bear, Bleeding Bear, Saint Bear](https://www.crowdstrike.com/blog/who-is-ember-bear/)
+* Country of organisation = [Russian Federation](https://www.crowdstrike.com/blog/who-is-ember-bear/)
 
 ---
 

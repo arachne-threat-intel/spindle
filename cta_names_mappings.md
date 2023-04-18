@@ -193,12 +193,12 @@
 
 * Name = APT30
 * Organisation = [China's People’s Liberation Army Unit 78020](https://cdn2.hubspot.net/hubfs/454298/Project_CAMERASHY_ThreatConnect_Copyright_2015.pdf)
-* Country of organisation = [China](https://cdn2.hubspot.net/hubfs/454298/Project_CAMERASHY_ThreatConnect_Copyright_2015.pdf)
+* Country of organisation = [People's Republic of China](https://cdn2.hubspot.net/hubfs/454298/Project_CAMERASHY_ThreatConnect_Copyright_2015.pdf)
 
 ---
 
 * Name = APT31
-* Country of organisation = [China](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
+* Country of organisation = [People's Republic of China](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
 
 ---
 
@@ -578,7 +578,7 @@
 ---
 
 * Name = HAFNIUM
-* Country of organisation = [China](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
+* Country of organisation = [People's Republic of China](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
 
 ---
 
@@ -739,5 +739,15 @@
 * Name = Indra
 
 ---
+
+* Name = 8220 Gang
+
+---
+
+* Name = Hagga
+
+---
+
+* Name = IndigoZebra
 
 ---

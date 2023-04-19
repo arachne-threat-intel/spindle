@@ -1,11 +1,13 @@
 {
   "APT1": {
     "full_aliases": ["Comment Crew"],
-    "organisations": ["China’s People’s Liberation Army (PLA) General Staff Department’s (GSD) 3rd Department, Military Unit Cover Designator (MUCD) Unit 61398"]
+    "organisations": ["China’s People’s Liberation Army (PLA) General Staff Department’s (GSD) 3rd Department, Military Unit Cover Designator (MUCD) Unit 61398"],
+    "countries": ["CN"]
   },
   "APT2": {
     "full_aliases": ["Putter Panda", "MSUpdater Group"],
-    "organisations": ["China's People’s Liberation Army (PLA) General Staff Department's (GSD) 3rd Department, 12th Bureau, Military Unit Cover Designator (MUCD) 61486"]
+    "organisations": ["China's People’s Liberation Army (PLA) General Staff Department's (GSD) 3rd Department, 12th Bureau, Military Unit Cover Designator (MUCD) 61486"],
+    "countries": ["CN"]
   },
   "APT3": {
     "full_aliases": ["UPS Team", "Gothic Panda", "TG-0110", "BRONZE MAYFAIR", "Buckeye", "Red Sylvan"]
@@ -422,6 +424,7 @@
   "TA410": {
   },
   "LuminousMoth": {
+    "countries": ["CN"]
   },
   "MalKamak": {
   }

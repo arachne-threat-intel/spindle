@@ -110,6 +110,8 @@
     "countries": ["IR"]
   },
   "APT34": {
+    "full_aliases": ["EUROPIUM", "Hazel Sandstorm", "Cobalt Gypsy", "OilRig"],
+    "countries": ["IR"]
   },
   "CHRYSENE": {
   },
@@ -149,7 +151,8 @@
     "campaigns": ["Operation AppleJeus", "Operation Dream Job"]
   },
   "BlueNorOff": {
-    "full_aliases": ["Stardust Chollima", "BeagleBoyz", "CTG-6459", "NICKEL GLADSTONE"]
+    "full_aliases": ["Stardust Chollima", "BeagleBoyz", "CTG-6459", "NICKEL GLADSTONE", "COPERNICIUM", "Genie Spider", "Sapphire Sleet"],
+    "countries": ["KP"]
   },
   "AndAriel": {
     "full_aliases": ["Silent Chollima", "Dark Seoul", "Rifle", "Wassonite", "NICKEL HYATT", "PLUTONIUM", "Stonefly"],
@@ -169,6 +172,8 @@
     "countries": ["IR"]
   },
   "APT40": {
+    "full_aliases": ["GADOLINIUM", "Leviathan", "TEMP.Periscope", "Kryptonite Panda", "Gingham Typhoon"],
+    "countries": ["CN"]
   },
   "APT41": {
     "full_aliases": ["BARIUM", "Brass Typhoon"],
@@ -193,7 +198,7 @@
   },
   "FIN7": {
     "full_aliases": ["Carbon Spider", "Calcium", "Carbanak", "Navigator", "TelePort Crew", "GOLD NIAGARA", "Anunak",
-      "ELBRUS", "Black Basta"]
+      "ELBRUS", "Black Basta", "Sangria Tempest"]
   },
   "FIN8": {
   },
@@ -306,7 +311,8 @@
     "full_aliases": ["BRONZE PRESIDENT", "HoneyMyte", "Red Lich", "Temp.Hex", "Earth Preta"]
   },
   "Dark Hotel": {
-    "full_aliases": ["TUNGSTEN BRIDGE", "CTG-1948", "DUBNIUM"]
+    "full_aliases": ["TUNGSTEN BRIDGE", "CTG-1948", "DUBNIUM", "Zigzag Hail", "Tapaoux"],
+    "countries": ["KR"]
   },
   "UNC2630": {
   },
@@ -437,6 +443,16 @@
   },
   "Smoke Sandstorm": {
     "full_aliases": ["BOHRIUM"],
+    "countries": ["IR"]
+  },
+  "Spandex Tempest": {
+    "full_aliases": ["TA505"]
+  },
+  "Charcoal Typhoon": {
+    "full_aliases": ["ControlX"]
+  },
+  "TortoiseShell": {
+    "full_aliases": ["Houseblend", "CURIUM", "TA456", "Crimson Sandstorm"],
     "countries": ["IR"]
   }
 }

@@ -101,7 +101,8 @@
     "countries": ["CN"]
   },
   "APT32": {
-    "full_aliases": ["WOODLAWN", "SCWX CTU", "TIN WOODLAWN", "BISMUTH"]
+    "full_aliases": ["WOODLAWN", "SCWX CTU", "TIN WOODLAWN", "BISMUTH", "OceanLotus", "Canvas Cyclone"],
+    "countries": ["VN"]
   },
   "APT33": {
     "full_aliases": ["Elfin", "Refined Kitten", "Magnallium", "Holmium", "COBALT TRINITY", "TA451"],
@@ -135,7 +136,8 @@
   },
   "TA427": {
   },
-  "CERIUM": {
+  "Ruby Sleet": {
+    "full_aliases": ["CERIUM"]
     "countries": ["KP"]
   },
   "APT38": {
@@ -169,7 +171,9 @@
   "APT40": {
   },
   "APT41": {
-    "subgroups": ["Earth Lusca", "Earth Longzhi"]
+    "full_aliases": ["BARIUM", "Brass Typhoon"],
+    "subgroups": ["Earth Lusca", "Earth Longzhi"],
+    "countries": ["CN"]
   },
   "Grayfly": {
   },
@@ -275,7 +279,7 @@
     "campaigns": ["Operation Parliament"]
   },
   "Dragonfly": {
-    "full_aliases": ["Energetic Bear", "Koala", "Iron Liberty", "BROMINE", "BERSERK BEAR", "Crouching Yeti", "Temp.Isotope"],
+    "full_aliases": ["Energetic Bear", "Koala", "Iron Liberty", "BROMINE", "BERSERK BEAR", "Crouching Yeti", "Temp.Isotope", "Ghost Blizzard"],
     "organisations": ["16th Centre", "Military Unit 71330 of the Special Communications and Information Service",
       "Federal Security Service of the Russian Federation", "FSB", "Pavel Aleksandrovich Akulov",
       "Mikhail Mikhailovich Gavrilov", "Marat Valeryevich Tyukov"],
@@ -307,6 +311,8 @@
   "UNC2630": {
   },
   "Agrius": {
+    "full_aliases": ["Deadwood", "BlackShadow", "SharpBoys", "AMERICIUM", "Pink Sandstorm"],
+    "countries": ["IR"]
   },
   "DLTminer": {
   },
@@ -327,7 +333,8 @@
     "countries": ["CN"]
   },
   "Gamaredon": {
-    "full_aliases": ["Armageddon", "Blue Otso", "Dancing Salome", "Primitive Bear", "WinterFlounder", "IRON TILDEN"]
+    "full_aliases": ["Armageddon", "Blue Otso", "Dancing Salome", "Primitive Bear", "WinterFlounder", "IRON TILDEN", "ACTINIUM", "Aqua Blizzard"],
+    "countries": ["RU"]
   },
   "InvisiMole": {
   },
@@ -427,5 +434,9 @@
     "countries": ["CN"]
   },
   "MalKamak": {
+  },
+  "Smoke Sandstorm": {
+    "full_aliases": ["BOHRIUM"],
+    "countries": ["IR"]
   }
 }

@@ -205,7 +205,8 @@
 ---
 
 * Name = APT32
-* Full aliases = [WOODLAWN, SCWX CTU, TIN WOODLAWN](https://www.secureworks.com/research/threat-profiles/tin-woodlawn), [BISMUTH](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi) 
+* Full aliases = [WOODLAWN, SCWX CTU, TIN WOODLAWN](https://www.secureworks.com/research/threat-profiles/tin-woodlawn), [BISMUTH](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi), [OceanLotus, Canvas Cyclone](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [Socialist Republic of Vietnam](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
 
@@ -261,15 +262,16 @@
 
 ---
 
-* Name = CERIUM
-* Country of organisation = [North Korea](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
+* Name = Ruby Sleet 
+* Full aliases = [CERIUM](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [Democratic People's Republic of Korea](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
 
 ---
 
 * Name = APT38
 * Full aliases = [Lazarus Group](https://www.fireeye.com/current-threats/apt-groups.html#north-korea), [Hidden Cobra, Guardians of Peace](https://www.cisa.gov/uscert/ncas/alerts/TA17-164A), [NICKEL ACADEMY](https://www.secureworks.com/about/press/media-alert-secureworks-discovers-north-korean-cyber-threat-group-lazarus-spearphishing), [Black Artemis, COVELLITE, CTG-2460, Dark Seoul, High Anonymous, Labyrinth Chollima, New Romanic Cyber Army Team, NNPT Group, Who Am I?, Whois Team, ZINC](https://www.secureworks.com/research/threat-profiles), [TA404](https://www.proofpoint.com/us/blog/threat-insight/above-fold-and-your-inbox-tracing-state-aligned-activity-targeting-journalists), [APT-C-26](https://mp-weixin-qq-com.translate.goog/s/W4hkBRJnwN1G32QCpaNNoA?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp&utm_source=substack&utm_medium=email)
 * Subgroups = [AndAriel](https://home.treasury.gov/news/press-releases/sm774)
-* Country of organisation = [North Korea](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
+* Country of organisation = [Democratic People's Republic of Korea](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
 * Campaigns = [Operation AppleJeus](https://www.cisa.gov/uscert/ncas/alerts/aa21-048a), [Operation Dream Job](https://www.clearskysec.com/wp-content/uploads/2020/08/Dream-Job-Campaign.pdf)
 
 ---
@@ -281,7 +283,7 @@
 
 * Name = AndAriel
 * Full aliases = [Silent Chollima](https://adversary.crowdstrike.com/en-US/adversary/silent-chollima/), [Dark Seoul, Rifle, Wassonite](https://www.hhs.gov/sites/default/files/dprk-cyber-espionage.pdf), [NICKEL HYATT](https://www.secureworks.com/research/threat-profiles), [PLUTONIUM](https://www.microsoft.com/security/blog/2022/07/14/north-korean-threat-actor-targets-small-and-midsize-businesses-with-h0lygh0st-ransomware/), [Stonefly](https://securelist.com/apt-trends-report-q3-2022/107787/)
-* Country of organisation = [North Korea](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
+* Country of organisation = [Democratic People's Republic of Korea](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
 
 ---
 
@@ -313,7 +315,9 @@
 ---
 
 * Name = APT41
+* Full aliases = [BARIUM, Brass Typhoon](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Subgroups = [Earth Lusca](https://i.blackhat.com/Asia-22/Thursday-Materials/AS-22-LeonSilvia-NextGenPlugXShadowPad.pdf), [Earth Longzhi](https://www.trendmicro.com/en_us/research/22/k/hack-the-real-box-apt41-new-subgroup-earth-longzhi.html)
+* Country of organisation = [People's Republic of China](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
 
@@ -497,7 +501,7 @@
 ---
 
 * Name = Dragonfly
-* Full aliases = [Energetic Bear, Koala, Iron Liberty](https://www.wired.com/story/russian-hacking-teams-infrastructure/), [BROMINE](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi), [BERSERK BEAR, Crouching Yeti, Temp.Isotope](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
+* Full aliases = [Energetic Bear, Koala, Iron Liberty](https://www.wired.com/story/russian-hacking-teams-infrastructure/), [BROMINE](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi), [BERSERK BEAR, Crouching Yeti, Temp.Isotope](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a), [Ghost Blizzard](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Department = [16th Centre, Military Unit 71330 of the Special Communications and Information Service](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
 * Organisation = [Federal Security Service, FSB](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
 * Country of organisation = [Russian Federation](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
@@ -549,6 +553,8 @@
 ---
 
 * Name = Agrius
+* Full aliases = [Deadwood, BlackShadow, SharpBoys, AMERICIUM, Pink Sandstorm](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [Islamic Republic of Iran](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
 
@@ -585,7 +591,8 @@
 ---
 
 * Name = Gamaredon 
-* Full aliases = [Armageddon, Blue Otso, Dancing Salome, Primitive Bear, WinterFlounder, IRON TILDEN](https://www.secureworks.com/research/threat-profiles)
+* Full aliases = [Armageddon, Blue Otso, Dancing Salome, Primitive Bear, WinterFlounder, IRON TILDEN](https://www.secureworks.com/research/threat-profiles), [ACTINIUM, Aqua Blizzard](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [Russian Federation](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
 
@@ -766,5 +773,11 @@
 ---
 
 * Name = MalKamak
+
+---
+
+* Name = Smoke Sandstorm
+* Full aliases = [BOHRIUM](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [Islamic Republic of Iran](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---

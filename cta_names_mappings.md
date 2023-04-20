@@ -218,7 +218,9 @@
 ---
 
 * Name = APT34
-
+* Full aliases = [EUROPIUM, Hazel Sandstorm, Cobalt Gypsy, OilRig](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [Islamic Republic of Iran](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* 
 ---
 
 * Name = CHRYSENE
@@ -277,7 +279,8 @@
 ---
 
 * Name = BlueNorOff
-* Full aliases = [Stardust Chollima](https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-april-stardust-chollima/), [BeagleBoyz](https://us-cert.cisa.gov/ncas/alerts/aa20-239a), [CTG-6459, NICKEL GLADSTONE](https://www.secureworks.com/research/threat-profiles)
+* Full aliases = [Stardust Chollima](https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-april-stardust-chollima/), [BeagleBoyz](https://us-cert.cisa.gov/ncas/alerts/aa20-239a), [CTG-6459, NICKEL GLADSTONE](https://www.secureworks.com/research/threat-profiles), [COPERNICIUM, Genie Spider, Sapphire Sleet](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [Democratic People's Republic of Korea](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
 
 ---
 
@@ -311,6 +314,8 @@
 ---
 
 * Name = APT40
+* Full aliases = [GADOLINIUM, Leviathan, TEMP.Periscope, Kryptonite Panda, Gingham Typhoon](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [People's Republic of China](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
 
@@ -354,7 +359,7 @@
 ---
 
 * Name = FIN7
-* Full aliases = [Carbon Spider](https://www.crowdstrike.com/blog/arrests-put-new-focus-on-carbon-spider-adversary-group/), [Calcium, Carbanak, Navigator, TelePort Crew, GOLD NIAGARA](https://www.secureworks.com/research/threat-profiles), [Anunak](https://www.securonix.com/blog/securonix-threat-research-carbanak-fin7-anunak-reappears-causes-losses/), [ELBRUS](https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/#ELBRUS), [Black Basta](https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/)
+* Full aliases = [Carbon Spider](https://www.crowdstrike.com/blog/arrests-put-new-focus-on-carbon-spider-adversary-group/), [Calcium, Carbanak, Navigator, TelePort Crew, GOLD NIAGARA](https://www.secureworks.com/research/threat-profiles), [Anunak](https://www.securonix.com/blog/securonix-threat-research-carbanak-fin7-anunak-reappears-causes-losses/), [ELBRUS](https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/#ELBRUS), [Black Basta](https://www.sentinelone.com/labs/black-basta-ransomware-attacks-deploy-custom-edr-evasion-tools-tied-to-fin7-threat-actor/), [Sangria Tempest](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
 
@@ -544,7 +549,8 @@
 ---
 
 * Name = Dark Hotel
-* Full aliases =  [TUNGSTEN BRIDGE, CTG-1948, DUBNIUM](https://www.secureworks.com/research/threat-profiles)
+* Full aliases =  [TUNGSTEN BRIDGE, CTG-1948, DUBNIUM](https://www.secureworks.com/research/threat-profiles), [Zigzag Hail, Tapaoux](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [Republic of Korea](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
 
@@ -779,5 +785,22 @@
 * Name = Smoke Sandstorm
 * Full aliases = [BOHRIUM](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Country of organisation = [Islamic Republic of Iran](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = Spandex Tempest
+* Full aliases = [TA505](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = Charcoal Typhoon
+* Full aliases = [ControlX](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi), [CHROMIUM](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [People's Republic of China](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
+
+---
+
+* Name = TortoiseShell
+* Full Aliases = [Houseblend, CURIUM](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi), [TA456](https://www.proofpoint.com/us/blog/threat-insight/ta453-refuses-be-bound-expectations), [Crimson Sandstorm](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [Islamic Republic of Iran](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
 
 ---

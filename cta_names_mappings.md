@@ -25,8 +25,9 @@
 ---
 
 * Name = APT5
-* Full aliases = [BRONZE FLEETWOOD, DPD, Keyhole Panda, Poisoned Flight, TG-2754](https://www.secureworks.com/research/threat-profiles), [MANGANESE](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
+* Full aliases = [BRONZE FLEETWOOD, DPD, Keyhole Panda, Poisoned Flight, TG-2754](https://www.secureworks.com/research/threat-profiles), [MANGANESE](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi), [TABCTENG, Mulberry Typhoon](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide) 	
 * Organisation = 
+* Country of organisation = [People's Republic of China](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
 
 ---
 
@@ -95,9 +96,10 @@
 ---
 
 * Name = APT15
-* Full aliases = 
+* Full aliases = [NICKEL, Nylon Typhoon, ke3chang, Vixen Panda](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Associations = [Winnti Umbrella](https://securityaffairs.co/wordpress/72208/apt/analyzing-winnti-umbrella.html)
 * Organisation = 
+* Country of organisation = [People's Republic of China](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
 
@@ -187,7 +189,7 @@
 ---
 
 * Name = APT29
-* Full aliases = [Cozy Bear, The Dukes](https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/), [Nobelium](https://www.bleepingcomputer.com/news/security/microsoft-russian-hackers-used-4-new-malware-in-usaid-phishing/), [UNC2452](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi), [YTTRIUM, IRON HEMLOCK, Dark Halo, NOBELIUM, StellarParticle, UNC2452](https://www.secureworks.com/research/threat-profiles), [Blue Kitsune](https://www.pwc.co.uk/issues/cyber-security-services/insights/cleaning-up-after-wellmess.html), [CozyDuke, NobleBaron](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a), [HotCousin](https://securelist.com/apt-trends-report-q3-2022/107787/)
+* Full aliases = [Cozy Bear, The Dukes](https://www.welivesecurity.com/2019/10/17/operation-ghost-dukes-never-left/), [Nobelium](https://www.bleepingcomputer.com/news/security/microsoft-russian-hackers-used-4-new-malware-in-usaid-phishing/), [UNC2452](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi), [YTTRIUM, IRON HEMLOCK, Dark Halo, NOBELIUM, StellarParticle, UNC2452](https://www.secureworks.com/research/threat-profiles), [Blue Kitsune](https://www.pwc.co.uk/issues/cyber-security-services/insights/cleaning-up-after-wellmess.html), [CozyDuke, NobleBaron](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a), [HotCousin](https://securelist.com/apt-trends-report-q3-2022/107787/), [Midnight Blizzard](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Organisation = [Foreign Intelligence Service, SVR](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
 * Country of organisation = [Russian Federation](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
 
@@ -211,7 +213,7 @@
 ---
 
 * Name = APT33
-* Full aliases = [Elfin, Refined Kitten, Magnallium, Holmium](https://brica.de/alerts/alert/public/1277530/hunting-apt33-campaign-infrastructure/), [COBALT TRINITY, TA451](https://www.secureworks.com/research/threat-profiles)
+* Full aliases = [Elfin, Refined Kitten, Magnallium, Holmium](https://brica.de/alerts/alert/public/1277530/hunting-apt33-campaign-infrastructure/), [COBALT TRINITY, TA451](https://www.secureworks.com/research/threat-profiles), [Peach Sandstorm](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Organisation = [Islamic Revolutionary Guard Corps](https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf)
 * Country of organisation = [Islamic Republic of Iran](https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf)
 
@@ -455,9 +457,10 @@
 ---
 
 * Name = Sandworm
-* Full aliases = [Electrum](https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america), [Telebots, BlackEnergy](https://www.zdnet.com/article/us-charges-russian-hackers-behind-notpetya-killdisk-olympicdestroyer-attacks/#ftag=RSSbaffb68), [Quedagh](https://blog-assets.f-secure.com/wp-content/uploads/2019/10/15163408/BlackEnergy_Quedagh.pdf), [Voodoo Bear](https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-january-voodoo-bear/), [CTG-7263, Hades, OlympicDestroyer, IRIDIUM, TEMP.Noble, IRON VIKING](https://www.secureworks.com/research/threat-profiles)
+* Full aliases = [Electrum](https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america), [Telebots, BlackEnergy](https://www.zdnet.com/article/us-charges-russian-hackers-behind-notpetya-killdisk-olympicdestroyer-attacks/#ftag=RSSbaffb68), [Quedagh](https://blog-assets.f-secure.com/wp-content/uploads/2019/10/15163408/BlackEnergy_Quedagh.pdf), [Voodoo Bear](https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-january-voodoo-bear/), [CTG-7263, Hades, OlympicDestroyer, IRIDIUM, TEMP.Noble, IRON VIKING](https://www.secureworks.com/research/threat-profiles), [Seashell Blizzard](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Department = [Unit 74455 of the Main Center of Special Technologies, GTsST](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
 * Organisation =  [Main Directorate of the General Staff of the Armed Forces, GRU](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
+* Country of organisation = [Russian Federation](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
 
@@ -475,7 +478,7 @@
 ---
 
 * Name = Muddy Water
-* Full aliases = [Cobalt Ultser, Seed Worm, TEMP.Zagros, Static Kitten](https://www.secureworks.com/blog/business-as-usual-for-iranian-operations-despite-increased-tensions), [Earth Vetala](https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf)
+* Full aliases = [Cobalt Ultser, Seed Worm, TEMP.Zagros, Static Kitten](https://www.secureworks.com/blog/business-as-usual-for-iranian-operations-despite-increased-tensions), [Earth Vetala](https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf), [MERCURY, Mango Sandstorm](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Organisation = [Ministry of Intelligence](https://www.cybercom.mil/Media/News/Article/2897570/iranian-intel-cyber-suite-of-malware-uses-open-source-tools/)
 * Country of organisation = [Islamic Republic of Iran](https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf)
 
@@ -591,7 +594,8 @@
 
 ---
 
-* Name = HAFNIUM
+* Name = Silk Typhoon
+* Full aliases = [HAFNIUM](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Country of organisation = [People's Republic of China](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
 
 ---
@@ -704,7 +708,7 @@
 ---
 
 * Name = Turla
-* Full aliases = [CTG-8875, ITG12, KRYPTON, Venomous Bear, Waterbug, Iron Hunter](https://www.secureworks.com/research/threat-profiles), [Uroburos](https://blog.talosintelligence.com/snake-campaign-few-words-about-uroburos/)
+* Full aliases = [CTG-8875, ITG12, KRYPTON, Venomous Bear, Waterbug, Iron Hunter](https://www.secureworks.com/research/threat-profiles), [Uroburos](https://blog.talosintelligence.com/snake-campaign-few-words-about-uroburos/), [Snake, Secret Blizzard](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Country of organisation = [Russian Federation](https://www.mandiant.com/resources/blog/turla-galaxy-opportunity)
 
 ---
@@ -795,12 +799,42 @@
 
 * Name = Charcoal Typhoon
 * Full aliases = [ControlX](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi), [CHROMIUM](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
-* Country of organisation = [People's Republic of China](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
+* Country of organisation = [People's Republic of China](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
 
 * Name = TortoiseShell
-* Full Aliases = [Houseblend, CURIUM](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi), [TA456](https://www.proofpoint.com/us/blog/threat-insight/ta453-refuses-be-bound-expectations), [Crimson Sandstorm](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Full aliases = [Houseblend, CURIUM](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi), [TA456](https://www.proofpoint.com/us/blog/threat-insight/ta453-refuses-be-bound-expectations), [Crimson Sandstorm](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Country of organisation = [Islamic Republic of Iran](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
+
+---
+
+* Name = Granite Typhoon
+* Full aliases = [GALLIUM](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [People's Republic of China](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = DSIRF
+* Full aliases = [KNOTWEED](https://www.microsoft.com/security/blog/2022/07/27/untangling-knotweed-european-private-sector-offensive-actor-using-0-day-exploits/), [Denim Tsunami](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = Pearl Sleet
+* Full aliases = [LAWRENCIUM](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [Democratic People's Republic of Korea](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = Emennet Pasargad 
+* Full aliases = [NEPTUNIUM](https://www.microsoft.com/en-us/security/business/security-insider/uncategorized/iran-responsible-for-charlie-hebdo-attacks/), [Holy Souls](https://web.archive.org/web/20230109230105/https://breached.vc/Thread-Personal-information-of-230000-customers-of-charliehebdo-fr), [Cotton Sandstorm, Vice Leaker](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [Islamic Republic of Iran](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = Opal Sleet 
+* Aliases = [Konni, OSMIUM](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Organisation = 
+* Country of organisation = [Democratic People's Republic of Korea](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
 
 ---

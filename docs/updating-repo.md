@@ -27,6 +27,8 @@ When committing your changes, you will then be able to confirm which branch you 
 
 ![commit-to-new-branch](https://user-images.githubusercontent.com/52256544/223460917-b6369517-7138-4e25-a31c-ecfe9b0ff5dc.png)
 
+You are advised to **create a pull request as soon as possible** so you are able to see any errors earlier (versus at the time where you are ready for review).
+
 ### Checking JSON syntax
 
 You can check edited JSON files either before or after committing. Please see [our docs on editing JSON files](updating-json-files.md) for more info.

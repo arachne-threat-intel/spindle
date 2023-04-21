@@ -177,14 +177,14 @@
 ---
 
 * Name = APT28
-* Full aliases = [Fancy Bear, Sofacy, Strontium, Grizzly Steppe](https://www.zdnet.com/article/german-authorities-charge-russian-hacker-for-2015-bundestag-hack/), [Sednit, SIG40](https://www.crysys.hu/publications/files/tedi/ukatemicrysys_territorialdispute.pdf), [Group 74, PawnStorm, Snakemackerel, TG-4127, Tsar Team](https://www.secureworks.com/research/threat-profiles), [Blue Athena](https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/threat-actor-of-in-tur-est.html), [IRON TWILIGHT, Swallowtail, Threat Group-4127](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
+* Full aliases = [Fancy Bear, Sofacy, Strontium, Grizzly Steppe](https://www.zdnet.com/article/german-authorities-charge-russian-hacker-for-2015-bundestag-hack/), [Sednit, SIG40](https://www.crysys.hu/publications/files/tedi/ukatemicrysys_territorialdispute.pdf), [Group 74, PawnStorm, Snakemackerel, TG-4127, Tsar Team](https://www.secureworks.com/research/threat-profiles), [Blue Athena](https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/threat-actor-of-in-tur-est.html), [IRON TWILIGHT, Swallowtail, Threat Group-4127](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a), [Forest Blizzard](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide) 	
 * Organisation = [Unit 26165 of the 85th Main Special Service Center](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
 * Country of organisation = [Russian Federation](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
 
 ---
 
 * Name = Zebrocy
-* Full aliases = [PETROVITE](https://github.com/Panopticon-Project/panopticon-Zebrocy/blob/master)
+* Full aliases = [PETROVITE](https://github.com/Panopticon-Project/panopticon-Zebrocy/blob/master/2021%20ICS%20OT%20Cybersecurity%20Year%20In%20Review%20-%20Dragos%202021.zip)
 
 ---
 
@@ -196,12 +196,14 @@
 ---
 
 * Name = APT30
+* Full aliases = [RADIUM, Raspberry Typhoon, LotusBlossom](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Organisation = [China's People’s Liberation Army Unit 78020](https://cdn2.hubspot.net/hubfs/454298/Project_CAMERASHY_ThreatConnect_Copyright_2015.pdf)
 * Country of organisation = [People's Republic of China](https://cdn2.hubspot.net/hubfs/454298/Project_CAMERASHY_ThreatConnect_Copyright_2015.pdf)
 
 ---
 
 * Name = APT31
+* Full aliases = [ZIRCONIUM, Violet Typhoon](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Country of organisation = [People's Republic of China](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
 
 ---
@@ -230,6 +232,7 @@
 ---
 
 * Name = APT35
+* Full aliases = [PHOSPHORUS, Mint Sandstorm, Charming Kitten](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Subgroups = [DEV-0270](https://www.microsoft.com/security/blog/2022/09/07/profiling-dev-0270-phosphorus-ransomware-operations/)
 * Organisation = [Islamic Revolutionary Guard Corps](https://www.mandiant.com/media/17826)
 * Country of organisation = [Islamic Republic of Iran](https://www.mandiant.com/media/17826)
@@ -273,7 +276,7 @@
 ---
 
 * Name = APT38
-* Full aliases = [Lazarus Group](https://www.fireeye.com/current-threats/apt-groups.html#north-korea), [Hidden Cobra, Guardians of Peace](https://www.cisa.gov/uscert/ncas/alerts/TA17-164A), [NICKEL ACADEMY](https://www.secureworks.com/about/press/media-alert-secureworks-discovers-north-korean-cyber-threat-group-lazarus-spearphishing), [Black Artemis, COVELLITE, CTG-2460, Dark Seoul, High Anonymous, Labyrinth Chollima, New Romanic Cyber Army Team, NNPT Group, Who Am I?, Whois Team, ZINC](https://www.secureworks.com/research/threat-profiles), [TA404](https://www.proofpoint.com/us/blog/threat-insight/above-fold-and-your-inbox-tracing-state-aligned-activity-targeting-journalists), [APT-C-26](https://mp-weixin-qq-com.translate.goog/s/W4hkBRJnwN1G32QCpaNNoA?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp&utm_source=substack&utm_medium=email)
+* Full aliases = [Lazarus Group](https://www.fireeye.com/current-threats/apt-groups.html#north-korea), [Hidden Cobra, Guardians of Peace](https://www.cisa.gov/uscert/ncas/alerts/TA17-164A), [NICKEL ACADEMY](https://www.secureworks.com/about/press/media-alert-secureworks-discovers-north-korean-cyber-threat-group-lazarus-spearphishing), [Black Artemis, COVELLITE, CTG-2460, Dark Seoul, High Anonymous, Labyrinth Chollima, New Romanic Cyber Army Team, NNPT Group, Who Am I?, Whois Team, ZINC](https://www.secureworks.com/research/threat-profiles), [TA404](https://www.proofpoint.com/us/blog/threat-insight/above-fold-and-your-inbox-tracing-state-aligned-activity-targeting-journalists), [APT-C-26](https://mp-weixin-qq-com.translate.goog/s/W4hkBRJnwN1G32QCpaNNoA?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp&utm_source=substack&utm_medium=email), [ZINC, Diamond Sleet](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Subgroups = [AndAriel](https://home.treasury.gov/news/press-releases/sm774)
 * Country of organisation = [Democratic People's Republic of Korea](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
 * Campaigns = [Operation AppleJeus](https://www.cisa.gov/uscert/ncas/alerts/aa21-048a), [Operation Dream Job](https://www.clearskysec.com/wp-content/uploads/2020/08/Dream-Job-Campaign.pdf)
@@ -356,7 +359,7 @@
 ---
 
 * Name = FIN6
-* Full aliases = [ITG08, MageCart Group 6, Skeleton Spider, White Giant, GOLD FRANKLIN](https://www.secureworks.com/research/threat-profiles)
+* Full aliases = [ITG08, MageCart Group 6, Skeleton Spider, White Giant, GOLD FRANKLIN](https://www.secureworks.com/research/threat-profiles), [TAAL, Camouflage Tempest](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
 
@@ -703,7 +706,8 @@
 
 ---
 
-* Name = GOLD DUPONT
+* Name = Tomato Tempest
+* Full Aliases = [SPURR, Vatet](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide), [GOLD DUPONT](https://www.secureworks.com/research/threat-profiles)
 
 ---
 
@@ -815,8 +819,9 @@
 
 ---
 
-* Name = DSIRF
-* Full aliases = [KNOTWEED](https://www.microsoft.com/security/blog/2022/07/27/untangling-knotweed-european-private-sector-offensive-actor-using-0-day-exploits/), [Denim Tsunami](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Name = Denim Tsunami
+* Full aliases = [KNOTWEED](https://www.microsoft.com/security/blog/2022/07/27/untangling-knotweed-european-private-sector-offensive-actor-using-0-day-exploits/)
+* Organisation = [DSIRF](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
 
@@ -836,5 +841,40 @@
 * Aliases = [Konni, OSMIUM](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Organisation = 
 * Country of organisation = [Democratic People's Republic of Korea](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
+
+---
+
+* Name = Wine Tempest
+* Full aliases = [PARINACOTA, Wadhrama](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = Plaid Rain
+* Full aliases = [POLONIUM](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [Republic of Lebanon](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = Fox Kitten
+* Full aliases = [RUBIDIUM, Parasite](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi), [COBALT FOXGLOVE, Pioneer Kitten](https://www.secureworks.com/research/threat-profiles), [UNC757](https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf), [Lemon Sandstorm](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [Islamic Republic of Iran](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
+
+---
+
+* Name = Star Blizzard 	
+* Full aliases = [SEABORGIUM, Callisto, Reuse Team](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [Russian Federation](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = Sea Turtle
+* Aliases = [SILICON, UNC1326](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi), [Marbled Dust](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [Republic of Türkiye](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
+
+---
+
+* Name = Caramel Tsunami
+* Full aliases = [SOURGUM](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Organisation = [Candiru](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---

@@ -16,7 +16,8 @@
     "full_aliases": ["Maverick Panda", "Sykipot Group", "Wisp", "BRONZE EDISON", "TG-0623"]
   },
   "APT5": {
-    "full_aliases": ["BRONZE FLEETWOOD", "DPD", "Keyhole Panda", "Poisoned Flight", "TG-2754", "MANGANESE"]
+    "full_aliases": ["BRONZE FLEETWOOD", "DPD", "Keyhole Panda", "Poisoned Flight", "TG-2754", "MANGANESE", "TABCTENG", "Mulberry Typhoon"],
+    "countries": ["CN"]
   },
   "APT6": {
   },
@@ -46,7 +47,9 @@
   "APT14": {
   },
   "APT15": {
-    "associations": ["Winnti Umbrella"]
+    "full_aliases": ["NICKEL", "Nylon Typhoon", "ke3chang", "Vixen Panda"],
+    "associations": ["Winnti Umbrella"],
+    "countries": ["CN"]
   },
   "APT16": {
   },
@@ -89,7 +92,7 @@
   },
   "APT29": {
     "full_aliases": ["Cozy Bear", "The Dukes", "Nobelium", "UNC2452", "YTTRIUM", "IRON HEMLOCK", "Dark Halo", "NOBELIUM",
-      "StellarParticle", "UNC2452", "Blue Kitsune", "CozyDuke", "NobleBaron", "HotCousin"],
+      "StellarParticle", "UNC2452", "Blue Kitsune", "CozyDuke", "NobleBaron", "HotCousin", "Midnight Blizzard"],
     "organisations": ["Foreign Intelligence Service", "SVR"],
     "countries": ["RU"]
   },
@@ -105,7 +108,7 @@
     "countries": ["VN"]
   },
   "APT33": {
-    "full_aliases": ["Elfin", "Refined Kitten", "Magnallium", "Holmium", "COBALT TRINITY", "TA451"],
+    "full_aliases": ["Elfin", "Refined Kitten", "Magnallium", "Holmium", "COBALT TRINITY", "TA451", "Peach Sandstorm"],
     "organisations": ["Islamic Revolutionary Guard Corps"],
     "countries": ["IR"]
   },
@@ -253,10 +256,11 @@
   },
   "Sandworm": {
     "full_aliases": ["Electrum", "Telebots", "BlackEnergy", "Quedagh", "Voodoo Bear", "CTG-7263",
-      "Hades", "OlympicDestroyer", "IRIDIUM", "TEMP.Noble", "IRON VIKING"],
+      "Hades", "OlympicDestroyer", "IRIDIUM", "TEMP.Noble", "IRON VIKING", "Seashell Blizzard"],
     "subgroups": ["Kamacite"],
     "organisations": ["Unit 74455 of the Main Center of Special Technologies", "GTsST",
-      "Main Directorate of the General Staff of the Armed Forces", "GRU"]
+      "Main Directorate of the General Staff of the Armed Forces", "GRU"],
+    "countries": ["RU"]
   },
   "Black Energy": {
   },
@@ -265,7 +269,7 @@
   "Kamacite": {
   },
   "Muddy Water": {
-    "full_aliases": ["Cobalt Ultser", "Seed Worm", "TEMP.Zagros", "Static Kitten", "Earth Vetala"],
+    "full_aliases": ["Cobalt Ultser", "Seed Worm", "TEMP.Zagros", "Static Kitten", "Earth Vetala", "MERCURY", "Mango Sandstorm"],
     "organisations": ["Ministry of Intelligence"],
     "countries": ["IR"]
   },
@@ -335,7 +339,8 @@
   },
   "TALONITE": {
   },
-  "HAFNIUM": {
+  "Silk Typhoon": {
+    "full_aliases": ["HAFNIUM"],
     "countries": ["CN"]
   },
   "Gamaredon": {
@@ -399,7 +404,7 @@
   "GOLD DUPONT": {
   },
   "Turla": {
-    "full_aliases": ["CTG-8875", "ITG12", "KRYPTON", "Venomous Bear", "Waterbug", "Iron Hunter", "Uroburos"],
+    "full_aliases": ["CTG-8875", "ITG12", "KRYPTON", "Venomous Bear", "Waterbug", "Iron Hunter", "Uroburos", "Snake", "Secret Blizzard"],
     "countries": ["RU"]
   },
   "Void Balaur": {
@@ -449,10 +454,30 @@
     "full_aliases": ["TA505"]
   },
   "Charcoal Typhoon": {
-    "full_aliases": ["ControlX"]
+    "full_aliases": ["ControlX"],
+    "countries": ["CN"]
   },
   "TortoiseShell": {
     "full_aliases": ["Houseblend", "CURIUM", "TA456", "Crimson Sandstorm"],
     "countries": ["IR"]
+  },
+  "Granite Typhoon": {
+    "full_aliases": ["GALLIUM"],
+    "countries": ["CN"]
+  },
+  "DSIRF": {
+    "full_aliases": ["KNOTWEED", "Denim Tsunami"]
+  },
+  "Pearl Sleet": {
+    "full_aliases": ["LAWRENCIUM"],
+    "countries": ["KP"]
+  },
+  "Emennet Pasargad": {
+    "full_aliases": ["NEPTUNIUM", "Holy Souls", "Cotton Sandstorm", "Vice Leaker"],
+    "countries": ["IR"]
+  },
+  "Opal Sleet": {
+    "full_aliases": ["Konni", "OSMIUM"],
+    "countries": ["KP"]
   }
 }

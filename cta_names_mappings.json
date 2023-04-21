@@ -83,7 +83,7 @@
   },
   "APT28": {
     "full_aliases": ["Fancy Bear", "Sofacy", "Strontium", "Grizzly Steppe", "Sednit", "SIG40", "Group 74", "PawnStorm",
-      "Snakemackerel", "TG-4127", "Tsar Team", "Blue Athena", "IRON TWILIGHT", "Swallowtail", "Threat Group-4127"],
+      "Snakemackerel", "TG-4127", "Tsar Team", "Blue Athena", "IRON TWILIGHT", "Swallowtail", "Threat Group-4127", "Forest Blizzard"],
     "organisations": ["Unit 26165 of the 85th Main Special Service Center"],
     "countries": ["RU"]
   },
@@ -101,6 +101,7 @@
     "countries": ["CN"]
   },
   "APT31": {
+    "full_aliases": ["ZIRCONIUM", "Violet Typhoon"],
     "countries": ["CN"]
   },
   "APT32": {
@@ -119,6 +120,7 @@
   "CHRYSENE": {
   },
   "APT35": {
+    "full_aliases": ["PHOSPHORUS", "Mint Sandstorm", "Charming Kitten"],
     "subgroups": ["DEV-0270"],
     "organisations": ["Islamic Revolutionary Guard Corps"],
     "countries": ["IR"]
@@ -148,7 +150,7 @@
   "APT38": {
     "full_aliases": ["Lazarus Group", "Hidden Cobra", "Guardians of Peace", "NICKEL ACADEMY", "Black Artemis",
       "COVELLITE", "CTG-2460", "Dark Seoul", "High Anonymous", "Labyrinth Chollima", "New Romanic Cyber Army Team",
-      "NNPT Group", "Who Am I?", "Whois Team", "ZINC", "TA404", "APT-C-26"],
+      "NNPT Group", "Who Am I?", "Whois Team", "ZINC", "TA404", "APT-C-26", "Diamond Sleet"],
     "subgroups": ["AndAriel"],
     "countries": ["KP"],
     "campaigns": ["Operation AppleJeus", "Operation Dream Job"]
@@ -197,7 +199,7 @@
   "APT42": {
   },
   "FIN6": {
-    "full_aliases": ["ITG08", "MageCart Group 6", "Skeleton Spider", "White Giant", "GOLD FRANKLIN"]
+    "full_aliases": ["ITG08", "MageCart Group 6", "Skeleton Spider", "White Giant", "GOLD FRANKLIN", "TAAL", "Camouflage Tempest"]
   },
   "FIN7": {
     "full_aliases": ["Carbon Spider", "Calcium", "Carbanak", "Navigator", "TelePort Crew", "GOLD NIAGARA", "Anunak",
@@ -401,7 +403,8 @@
   "Urpage": {
     "full_aliases": ["EHDEVEL", "WINDSHIFT", "THE WHITE COMPANY", "BAHAMUT"]
   },
-  "GOLD DUPONT": {
+  "Tomato Tempest": {
+    "full_aliases": ["SPURR", "Vatet", "GOLD DUPONT"]
   },
   "Turla": {
     "full_aliases": ["CTG-8875", "ITG12", "KRYPTON", "Venomous Bear", "Waterbug", "Iron Hunter", "Uroburos", "Snake", "Secret Blizzard"],
@@ -465,8 +468,9 @@
     "full_aliases": ["GALLIUM"],
     "countries": ["CN"]
   },
-  "DSIRF": {
-    "full_aliases": ["KNOTWEED", "Denim Tsunami"]
+  "Denim Tsunami": {
+    "full_aliases": ["KNOTWEED"],
+    "organisations": ["DSIRF"]
   },
   "Pearl Sleet": {
     "full_aliases": ["LAWRENCIUM"],
@@ -479,5 +483,28 @@
   "Opal Sleet": {
     "full_aliases": ["Konni", "OSMIUM"],
     "countries": ["KP"]
+  },
+  "Wine Tempest": {
+    "full_aliases": ["PARINACOTA", "Wadhrama"]
+  },
+  "Plaid Rain": {
+    "full_aliases": ["POLONIUM"],
+    "countries": ["LB"]
+  },
+  "Fox Kitten": {
+    "full_aliases": ["RUBIDIUM", "Parasite", "COBALT FOXGLOVE", "Pioneer Kitten", "UNC757", "Lemon Sandstorm"],
+    "countries": ["IR"]
+  },
+  "Star Blizzard": {
+    "full_aliases": ["SEABORGIUM", "Callisto", "Reuse Team"],
+    "countries": ["RU"]
+  },
+  "Sea Turtle": {
+    "full_aliases": ["SILICON", "UNC1326", "Marbled Dust"],
+    "countries": ["TR"]
+  },
+  "Caramel Tsunami": {
+    "full_aliases": ["SOURGUM"],
+    "organisations": ["Candiru"]
   }
 }

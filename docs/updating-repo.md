@@ -27,7 +27,9 @@ When committing your changes, you will then be able to confirm which branch you 
 
 ![commit-to-new-branch](https://user-images.githubusercontent.com/52256544/223460917-b6369517-7138-4e25-a31c-ecfe9b0ff5dc.png)
 
-You are advised to **create a pull request as soon as possible** so you are able to see any errors earlier (versus at the time where you are ready for review).
+You are advised to **create a pull request as soon as possible** so you are able to see any errors earlier (versus at the time where you are ready for review). Whilst editing on GitHub, you'll usually see such a prompt after a commit if there isn't a pull request for the branch already:
+
+![recent-push](https://user-images.githubusercontent.com/52256544/233661801-67b9eb61-67eb-462b-ae6e-328ca3aa69b4.png)
 
 ### Checking JSON syntax
 

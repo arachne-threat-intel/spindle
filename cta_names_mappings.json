@@ -233,7 +233,7 @@
   "UNC215": {
   },
   "UNC1151": {
-    "full_aliases": ["Ghostwriter", "TA445"]
+    "full_aliases": ["Ghostwriter", "TA445", "Storm-0257", "DEV-0257"]
   },
   "UNC2465": {
   },
@@ -323,7 +323,7 @@
   "UNC2630": {
   },
   "Agrius": {
-    "full_aliases": ["Deadwood", "BlackShadow", "SharpBoys", "AMERICIUM", "Pink Sandstorm"],
+    "full_aliases": ["Deadwood", "BlackShadow", "SharpBoys", "AMERICIUM", "Pink Sandstorm", "DEV-0227"],
     "countries": ["IR"]
   },
   "DLTminer": {
@@ -356,12 +356,16 @@
   "Sharp Panda": {
   },
   "Indrik Spider": {
-    "full_aliases": ["EvilCorp", "Silverfish", "GOLD DRAKE", "DEV-0243", "DEV-0206"],
-    "partial_aliases": ["Gold Winter"],
+    "full_aliases": ["EvilCorp", "Silverfish", "GOLD DRAKE", "DEV-0243", "Manatee Tempest", "UNC2165"],
+    "partial_aliases": ["Gold Winter", "DEV-0206", "Mustard Tempest", "Purple Vallhund"],
     "subgroups": ["Doppel Spider"]
   },
+  "Mustard Tempest": {
+    "full_aliases": ["Purple Vallhund", "DEV-0206"]
+  },
   "Wizard Spider": {
-    "full_aliases": ["UNC1878", "RYUK", "DEV-0193", "FIN12", "GOLD BLACKBURN"],
+    "full_aliases": ["UNC1878", "RYUK", "DEV-0193", "GOLD BLACKBURN"],
+    "partial_aliases": ["FIN12", "Pistachio Tempest", "DEV-0237", "Periwinkle Tempest", "DEV-0193", "UNC2053"],
     "subgroups": ["Conti Team 1", "Conti Team 2", "Conti Team 3"]
   },
   "Conti Team 1": {
@@ -443,6 +447,13 @@
   "IndigoZebra": {
   },
   "TA410": {
+    "subgroups": ["FlowingFrog, LookingFrog, JollyFrog]
+  },
+  "FlowingFrog": {
+  },
+  "LookingFrog": {
+  },
+  "JollyFrog": {
   },
   "LuminousMoth": {
     "countries": ["CN"]
@@ -473,11 +484,11 @@
     "organisations": ["DSIRF"]
   },
   "Pearl Sleet": {
-    "full_aliases": ["LAWRENCIUM"],
+    "full_aliases": ["LAWRENCIUM", "DEV-0215"],
     "countries": ["KP"]
   },
   "Emennet Pasargad": {
-    "full_aliases": ["NEPTUNIUM", "Holy Souls", "Cotton Sandstorm", "Vice Leaker"],
+    "full_aliases": ["NEPTUNIUM", "Holy Souls", "Cotton Sandstorm", "Vice Leaker", "DEV-0198"],
     "countries": ["IR"]
   },
   "Opal Sleet": {
@@ -508,5 +519,28 @@
     "organisations": ["Candiru"]
   },
   "Metador": {
+  },
+  "Modified Elephant": {
+    "countries": ["IN"]
+  },
+  "Pumpkin Sandstorm": {
+    "full_aliases": ["DEV-0146, HomeLand Justice"],
+    "countries": ["IR"]
+  },
+  "Carmine Tsunami": {
+    "full_aliases": ["DEV-0196"],
+    "organisations": ["QuaDream"]
+  },
+  "Cuboid Sandstorm": {
+    "full_aliases": ["DEV-0228"],
+    "countries": ["IR"]
+  },
+  "Lilac Typhoon": {
+    "full_aliases": ["DEV-0234"],
+    "countries": ["CN"]
+  },
+  "Circle Typhoon": {
+    "full_aliases": ["DEV-0322"],
+    "countries": ["CN"]
   }
 }

@@ -373,6 +373,7 @@
 ---
 
 * Name = FIN11
+* Full aliases = [DEV-0950, Lace Tempest](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
 
@@ -937,5 +938,72 @@
 * Name = Circle Typhoon
 * Full aliases = [DEV-0322](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Country of organisation = [People's Republic of China](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = Night Tsunami
+* Full aliases = [DEV-0336](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Organisation = [NSO Group](https://citizenlab.ca/2023/04/nso-groups-pegasus-spyware-returns-in-2022/)
+
+---
+
+* Name = Gray Sandstorm
+* Full aliases = [DEV-0343](https://github.com/arachne-threat-intel/rosettaStone/edit/new_groups/cta_names_mappings.md)
+* Country of organisation = [Islamic Republic of Iran](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = Cinnamon Tempest
+* Full aliases = [DEV-0401, Emperor Dragonfly, Bronze Starlight](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = Moses Staff
+* Full aliases = [Marigold Sandstorm, DEV-0500](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [Islamic Republic of Iran](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = Velvet Tempest
+* Full aliases = [DEV-0504](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = H0lyGh0st
+* Full aliases = [DEV-0530](https://www.microsoft.com/security/blog/2022/07/14/north-korean-threat-actor-targets-small-and-midsize-businesses-with-h0lygh0st-ransomware/), [Storm-0530](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [Democratic People's Republic of Korea](https://www.microsoft.com/security/blog/2022/07/14/north-korean-threat-actor-targets-small-and-midsize-businesses-with-h0lygh0st-ransomware/)
+
+---
+
+* Name = Lapsus$
+* Full aliases = [DEV-0537](https://www.microsoft.com/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/), [Strawberry Tempest](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = WhisperGate
+* Full aliases = [DEV-0586, Cadet Blizzard](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [Russian Federation](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = Wisteria Tsunami
+* Full aliases = [DEV-0605](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Organisation = [CyberRoot](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = Sunglow Blizzard
+* Full aliases = [DEV-0665](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [Russian Federation](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = Phlox Tempest
+* Full aliases = [DEV-0796, ClickPirate](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = Vice Society
+* Full aliases = [DEV-0832](https://www.microsoft.com/en-us/security/blog/2022/10/25/dev-0832-vice-society-opportunistic-ransomware-campaigns-impacting-us-education-sector/), [Vanilla Tempest](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide) 	
 
 ---

@@ -208,6 +208,7 @@
   "FIN8": {
   },
   "FIN11": {
+    "full_aliases": ["DEV-0950", "Lace Tempest"]
   },
   "APT-C-21": {
     "full_aliases": ["GnatSpy", "FrozenCell", "VAMP"]
@@ -447,7 +448,7 @@
   "IndigoZebra": {
   },
   "TA410": {
-    "subgroups": ["FlowingFrog, LookingFrog, JollyFrog]
+    "subgroups": ["FlowingFrog", "LookingFrog", "JollyFrog"]
   },
   "FlowingFrog": {
   },
@@ -542,5 +543,48 @@
   "Circle Typhoon": {
     "full_aliases": ["DEV-0322"],
     "countries": ["CN"]
+  },
+  "Night Tsunami": {
+    "full_aliases": ["DEV-0336"],
+    "organisations": ["NSO Group"]
+  },
+  "Gray Sandstorm": {
+    "full_aliases": ["DEV-0343"],
+    "countries": ["IR"]
+  },
+  "Cinnamon Tempest": {
+    "full_aliases": ["DEV-0401", "Emperor Dragonfly", "Bronze Starlight"]
+  },
+  "Moses Staff": {
+    "full_aliases": ["Marigold Sandstorm", "DEV-0500"],
+    "countries": ["IR"]
+  },
+  "Velvet Tempest": {
+    "full_aliases": ["DEV-0504"]
+  },
+  "H0lyGh0st": {
+    "full_aliases": ["DEV-0530", "Storm-0530"],
+    "countries": ["KP"]
+  },
+  "Lapsus$": {
+    "full_aliases": ["DEV-0537", "Strawberry Tempest"]
+  },
+  "WhisperGate": {
+    "full_aliases": ["DEV-0586", "Cadet Blizzard"],
+    "countries": ["RU"]
+  },
+  "Wisteria Tsunami": {
+    "full_aliases": ["DEV-0605"],
+    "organisations": ["CyberRoot"]
+  },
+  "Sunglow Blizzard": {
+    "full_aliases": ["DEV-0665"],
+    "countries": ["RU"]
+  },
+  "Phlox Tempest": {
+    "full_aliases": ["DEV-0796"]
+  },
+  "Vice Society": {
+    "full_aliases": ["DEV-0832", "Vanilla Tempest"]
   }
 }

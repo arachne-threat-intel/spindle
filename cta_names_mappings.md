@@ -1012,3 +1012,8 @@
 * Country of organisation = [People's Republic of China](https://www.sentinelone.com/labs/moshen-dragons-triad-and-error-approach-abusing-security-software-to-sideload-plugx-and-shadowpad/)
 
 ---
+
+* Name = TA551
+* Full aliases = [Shathak](https://isc.sans.edu/forums/diary/TA551+Shathak+continues+pushing+BazarLoader+infections+lead+to+Cobalt+Strike/27738/), [GOLD CABIN](https://www.secureworks.com/research/threat-profiles), [Monster Libra](https://unit42.paloaltonetworks.com/atoms/monsterlibra/)
+
+---

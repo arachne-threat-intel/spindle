@@ -1007,3 +1007,8 @@
 * Full aliases = [DEV-0832](https://www.microsoft.com/en-us/security/blog/2022/10/25/dev-0832-vice-society-opportunistic-ransomware-campaigns-impacting-us-education-sector/), [Vanilla Tempest](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide) 	
 
 ---
+
+* Name = Moshen Dragon
+* Country of organisation = [People's Republic of China](https://www.sentinelone.com/labs/moshen-dragons-triad-and-error-approach-abusing-security-software-to-sideload-plugx-and-shadowpad/)
+
+---

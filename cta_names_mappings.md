@@ -417,7 +417,7 @@
 ---
 
 * Name = UNC1151
-* Full aliases = [Ghostwriter](https://content.fireeye.com/web-assets/rpt-unc1151-ghostwriter-update), [TA445](https://www.securityweek.com/hacked-ukrainian-military-emails-used-attacks-european-governments)
+* Full aliases = [Ghostwriter](https://content.fireeye.com/web-assets/rpt-unc1151-ghostwriter-update), [TA445](https://www.securityweek.com/hacked-ukrainian-military-emails-used-attacks-european-governments), [Storm-0257, DEV-0257](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
 
@@ -565,7 +565,7 @@
 ---
 
 * Name = Agrius
-* Full aliases = [Deadwood, BlackShadow, SharpBoys, AMERICIUM, Pink Sandstorm](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Full aliases = [Deadwood, BlackShadow, SharpBoys, AMERICIUM, Pink Sandstorm, DEV-0227](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Country of organisation = [Islamic Republic of Iran](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
@@ -622,14 +622,20 @@
 ---
 
 * Name = Indrik Spider
-* Full aliases = [EvilCorp, Silverfish](https://blog.truesec.com/2021/05/05/are-the-notorious-cyber-criminals-evil-corp-actually-russian-spies/), [GOLD DRAKE](https://www.secureworks.com/research/threat-profiles), [DEV-0243](https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/#DEV-0206-DEV-0243), [DEV-0206](https://www.microsoft.com/en-us/security/blog/2022/10/27/raspberry-robin-worm-part-of-larger-ecosystem-facilitating-pre-ransomware-activity/)
-* Partial aliases = [Gold Winter](https://www.secureworks.com/research/threat-profiles/gold-winter)
+* Full aliases = [EvilCorp, Silverfish](https://blog.truesec.com/2021/05/05/are-the-notorious-cyber-criminals-evil-corp-actually-russian-spies/), [GOLD DRAKE](https://www.secureworks.com/research/threat-profiles), [DEV-0243](https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/#DEV-0206-DEV-0243), [DEV-0243, Manatee Tempest, UNC2165](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Partial aliases = [Gold Winter](https://www.secureworks.com/research/threat-profiles/gold-winter), [Mustard Tempest, Purple Vallhund, DEV-0206](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Breakaway groups = [Doppel Spider](https://adversary.crowdstrike.com/en-US/adversary/doppel-spider/)
 
 ---
 
+* Name = Mustard Tempest
+* Full aliases = [Purple Vallhund, DEV-0206](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
 * Name = Wizard Spider
-* Full aliases = [UNC1878, RYUK](https://community.riskiq.com/article/c88cf7e6), [DEV-0193](https://argonsys.com/microsoft-cloud/library/analyzing-attacks-that-exploit-the-cve-2021-40444-mshtml-vulnerability/), [FIN12](https://www.mandiant.com/resources/fin12-ransomware-intrusion-actor-pursuing-healthcare-targets), [GOLD BLACKBURN](https://www.secureworks.com/research/threat-profiles)
+* Full aliases = [UNC1878, RYUK](https://community.riskiq.com/article/c88cf7e6), [DEV-0193](https://argonsys.com/microsoft-cloud/library/analyzing-attacks-that-exploit-the-cve-2021-40444-mshtml-vulnerability/), [GOLD BLACKBURN](https://www.secureworks.com/research/threat-profiles)
+* Partial aliases = [FIN12](https://www.mandiant.com/resources/fin12-ransomware-intrusion-actor-pursuing-healthcare-targets), [Pistachio Tempest/DEV-0237, Periwinkle Tempest/DEV-0193/UNC2053](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Subgroups = [Conti Team 1, Conti Team 2, Conti Team 3](https://twitter.com/VK_Intel/status/1557003350541242369/photo/1)
 
 ---
@@ -778,6 +784,22 @@
 ---
 
 * Name = TA410
+* Subgroups = [FlowingFrog, LookingFrog, JollyFrog](https://www.welivesecurity.com/2022/04/27/lookback-ta410-umbrella-cyberespionage-ttps-activity/)
+
+---
+
+* Name = FlowingFrog
+* Parent Group = [TA410](https://www.welivesecurity.com/2022/04/27/lookback-ta410-umbrella-cyberespionage-ttps-activity/)
+
+---
+
+* Name = LookingFrog
+* Parent Group = [TA410](https://www.welivesecurity.com/2022/04/27/lookback-ta410-umbrella-cyberespionage-ttps-activity/)
+
+---
+
+* Name = JollyFrog
+* Parent Group = [TA410](https://www.welivesecurity.com/2022/04/27/lookback-ta410-umbrella-cyberespionage-ttps-activity/)
 
 ---
 
@@ -826,13 +848,13 @@
 ---
 
 * Name = Pearl Sleet
-* Full aliases = [LAWRENCIUM](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Full aliases = [LAWRENCIUM, DEV-0215](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Country of organisation = [Democratic People's Republic of Korea](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
 
 * Name = Emennet Pasargad 
-* Full aliases = [NEPTUNIUM](https://www.microsoft.com/en-us/security/business/security-insider/uncategorized/iran-responsible-for-charlie-hebdo-attacks/), [Holy Souls](https://web.archive.org/web/20230109230105/https://breached.vc/Thread-Personal-information-of-230000-customers-of-charliehebdo-fr), [Cotton Sandstorm, Vice Leaker](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Full aliases = [NEPTUNIUM](https://www.microsoft.com/en-us/security/business/security-insider/uncategorized/iran-responsible-for-charlie-hebdo-attacks/), [Holy Souls](https://web.archive.org/web/20230109230105/https://breached.vc/Thread-Personal-information-of-230000-customers-of-charliehebdo-fr), [Cotton Sandstorm, Vice Leaker, DEV-0198](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Country of organisation = [Islamic Republic of Iran](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
@@ -880,5 +902,40 @@
 ---
 
 * Name = Metador
+
+---
+
+* Name = Modified Elephant
+* Country of organisation = [Republic of India]
+
+---
+
+* Name = Pumpkin Sandstorm
+* Full aliases = [DEV-0146](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide), [HomeLand Justice](https://www.mandiant.com/resources/likely-iranian-threat-actor-conducts-politically-motivated-disruptive-activity-against)
+* Country of organisation = [Islamic Republic of Iran](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = Carmine Tsunami
+* Full aliases = [DEV-0196](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Organisation = [QuaDream](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = Cuboid Sandstorm 	
+* Full aliases = [DEV-0228](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [Islamic Republic of Iran](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = Lilac Typhoon
+* Full aliases = [DEV-0234](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [People's Republic of China](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+
+---
+
+* Name = Circle Typhoon
+* Full aliases = [DEV-0322](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Country of organisation = [People's Republic of China](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---

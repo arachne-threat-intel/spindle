@@ -97,6 +97,7 @@
     "countries": ["RU"]
   },
   "APT30": {
+    "full_aliases": ["RADIUM", "Raspberry Typhoon", "LotusBlossom"],
     "organisations": ["China's People’s Liberation Army Unit 78020"],
     "countries": ["CN"]
   },
@@ -582,7 +583,7 @@
     "countries": ["RU"]
   },
   "Phlox Tempest": {
-    "full_aliases": ["DEV-0796"]
+    "full_aliases": ["DEV-0796", "ClickPirate"]
   },
   "Vice Society": {
     "full_aliases": ["DEV-0832", "Vanilla Tempest"]

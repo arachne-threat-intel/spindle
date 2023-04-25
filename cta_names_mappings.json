@@ -586,5 +586,8 @@
   },
   "Vice Society": {
     "full_aliases": ["DEV-0832", "Vanilla Tempest"]
+  },
+  "Moshen Dragon": {
+    "countries": ["CN"]
   }
 }

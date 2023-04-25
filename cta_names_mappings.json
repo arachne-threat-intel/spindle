@@ -589,5 +589,8 @@
   },
   "Moshen Dragon": {
     "countries": ["CN"]
+  },
+  "TA551": {
+    "full_aliases": ["Shathak", "GOLD CABIN", "Monster Libra"]
   }
 }

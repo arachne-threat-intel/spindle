@@ -1019,6 +1019,7 @@
 ---
 
 * Name = Red Alpha
+* Full aliases = [Deepcliff, Red Dev 3](https://www.recordedfuture.com/redalpha-credential-theft-campaign-targeting-humanitarian-thinktank)
 * Country of organisation = [People's Republic of China](https://www.recordedfuture.com/redalpha-credential-theft-campaign-targeting-humanitarian-thinktank)
 
 ---

@@ -1017,3 +1017,8 @@
 * Full aliases = [Shathak](https://isc.sans.edu/forums/diary/TA551+Shathak+continues+pushing+BazarLoader+infections+lead+to+Cobalt+Strike/27738/), [GOLD CABIN](https://www.secureworks.com/research/threat-profiles), [Monster Libra](https://unit42.paloaltonetworks.com/atoms/monsterlibra/)
 
 ---
+
+* Name = Red Alpha
+* Country of organisation = [People's Republic of China](https://www.recordedfuture.com/redalpha-credential-theft-campaign-targeting-humanitarian-thinktank)
+
+---

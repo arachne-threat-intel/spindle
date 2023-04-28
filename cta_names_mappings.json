@@ -30,7 +30,8 @@
   "APT10": {
     "full_aliases": ["Stone Panda", "Menu Pass", "Red Apollo", "CVNX", "Potassium", "Cicada", "Cloud Hopper",
       "BRONZE RIVERSIDE", "CTG-5938", "Hogfish"],
-    "partial_aliases": ["A41APT"]
+    "partial_aliases": ["A41APT"],
+    "countries": ["CN"]
   },
   "Earth Tengshe": {
     "full_aliases": ["A41APT"]

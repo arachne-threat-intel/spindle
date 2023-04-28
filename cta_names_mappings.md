@@ -58,7 +58,7 @@
 * Name = APT10
 * Full aliases = [Stone Panda, Menu Pass](https://adeo.com.tr/en/adeo_annual_threat_report/), [Red Apollo, CVNX, Potassium](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32020D1127&from=EN), [Cicada, Cloud Hopper](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/cicada-apt10-japan-espionage), [BRONZE RIVERSIDE, CTG-5938, Hogfish](https://www.secureworks.com/research/threat-profiles)
 * Partial aliases = [A41APT](https://jsac.jpcert.or.jp/archive/2022/pdf/JSAC2022_9_yanagishita-tamada-nakatsuru-ishimaru_en.pdf)
-* Organisation = 
+* Country of organisation = [People's Republic of China](https://www.fbi.gov/wanted/cyber/apt-10-group)
 
 ---
 

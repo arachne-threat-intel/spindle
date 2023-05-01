@@ -1023,3 +1023,8 @@
 * Country of organisation = [People's Republic of China](https://www.recordedfuture.com/redalpha-credential-theft-campaign-targeting-humanitarian-thinktank)
 
 ---
+
+Name = Volatile Cedar
+Full aliases = [Lebanese Cedar](https://www.clearskysec.com/wp-content/uploads/2021/01/Lebanese-Cedar-APT.pdf), [DeftTorero](https://securelist.com/defttorero-tactics-techniques-and-procedures/107610/)
+
+---

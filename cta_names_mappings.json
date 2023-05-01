@@ -598,5 +598,8 @@
   "Red Alpha": {
     "full_aliases": ["Deepcliff", "Red Dev 3"],
     "countries": ["CN"]
+  },
+  "Volatile Cedar": {
+    "full_aliases": ["Lebanese Cedar", "DeftTorero"]
   }
 }

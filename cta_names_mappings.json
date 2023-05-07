@@ -116,7 +116,8 @@
     "countries": ["IR"]
   },
   "APT34": {
-    "full_aliases": ["EUROPIUM", "Hazel Sandstorm", "Cobalt Gypsy", "OilRig"],
+    "full_aliases": ["EUROPIUM", "Hazel Sandstorm", "Cobalt Gypsy", "OilRig", "Homeland Justice"],
+    "organisations": ["Ministry of Intelligence and Security"],
     "countries": ["IR"]
   },
   "CHRYSENE": {
@@ -326,7 +327,8 @@
   "UNC2630": {
   },
   "Agrius": {
-    "full_aliases": ["Deadwood", "BlackShadow", "SharpBoys", "AMERICIUM", "Pink Sandstorm", "DEV-0227"],
+    "full_aliases": ["Deadwood", "BlackShadow", "SharpBoys", "AMERICIUM", "Pink Sandstorm", "DEV-0227", "Justice Blade"],
+    "organisations": ["Ministry of Intelligence and Security"],
     "countries": ["IR"]
   },
   "DLTminer": {
@@ -491,7 +493,8 @@
     "countries": ["KP"]
   },
   "Emennet Pasargad": {
-    "full_aliases": ["NEPTUNIUM", "Holy Souls", "Cotton Sandstorm", "Vice Leaker", "DEV-0198"],
+    "full_aliases": ["NEPTUNIUM", "Holy Souls", "Cotton Sandstorm", "Vice Leaker", "DEV-0198", "Hackers of Savior", "Sangkancil", "Black Magic", "Holy Souls", "AMC239", "Generous Thief", "Atlas Group", "Al-Toufan"],
+    "organisations": ["Islamic Revolutionary Guard Corps"],
     "countries": ["IR"]
   },
   "Opal Sleet": {
@@ -558,7 +561,8 @@
     "full_aliases": ["DEV-0401", "Emperor Dragonfly", "Bronze Starlight"]
   },
   "Moses Staff": {
-    "full_aliases": ["Marigold Sandstorm", "DEV-0500"],
+    "full_aliases": ["Marigold Sandstorm", "DEV-0500", "Cobalt Sapling", "Abraham's Ax"],
+    "organisations": ["Islamic Revolutionary Guard Corps"],
     "countries": ["IR"]
   },
   "Velvet Tempest": {
@@ -608,5 +612,10 @@
   },
   "LuoYu": {
     "countries": ["CN"]
+  },
+  "Storm-1084": {
+    "full_aliases": ["DEV-1084", "DarkBit"],
+    "organisations": ["Ministry of Intelligence and Security"],
+    "countries": ["IR"]
   }
 }

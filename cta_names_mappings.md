@@ -222,9 +222,10 @@
 ---
 
 * Name = APT34
-* Full aliases = [EUROPIUM, Hazel Sandstorm, Cobalt Gypsy, OilRig](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Full aliases = [EUROPIUM, Hazel Sandstorm, Cobalt Gypsy, OilRig](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide), [Homeland Justice](https://www.microsoft.com/en-us/security/business/security-insider/wp-content/uploads/2023/05/Iran-turning-to-cyber-enabled-influence-operations-for-greater-effect-05022023.pdf)
+* Organisation = [Ministry of Intelligence and Security](https://www.microsoft.com/en-us/security/business/security-insider/wp-content/uploads/2023/05/Iran-turning-to-cyber-enabled-influence-operations-for-greater-effect-05022023.pdf)
 * Country of organisation = [Islamic Republic of Iran](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
-* 
+
 ---
 
 * Name = CHRYSENE
@@ -566,7 +567,8 @@
 ---
 
 * Name = Agrius
-* Full aliases = [Deadwood, BlackShadow, SharpBoys, AMERICIUM, Pink Sandstorm, DEV-0227](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Full aliases = [Deadwood, BlackShadow, SharpBoys, AMERICIUM, Pink Sandstorm, DEV-0227](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide), [Justice Blade](https://www.microsoft.com/en-us/security/business/security-insider/wp-content/uploads/2023/05/Iran-turning-to-cyber-enabled-influence-operations-for-greater-effect-05022023.pdf)
+* Organisation = [Ministry of Intelligence and Security](https://www.microsoft.com/en-us/security/business/security-insider/wp-content/uploads/2023/05/Iran-turning-to-cyber-enabled-influence-operations-for-greater-effect-05022023.pdf)
 * Country of organisation = [Islamic Republic of Iran](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
@@ -855,7 +857,8 @@
 ---
 
 * Name = Emennet Pasargad 
-* Full aliases = [NEPTUNIUM](https://www.microsoft.com/en-us/security/business/security-insider/uncategorized/iran-responsible-for-charlie-hebdo-attacks/), [Holy Souls](https://web.archive.org/web/20230109230105/https://breached.vc/Thread-Personal-information-of-230000-customers-of-charliehebdo-fr), [Cotton Sandstorm, Vice Leaker, DEV-0198](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Full aliases = [NEPTUNIUM](https://www.microsoft.com/en-us/security/business/security-insider/uncategorized/iran-responsible-for-charlie-hebdo-attacks/), [Holy Souls](https://web.archive.org/web/20230109230105/https://breached.vc/Thread-Personal-information-of-230000-customers-of-charliehebdo-fr), [Cotton Sandstorm, Vice Leaker, DEV-0198](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide), [Hackers of Savior, Sangkancil, Black Magic, Holy Souls, AMC239, Generous Thief, Atlas Group, Al-Toufan](https://www.microsoft.com/en-us/security/business/security-insider/wp-content/uploads/2023/05/Iran-turning-to-cyber-enabled-influence-operations-for-greater-effect-05022023.pdf)
+* Organisation = [Islamic Revolutionary Guard Corps](https://www.microsoft.com/en-us/security/business/security-insider/wp-content/uploads/2023/05/Iran-turning-to-cyber-enabled-influence-operations-for-greater-effect-05022023.pdf)
 * Country of organisation = [Islamic Republic of Iran](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
@@ -959,7 +962,8 @@
 ---
 
 * Name = Moses Staff
-* Full aliases = [Marigold Sandstorm, DEV-0500](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Full aliases = [Marigold Sandstorm, DEV-0500](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide), [Cobalt Sapling, Abraham's Ax](https://www.microsoft.com/en-us/security/business/security-insider/wp-content/uploads/2023/05/Iran-turning-to-cyber-enabled-influence-operations-for-greater-effect-05022023.pdf)
+* Organisation = [Islamic Revolutionary Guard Corps](https://www.microsoft.com/en-us/security/business/security-insider/wp-content/uploads/2023/05/Iran-turning-to-cyber-enabled-influence-operations-for-greater-effect-05022023.pdf)
 * Country of organisation = [Islamic Republic of Iran](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
@@ -1039,3 +1043,12 @@
 
 * Name = LuoYu
 * Country of organisation = [People's Republic of China](https://jsac.jpcert.or.jp/archive/2021/pdf/JSAC2021_301_shui-leon_en.pdf)
+
+---
+
+* Name = Storm-1084
+* Full aliases = [DEV-1084, DarkBit](https://www.microsoft.com/en-us/security/business/security-insider/wp-content/uploads/2023/05/Iran-turning-to-cyber-enabled-influence-operations-for-greater-effect-05022023.pdf)
+* Organisation = [Ministry of Intelligence and Security](https://www.microsoft.com/en-us/security/business/security-insider/wp-content/uploads/2023/05/Iran-turning-to-cyber-enabled-influence-operations-for-greater-effect-05022023.pdf)
+* Country of organisation = [Islamic Republic of Iran](https://www.microsoft.com/en-us/security/business/security-insider/wp-content/uploads/2023/05/Iran-turning-to-cyber-enabled-influence-operations-for-greater-effect-05022023.pdf)
+
+---

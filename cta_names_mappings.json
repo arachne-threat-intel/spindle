@@ -617,5 +617,8 @@
     "full_aliases": ["DEV-1084", "DarkBit"],
     "organisations": ["Ministry of Intelligence and Security"],
     "countries": ["IR"]
+  },
+  "Narwhal Spider": {
+    "full_aliases": ["GOLD ESSEX", "TA544"]
   }
 }

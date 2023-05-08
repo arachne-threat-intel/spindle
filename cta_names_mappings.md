@@ -1052,3 +1052,8 @@
 * Country of organisation = [Islamic Republic of Iran](https://www.microsoft.com/en-us/security/business/security-insider/wp-content/uploads/2023/05/Iran-turning-to-cyber-enabled-influence-operations-for-greater-effect-05022023.pdf)
 
 ---
+
+* Name = Narwhal Spider
+* Full aliases = [GOLD ESSEX](https://www.secureworks.com/research/threat-profiles), [TA544](https://www.cert.ssi.gouv.fr/uploads/CERTFR-2020-CTI-008.pdf)
+
+---

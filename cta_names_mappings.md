@@ -1057,3 +1057,7 @@
 * Full aliases = [GOLD ESSEX](https://www.secureworks.com/research/threat-profiles), [TA544](https://www.cert.ssi.gouv.fr/uploads/CERTFR-2020-CTI-008.pdf)
 
 ---
+
+* Name = Worok
+
+---

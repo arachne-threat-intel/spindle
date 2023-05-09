@@ -1066,3 +1066,9 @@
 * Country of organisation = [People's Republic of China](https://www.mandiant.com/resources/blog/china-nexus-espionage-southeast-asia)
 
 ---
+
+* Name = DragonOK
+* Full aliases = [Bronze Overbrook](https://www.nortonlifelock.com/sites/default/files/2021-10/OPERATION%20EXORCIST%20White%20Paper.pdf)
+* Country of organisation = [People's Republic of China](https://www.cfr.org/cyber-operations/dragonok)
+
+---

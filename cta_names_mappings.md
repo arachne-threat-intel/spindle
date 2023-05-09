@@ -326,7 +326,7 @@
 ---
 
 * Name = APT41
-* Full aliases = [BARIUM, Brass Typhoon](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Full aliases = [BARIUM, Brass Typhoon](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide), [Wicked Panda](https://prod.adversary.crowdstrike.cloud.jam3.net/en-US/adversary/wicked-panda/)
 * Subgroups = [Earth Lusca](https://i.blackhat.com/Asia-22/Thursday-Materials/AS-22-LeonSilvia-NextGenPlugXShadowPad.pdf), [Earth Longzhi](https://www.trendmicro.com/en_us/research/22/k/hack-the-real-box-apt41-new-subgroup-earth-longzhi.html)
 * Country of organisation = [People's Republic of China](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 

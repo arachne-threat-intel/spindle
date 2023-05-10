@@ -1091,3 +1091,8 @@
 * Name = UNC2198
 
 ---
+
+* Name = Cyborg Spider
+* Full aliases = [Mespinoza, Gold Burlap](https://www.secureworks.com/research/threat-profiles/gold-burlap)
+
+---

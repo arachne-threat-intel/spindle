@@ -1076,3 +1076,9 @@
 * Name = SowBug
 
 ---
+
+* Name = Patchwork
+* Full Aliases = [Dropping Elephant, Chinastrats](https://securelist.com/the-dropping-elephant-actor/75328/)
+* Country of organisation = [Republic of India](https://paper.seebug.org/papers/APT/APT_CyberCriminal_Campagin/2013/NS-Unveiling-an-Indian-Cyberattack-Infrastructure_FINAL_Web.pdf)
+
+---

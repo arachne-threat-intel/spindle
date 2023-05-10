@@ -1030,6 +1030,7 @@
 
 * Name = Volatile Cedar
 * Full aliases = [Lebanese Cedar](https://www.clearskysec.com/wp-content/uploads/2021/01/Lebanese-Cedar-APT.pdf), [DeftTorero](https://securelist.com/defttorero-tactics-techniques-and-procedures/107610/)
+* Country of organisation = [Republic of Lebanon](https://www.clearskysec.com/wp-content/uploads/2021/01/Lebanese-Cedar-APT.pdf)
 
 ---
 

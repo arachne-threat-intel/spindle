@@ -1096,3 +1096,7 @@
 * Full aliases = [Mespinoza, Gold Burlap](https://www.secureworks.com/research/threat-profiles/gold-burlap)
 
 ---
+
+Name = RANCOR
+
+---

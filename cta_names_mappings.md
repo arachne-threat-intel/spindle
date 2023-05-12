@@ -1097,10 +1097,16 @@
 
 ---
 
-Name = RANCOR
+* Name = RANCOR
 
 ---
 
-Name = BlackSnakeTeam
+* Name = BlackSnakeTeam
+
+---
+
+* Name = RedFoxTrot
+* Organisation = [People's Liberation Army Unit 69010](https://www.recordedfuture.com/redfoxtrot-china-pla-targets-bordering-asian-countries/)
+* Country of organisation = [People's Republic of China](https://www.recordedfuture.com/redfoxtrot-china-pla-targets-bordering-asian-countries/)
 
 ---

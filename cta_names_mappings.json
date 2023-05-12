@@ -647,5 +647,8 @@
   "RANCOR": {
   },
   "BlackSnakeTeam": {
+  },
+  "RedFoxTrot": {
+    "countries": ["CN"]
   }
 }

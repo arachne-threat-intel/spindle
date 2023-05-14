@@ -492,6 +492,8 @@
 * Name = Gaza Cybergang
 * Full aliases = [TA402](https://thehackernews.com/2021/06/molerats-hackers-return-with-new.html), [ALUMINUM SARATOGA, Extreme Jackal, DustySky](https://www.secureworks.com/research/threat-profiles), [Moonlight](https://cybersecurity.att.com/blogs/labs-research/alien-labs-2019-analysis-of-threat-groups-molerats-and-apt-c-37)
 * Subgroups = [Molerats](https://cybersecurity.att.com/blogs/labs-research/alien-labs-2019-analysis-of-threat-groups-molerats-and-apt-c-37), [Desert Falcon](https://cybersecurity.att.com/blogs/labs-research/alien-labs-2019-analysis-of-threat-groups-molerats-and-apt-c-37), [Gaza Cybergang Group3](https://cybersecurity.att.com/blogs/labs-research/alien-labs-2019-analysis-of-threat-groups-molerats-and-apt-c-37)
+* Organisation = [Hamas](https://www.cybereason.com/blog/operation-bearded-barbie-apt-c-23-campaign-targeting-israeli-officials)
+* Country of organisation = [Palestine](https://www.cybereason.com/blog/operation-bearded-barbie-apt-c-23-campaign-targeting-israeli-officials)
 
 ---
 
@@ -499,17 +501,23 @@
 * Full aliases = [Gaza Cybergang Group1](https://cybersecurity.att.com/blogs/labs-research/alien-labs-2019-analysis-of-threat-groups-molerats-and-apt-c-37)
 * Parent group = [Gaza Cybergang](https://cybersecurity.att.com/blogs/labs-research/alien-labs-2019-analysis-of-threat-groups-molerats-and-apt-c-37)
 * Campaigns = [SneakyPastes](https://cybersecurity.att.com/blogs/labs-research/alien-labs-2019-analysis-of-threat-groups-molerats-and-apt-c-37)
+* Organisation = [Hamas](https://www.cybereason.com/blog/operation-bearded-barbie-apt-c-23-campaign-targeting-israeli-officials)
+* Country of organisation = [Palestine](https://www.cybereason.com/blog/operation-bearded-barbie-apt-c-23-campaign-targeting-israeli-officials)
 
 ---
 
 * Name = Desert Falcon
 * Full aliases = [Arid Viper, APT-C-23](https://malpedia.caad.fkie.fraunhofer.de/actor/aridviper), [Two-Tailed Scorpion](https://www.technadu.com/apt-c-23-re-emerged-front-scene-mygram-hacks/102145/), [Gaza Cybergang Group2](https://cybersecurity.att.com/blogs/labs-research/alien-labs-2019-analysis-of-threat-groups-molerats-and-apt-c-37)
 * Parent group = [Gaza Cybergang](https://cybersecurity.att.com/blogs/labs-research/alien-labs-2019-analysis-of-threat-groups-molerats-and-apt-c-37)
+* Organisation = [Hamas](https://www.cybereason.com/blog/operation-bearded-barbie-apt-c-23-campaign-targeting-israeli-officials)
+* Country of organisation = [Palestine](https://www.cybereason.com/blog/operation-bearded-barbie-apt-c-23-campaign-targeting-israeli-officials)
 
 ---
 
 * Name = Gaza Cybergang Group3
 * Campaigns = [Operation Parliament](https://cybersecurity.att.com/blogs/labs-research/alien-labs-2019-analysis-of-threat-groups-molerats-and-apt-c-37)
+* Organisation = [Hamas](https://www.cybereason.com/blog/operation-bearded-barbie-apt-c-23-campaign-targeting-israeli-officials)
+* Country of organisation = [Palestine](https://www.cybereason.com/blog/operation-bearded-barbie-apt-c-23-campaign-targeting-israeli-officials)
 
 ---
 

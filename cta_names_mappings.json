@@ -281,17 +281,25 @@
   },
   "Gaza Cybergang": {
     "full_aliases": ["TA402", "ALUMINUM SARATOGA", "Extreme Jackal", "DustySky", "Moonlight"],
-    "subgroups": ["Molerats", "Desert Falcon", "Gaza Cybergang Group3"]
+    "subgroups": ["Molerats", "Desert Falcon", "Gaza Cybergang Group3"],
+    "organisations": ["Hamas"],
+    "countries": ["PS"]
   },
   "Molerats": {
     "full_aliases": ["Gaza Cybergang Group1"],
-    "campaigns": ["SneakyPastes"]
+    "campaigns": ["SneakyPastes"],
+    "organisations": ["Hamas"],
+    "countries": ["PS"]
   },
   "Desert Falcon": {
-    "full_aliases": ["Arid Viper", "APT-C-23", "Two-Tailed Scorpion", "Gaza Cybergang Group2"]
+    "full_aliases": ["Arid Viper", "APT-C-23", "Two-Tailed Scorpion", "Gaza Cybergang Group2"],
+    "organisations": ["Hamas"],
+    "countries": ["PS"]
   },
   "Gaza Cybergang Group3": {
-    "campaigns": ["Operation Parliament"]
+    "campaigns": ["Operation Parliament"],
+    "organisations": ["Hamas"],
+    "countries": ["PS"]
   },
   "Dragonfly": {
     "full_aliases": ["Energetic Bear", "Koala", "Iron Liberty", "BROMINE", "BERSERK BEAR", "Crouching Yeti", "Temp.Isotope", "Ghost Blizzard"],

@@ -1126,3 +1126,7 @@
 * Name = Gallmaker
 
 ---
+
+Name = GOLD GALLEON
+
+---

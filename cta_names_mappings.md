@@ -177,10 +177,12 @@
 ---
 
 * Name = Emissary Panda
+* Country of organisation = [People's Republic of China](https://research.nccgroup.com/2018/05/18/emissary-panda-a-potential-new-malicious-tool/)
 
 ---
 
 * Name = Goblin Panda
+* Country of organisation = [People's Republic of China](https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-august-goblin-panda/)
 
 ---
 

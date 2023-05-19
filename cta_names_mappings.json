@@ -83,8 +83,10 @@
   "APT27": {
   },
   "Emissary Panda": {
+    "countries": ["CN"]
   },
   "Goblin Panda": {
+    "countries": ["CN"]
   },
   "APT28": {
     "full_aliases": ["Fancy Bear", "Sofacy", "Strontium", "Grizzly Steppe", "Sednit", "SIG40", "Group 74", "PawnStorm",

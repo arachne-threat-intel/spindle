@@ -1164,3 +1164,7 @@
 * Name = Red Menshen
 
 ---
+
+* Name = Gold Lagoon
+
+---

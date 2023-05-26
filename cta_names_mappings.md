@@ -1168,3 +1168,8 @@
 * Name = Gold Lagoon
 
 ---
+
+* Name = Rocket Kittens
+* Country of organisation = [Islamic Republic of Iran](https://blog.checkpoint.com/wp-content/uploads/2015/11/rocket-kitten-report.pdf)
+
+---

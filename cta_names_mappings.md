@@ -541,7 +541,7 @@
 ---
 
 * Name = Electric Panda
-* Country of organisation = [China](https://www.politico.com/news/2020/04/16/china-electric-panda-hackers-seek-us-targets-191220)
+* Country of organisation = [People's Republic of China](https://www.politico.com/news/2020/04/16/china-electric-panda-hackers-seek-us-targets-191220)
 
 ---
 
@@ -571,6 +571,7 @@
 
 * Name = Red Delta
 * Full aliases =  [BRONZE PRESIDENT, HoneyMyte, Red Lich, Temp.Hex](https://www.secureworks.com/research/threat-profiles), [Earth Preta](https://www.trendmicro.com/en_us/research/22/k/earth-preta-spear-phishing-governments-worldwide.html)
+* Country of organisation = [People's Republic of China](https://www.secureworks.com/research/bronze-president-targets-ngos)
 
 ---
 

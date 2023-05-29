@@ -332,7 +332,8 @@
     "campaigns": ["PLEAD", "Shrouded Crossbow"]
   },
   "Red Delta": {
-    "full_aliases": ["BRONZE PRESIDENT", "HoneyMyte", "Red Lich", "Temp.Hex", "Earth Preta"]
+    "full_aliases": ["BRONZE PRESIDENT", "HoneyMyte", "Red Lich", "Temp.Hex", "Earth Preta"],
+    "countries": ["CN"]
   },
   "Dark Hotel": {
     "full_aliases": ["TUNGSTEN BRIDGE", "CTG-1948", "DUBNIUM", "Zigzag Hail", "Tapaoux"],

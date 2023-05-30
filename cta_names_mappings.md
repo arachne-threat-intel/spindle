@@ -1182,3 +1182,7 @@
 * Name = Blackgear
 
 ---
+
+* Name = Tropical Scorpius
+
+---

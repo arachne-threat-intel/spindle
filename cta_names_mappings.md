@@ -1186,3 +1186,9 @@
 * Name = Tropical Scorpius
 
 ---
+
+* Name = Dark Caracal
+* Organisation = [General Directorate of General Security (GDGS)](https://info.lookout.com/rs/051-ESQ-475/images/Lookout_Dark-Caracal_srr_20180118_us_v.1.0.pdf)
+* Country of organisation = [Lebanon](https://info.lookout.com/rs/051-ESQ-475/images/Lookout_Dark-Caracal_srr_20180118_us_v.1.0.pdf)
+
+---

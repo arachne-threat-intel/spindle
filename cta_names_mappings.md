@@ -1190,3 +1190,7 @@
 * Name = Dark Caracal
 
 ---
+
+* Name = DRAGONBRIDGE
+* Country of organisation = [People's Republic of China](https://www.mandiant.com/resources/blog/prc-dragonbridge-influence-elections)
+---

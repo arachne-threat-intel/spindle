@@ -1207,3 +1207,7 @@
 * Name = COBALT KATANA
 
 ---
+
+* Name = Earth Bogle
+
+---

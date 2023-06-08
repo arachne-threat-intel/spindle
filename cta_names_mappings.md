@@ -1231,3 +1231,7 @@
 * Name = GOLD NORTHFIELD
 
 ---
+
+* Name = GhostEmperor
+
+---

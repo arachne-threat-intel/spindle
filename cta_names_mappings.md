@@ -1235,3 +1235,7 @@
 * Name = GhostEmperor
 
 ---
+
+* Name = Boss Spider
+
+---

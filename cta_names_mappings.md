@@ -1258,3 +1258,7 @@
 * Name = Raccoon Gang
 
 ---
+
+* Name = Sprite Spider
+
+---

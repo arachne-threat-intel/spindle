@@ -1254,3 +1254,7 @@
 * Name = Gold Fairfax
 
 ---
+
+* Name = Raccoon Gang
+
+---

@@ -1251,3 +1251,7 @@
 * Name = Viking Spider
 
 ---
+
+* Name = Gold Fairfax
+
+---

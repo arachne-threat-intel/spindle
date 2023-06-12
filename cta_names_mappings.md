@@ -596,8 +596,7 @@
 
 ---
 
-* Name = Mikroceen
-* Full aliases = [SixLittleMonkeys](https://securelist.com/microcin-is-here/97353/)
+* Name = SixLittleMonkeys
 
 ---
 

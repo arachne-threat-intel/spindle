@@ -1266,3 +1266,8 @@
 * Name = FunnyDream
 
 ---
+
+* Name = COLDRIVER
+* Full aliases = [Callisto](https://blog.google/threat-analysis-group/update-on-cyber-activity-in-eastern-europe/), [CALISTO](https://blog.sekoia.io/calisto-continues-its-credential-harvesting-campaign/), [Blue Callisto, Callisto Group](https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/blue-callisto-orbits-around-us.html), [TAG-53](https://www.recordedfuture.com/exposing-tag-53-credential-harvesting-infrastructure-for-russia-aligned-espionage-operations)
+
+---

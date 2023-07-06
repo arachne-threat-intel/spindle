@@ -1287,3 +1287,7 @@
 * Name = Teng Snake
 
 ---
+
+* Name = Roaming Mantis
+
+---

@@ -1327,3 +1327,8 @@
 * Name = UNC4466
 
 ---
+
+* Name = Evasive Panda
+* Full aliases = [BRONZE HIGHLAND, Daggerfly)](https://www.welivesecurity.com/2023/04/26/evasive-panda-apt-group-malware-updates-popular-chinese-software/)
+
+---

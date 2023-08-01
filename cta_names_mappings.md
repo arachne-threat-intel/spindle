@@ -1336,3 +1336,7 @@
 * Name = Gold Hawthorne
 
 ---
+
+* Name = XE Group
+
+---

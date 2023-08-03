@@ -495,7 +495,7 @@
     "countries": ["IR"]
   },
   "Granite Typhoon": {
-    "full_aliases": ["GALLIUM"],
+    "full_aliases": ["GALLIUM", "Alloy Taurus", "Softcell"],
     "countries": ["CN"]
   },
   "Denim Tsunami": {
@@ -772,5 +772,7 @@
   "Gold Hawthorne": {
   },
   "XE Group": {
+  },
+  "YoroTrooper": {
   }
 }

@@ -857,7 +857,7 @@
 ---
 
 * Name = Granite Typhoon
-* Full aliases = [GALLIUM](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Full aliases = [GALLIUM](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide), [Alloy Taurus, Softcell](https://unit42.paloaltonetworks.com/alloy-taurus/)
 * Country of organisation = [People's Republic of China](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
@@ -1338,5 +1338,9 @@
 ---
 
 * Name = XE Group
+
+---
+
+* Name = YoroTrooper
 
 ---

@@ -845,7 +845,7 @@
 ---
 
 * Name = Charcoal Typhoon
-* Full aliases = [ControlX](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi), [CHROMIUM](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Full aliases = [ControlX](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi), [CHROMIUM](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide), [BRONZE UNIVERSITY, RedHotel](https://therecord.media/chinese-military-hackers-redhotel-target-countries-across-asia-north-america-europe)
 * Country of organisation = [People's Republic of China](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---

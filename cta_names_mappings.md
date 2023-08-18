@@ -1353,6 +1353,11 @@
 
 ---
 
+* Name = LightBasin
+* Full aliases = [UNC1945](https://www.zdnet.com/article/these-hackers-dodge-windows-and-target-linux-as-they-look-to-steal-phone-data/#ftag=RSSbaffb68)
+
+---
+
 * Name = UCID902
 
 ---
@@ -1366,5 +1371,9 @@
 ---
 
 * Name = TACTICAL#OCTOPUS
+
+---
+
+* Name = DEV-0569
 
 ---

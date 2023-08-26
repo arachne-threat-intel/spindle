@@ -91,6 +91,7 @@
   "APT28": {
     "full_aliases": ["Fancy Bear", "Sofacy", "Strontium", "Grizzly Steppe", "Sednit", "SIG40", "Group 74", "PawnStorm",
       "Snakemackerel", "TG-4127", "Tsar Team", "Blue Athena", "IRON TWILIGHT", "Swallowtail", "Threat Group-4127", "Forest Blizzard"],
+    "subgroups": ["Zebrocy"],
     "organisations": ["Unit 26165 of the 85th Main Special Service Center"],
     "countries": ["RU"]
   },

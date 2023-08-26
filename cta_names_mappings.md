@@ -1377,3 +1377,7 @@
 * Name = DEV-0569
 
 ---
+
+* Name = DragonForce Malaysia
+
+---

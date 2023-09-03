@@ -333,7 +333,17 @@
     "campaigns": ["PLEAD", "Shrouded Crossbow"]
   },
   "Red Delta": {
-    "full_aliases": ["BRONZE PRESIDENT", "HoneyMyte", "Red Lich", "Temp.Hex", "Earth Preta"],
+    "full_aliases": ["BRONZE PRESIDENT", "HoneyMyte", "Red Lich", "Temp.Hex", "Earth Preta", "Mustang Panda"],
+    "subgroups": ["Groups 724", "Group 1358", "Group 5171"],
+    "countries": ["CN"]
+  },
+  "Groups 724": {
+    "countries": ["CN"]
+  },
+  "Groups 1358": {
+    "countries": ["CN"]
+  },
+  "Groups 5171": {
     "countries": ["CN"]
   },
   "Dark Hotel": {

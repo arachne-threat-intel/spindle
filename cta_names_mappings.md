@@ -1309,6 +1309,7 @@
 ---
 
 * Name = Roaming Mantis
+* Full aliases = [Yanbian Gang](https://www.telekom.com/en/blog/group/article/moqhao-masters-new-tricks-1031484)
 
 ---
 

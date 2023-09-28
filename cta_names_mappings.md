@@ -561,7 +561,7 @@
 ---
 
 * Name = BlackTech
-* Full aliases = [Palmerworm](https://thehackernews.com/2020/09/chinese-apt-group-targets-media-finance.html), [BRONZE CANAL, Circuit Panda, CTG-6177, Shrouded Crossbow](https://www.secureworks.com/research/threat-profiles)
+* Full aliases = [Palmerworm, Temp.Overboard, Circuit Panda, Radio Panda](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-270a), [BRONZE CANAL, CTG-6177, Shrouded Crossbow](https://www.secureworks.com/research/threat-profiles)
 
 ---
 

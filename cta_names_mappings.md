@@ -1407,6 +1407,10 @@
 
 ---
 
+* Name = Gold Mystic
+
+---
+
 ---
 
 * Name = Kurdistan 4455

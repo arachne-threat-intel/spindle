@@ -778,7 +778,7 @@
 ---
 
 * Name = EMBER BEAR
-* Full aliases = [UAC-0056, Lorec53, Lorec Bear, Bleeding Bear, Saint Bear](https://www.crowdstrike.com/blog/who-is-ember-bear/)
+* Full aliases = [UAC-0056, Lorec53, Lorec Bear, Bleeding Bear, Saint Bear](https://www.crowdstrike.com/blog/who-is-ember-bear/) [Nodaria](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/nodaria-ukraine-infostealer)
 * Country of organisation = [Russian Federation](https://www.crowdstrike.com/blog/who-is-ember-bear/)
 
 ---

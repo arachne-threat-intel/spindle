@@ -1,4 +1,4 @@
-# Updating rosettaStone via GitHub
+# Updating Spindle via GitHub
 
 * [Branch Selection](#branch-selection)
 * [Committing Your Changes](#committing-your-changes)

@@ -4,7 +4,7 @@ Hello and welcome to the Arachne Digital cyber threat actor (CTA) tracker, Spind
 
 ## The various CTAs
 
-Spindle is open source and available on GitHub. It serves as a reference document capturing different names, aliases, and connections of CTAs. [Here](https://github.com/arachne-threat-intel/rosettaStone/blob/main/cta_names_mappings.md) is a human readable document and [here](https://github.com/arachne-threat-intel/rosettaStone/blob/main/cta_names_mappings.json) is a machine readable document.
+Spindle is open source and available on GitHub. It serves as a reference document capturing different names, aliases, and connections of CTAs. [Here](cta_names_mappings.md) is a human readable document and [here](cta_names_mappings.json) is a machine readable document.
 
 ## The Arachne Digital naming convention
 
@@ -49,7 +49,7 @@ To combat these problems, Arachne Digital is trying to promote standardisation w
 
 ## License
 
-This repository is [licensed](https://github.com/arachne-threat-intel/rosettaStone/blob/main/LICENSE.md) under Creative Commons Attribution Share Alike 4.0 International.
+This repository is [licensed](LICENSE.md) under Creative Commons Attribution Share Alike 4.0 International.
 
 ## Contact
 

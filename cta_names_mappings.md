@@ -989,7 +989,7 @@
 ---
 
 * Name = Gray Sandstorm
-* Full aliases = [DEV-0343](https://github.com/arachne-threat-intel/rosettaStone/edit/new_groups/cta_names_mappings.md)
+* Full aliases = [DEV-0343](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Country of organisation = [Islamic Republic of Iran](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---

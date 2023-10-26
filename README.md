@@ -1,9 +1,10 @@
-# Welcome to the Arachne Digital Rosetta Stone!
+# Welcome to Spindle!
 
-Hello and welcome to the Arachne Digital Rosetta Stone, a resource for the cyber threat intelligence (CTI) community. This repository serves as a reference for tracking and understanding various cyber threat actors (CTAs) and their aliases. Arachne Digital has also introduced its own unique naming convention that is open source for people to use.
+Hello and welcome to the Arachne Digital cyber threat actor (CTA) tracker, Spindle. This is a resource for the cyber threat intelligence (CTI) community. Arachne Digital has also introduced its own unique naming convention that is open source for people to use.
 
 ## The various CTAs
-The Arachne Digital Rosetta Stone is open source and available on GitHub. It serves as a reference document capturing different names, aliases, and connections of CTAs. [Here](https://github.com/arachne-threat-intel/rosettaStone/blob/main/cta_names_mappings.md) is a human readable document and [here](https://github.com/arachne-threat-intel/rosettaStone/blob/main/cta_names_mappings.json) is a machine readable document.
+
+Spindle is open source and available on GitHub. It serves as a reference document capturing different names, aliases, and connections of CTAs. [Here](https://github.com/arachne-threat-intel/rosettaStone/blob/main/cta_names_mappings.md) is a human readable document and [here](https://github.com/arachne-threat-intel/rosettaStone/blob/main/cta_names_mappings.json) is a machine readable document.
 
 ## The Arachne Digital naming convention
 
@@ -22,9 +23,9 @@ Arachne Digital names are only assigned when there is no widely accepted existin
 
 If you want to have a name assigned to a new CTA or add to the information around an existing CTA, open an issue on this GitHub repository. 
 
-For new CTAs, outline the research you have done to establish the CTA and that the CTA does not already have a name. This research to establish a CTA can vary, be it primary research or simply public reports about a campaign that is not attributed to a known CTA. This will be reviewed by Arachne Digital staff and if approved, an entry will be added to the Rosetta Stone.
+For new CTAs, outline the research you have done to establish the CTA and that the CTA does not already have a name. This research to establish a CTA can vary, be it primary research or simply public reports about a campaign that is not attributed to a known CTA. This will be reviewed by Arachne Digital staff and if approved, an entry will be added to Spindle.
 
-For existing CTAs, outline the information you would like to include in the Rosetta Stone, and please link back to online sources. If you have performed original research, publish a blog post and link to that. This will be reviewed by Arachne Digital staff and if approved, an entry will be added to the Rosetta Stone.
+For existing CTAs, outline the information you would like to include in Spindle, and please link back to online sources. If you have performed original research, publish a blog post and link to that. This will be reviewed by Arachne Digital staff and if approved, an entry will be added to Spindle.
 
 ## What? Another naming convention in CTI?
 

@@ -1363,6 +1363,7 @@
 ---
 
 * Name = YoroTrooper
+* Country of organisation = [Republic of Kazakhstan](https://blog.talosintelligence.com/attributing-yorotrooper/)
 
 ---
 

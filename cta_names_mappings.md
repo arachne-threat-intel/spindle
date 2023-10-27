@@ -1433,3 +1433,8 @@
 * Country of organisation = [Democratic People's Republic of Korea](https://www.proofpoint.com/au/blog/threat-insight/ta444-apt-startup-aimed-at-your-funds)
 
 ---
+
+* Name = Crossing Elf
+* Operators = [0mega ransomware](https://blog.cyble.com/2022/07/12/new-ransomware-groups-on-the-rise/)
+
+---

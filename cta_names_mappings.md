@@ -1438,3 +1438,8 @@
 * Operators = [0mega ransomware](https://blog.cyble.com/2022/07/12/new-ransomware-groups-on-the-rise/)
 
 ---
+
+* Name = Entry Elf
+* Operators = [8Base ransomware](https://www.acronis.com/en-eu/cyber-protection-center/posts/8base-ransomware-stays-unseen-for-a-year/)
+
+---

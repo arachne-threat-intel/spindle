@@ -1186,6 +1186,7 @@
 ---
 
 * Name = Gold Lagoon
+* Operators = [QakBot/Qbot](https://www.secureworks.com/research/threat-profiles)
 
 ---
 

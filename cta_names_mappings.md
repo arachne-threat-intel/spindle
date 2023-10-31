@@ -1444,3 +1444,8 @@
 * Operators = [8Base ransomware](https://www.acronis.com/en-eu/cyber-protection-center/posts/8base-ransomware-stays-unseen-for-a-year/)
 
 ---
+
+* Name = Chip Elf
+* Operators = [Prometheus ransomware](https://www.cybereason.com/blog/research/cybereason-vs.-prometheus-ransomware)
+
+---

@@ -1449,3 +1449,7 @@
 * Operators = [Prometheus ransomware](https://www.cybereason.com/blog/research/cybereason-vs.-prometheus-ransomware)
 
 ---
+
+* Name = Side Copy
+
+---

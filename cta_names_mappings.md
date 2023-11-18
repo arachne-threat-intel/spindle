@@ -1461,3 +1461,8 @@
 * Nane = Neo_Net
 
 ---
+
+* Name = Plain Elf
+* Operators = [Cl0p ransomware](https://www.sentinelone.com/labs/cl0p-ransomware-targets-linux-systems-with-flawed-encryption-decryptor-available/)
+
+---

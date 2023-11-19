@@ -1466,3 +1466,8 @@
 * Operators = [Cl0p ransomware](https://www.sentinelone.com/labs/cl0p-ransomware-targets-linux-systems-with-flawed-encryption-decryptor-available/)
 
 ---
+
+* Name = Sticky Elf
+* Operators = [BabLock ransomware/Rorschach ransomware](https://www.trendmicro.com/en_ph/research/23/d/an-analysis-of-the-bablock-ransomware.html)
+
+---

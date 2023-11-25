@@ -1471,3 +1471,8 @@
 * Operators = [BabLock ransomware/Rorschach ransomware](https://www.trendmicro.com/en_ph/research/23/d/an-analysis-of-the-bablock-ransomware.html)
 
 ---
+
+* Name = Storm-0558
+* Country of organisation = [People's Republic of China](https://www.microsoft.com/en-us/security/blog/2023/07/14/analysis-of-storm-0558-techniques-for-unauthorized-email-access/)
+
+---

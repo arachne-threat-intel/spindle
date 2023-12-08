@@ -389,6 +389,11 @@
 
 ---
 
+* Name = FIN12
+* Full aliases = [Pistachio Tempest](https://securelist.com/focus-on-droxidat-systembc/110302/)
+
+---
+
 * Name = APT-C-21
 * Full aliases = [GnatSpy, FrozenCell, VAMP](https://securityaffairs.co/wordpress/125010/apt/apt-c-23-middle-east-android-spyware.html)
 

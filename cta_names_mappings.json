@@ -220,6 +220,9 @@
   "FIN11": {
     "full_aliases": ["DEV-0950", "Lace Tempest"]
   },
+  "FIN12": {
+    "full_aliases": ["Pistachio Tempest"]
+  },
   "APT-C-21": {
     "full_aliases": ["GnatSpy", "FrozenCell", "VAMP"]
   },

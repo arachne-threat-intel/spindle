@@ -1490,3 +1490,7 @@
 * Name = BianLian
 
 ---
+
+* Name = Asylum Ambuscade
+
+---

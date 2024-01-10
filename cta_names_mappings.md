@@ -1494,3 +1494,8 @@
 * Name = Asylum Ambuscade
 
 ---
+
+* Name = Flush Elf
+* Operators = [Avaddon ransomware](https://www.mandiant.com/resources/chasing-avaddon-ransomware)
+
+---

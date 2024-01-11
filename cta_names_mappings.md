@@ -1499,3 +1499,8 @@
 * Operators = [Avaddon ransomware](https://www.mandiant.com/resources/chasing-avaddon-ransomware)
 
 ---
+
+* Name = Guarantee Elf
+* Operators = [AvosLocker ransomware](https://www.ic3.gov/Media/News/2022/220318.pdf)
+
+---

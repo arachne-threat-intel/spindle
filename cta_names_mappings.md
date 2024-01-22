@@ -1209,6 +1209,7 @@
 ---
 
 * Name = Tropical Scorpius
+* Full aliases = [Void Rabisu](https://www.trendmicro.com/de_de/research/23/e/void-rabisu-s-use-of-romcom-backdoor-shows-a-growing-shift-in-th.html)
 
 ---
 

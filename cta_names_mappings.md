@@ -1505,3 +1505,8 @@
 * Operators = [AvosLocker ransomware](https://www.ic3.gov/Media/News/2022/220318.pdf)
 
 ---
+
+* Name = Water Minyades
+* Operators = [Batloader](https://www.trendmicro.com/en_my/research/23/a/batloader-malware-abuses-legitimate-tools-uses-obfuscated-javasc.html)
+
+---

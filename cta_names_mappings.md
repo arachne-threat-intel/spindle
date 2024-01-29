@@ -1510,3 +1510,8 @@
 * Operators = [Batloader](https://www.trendmicro.com/en_my/research/23/a/batloader-malware-abuses-legitimate-tools-uses-obfuscated-javasc.html)
 
 ---
+
+* Name = Scenario Elf
+* Operators = [Kinsing](https://www.lacework.com/blog/kinsing-dark-iot-botnet-among-threats-targeting-cve-2022-26134/)
+
+---

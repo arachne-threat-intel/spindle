@@ -1515,3 +1515,8 @@
 * Operators = [Kinsing](https://www.lacework.com/blog/kinsing-dark-iot-botnet-among-threats-targeting-cve-2022-26134/)
 
 ---
+
+* Name = Safari Elf
+* Operators = [PLAY/PlayCrypt ransomware](https://chuongdong.com/reverse%20engineering/2022/09/03/PLAYRansomware/)
+
+---

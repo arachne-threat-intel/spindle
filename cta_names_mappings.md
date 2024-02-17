@@ -271,16 +271,27 @@
 
 ---
 
+* Name = Kimsuky
+* Subgroups = [TA406, TA408, TA427](https://www.proofpoint.com/sites/default/files/threat-reports/pfpt-us-tr-threat-insight-paper-triple-threat-N-Korea-aligned-TA406-steals-scams-spies.pdf)
+* Department = [5th Bureau, Inter-Korean Affairs](https://www.mandiant.com/resources/blog/mapping-dprk-groups-to-government)
+* Organisation = [Reconnaissance Bureau of the General Staff Department (RGB)](https://www.mandiant.com/resources/blog/mapping-dprk-groups-to-government)
+* Country of organisation = [North Korea](https://www.mandiant.com/resources/blog/mapping-dprk-groups-to-government)
+
+---
+
 * Name = TA406
-* Parent Group = [APT37](https://www.proofpoint.com/sites/default/files/threat-reports/pfpt-us-tr-threat-insight-paper-triple-threat-N-Korea-aligned-TA406-steals-scams-spies.pdf)
+* Parent Group = [ky](https://www.proofpoint.com/sites/default/files/threat-reports/pfpt-us-tr-threat-insight-paper-triple-threat-N-Korea-aligned-TA406-steals-scams-spies.pdf)
 
 ---
 
 * Name = TA408
+* Parent Group = [ky](https://www.proofpoint.com/sites/default/files/threat-reports/pfpt-us-tr-threat-insight-paper-triple-threat-N-Korea-aligned-TA406-steals-scams-spies.pdf)
 
 ---
 
 * Name = TA427
+* Parent Group = [ky](https://www.proofpoint.com/sites/default/files/threat-reports/pfpt-us-tr-threat-insight-paper-triple-threat-N-Korea-aligned-TA406-steals-scams-spies.pdf)
+
 
 ---
 
@@ -778,10 +789,6 @@
 ---
 
 * Name = TEMP.Hermit
-
----
-
-* Name = Kimsuky
 
 ---
 

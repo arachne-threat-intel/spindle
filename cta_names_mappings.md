@@ -19,7 +19,7 @@
 ---
 
 * Name = APT4
-* Full aliases = [Maverick Panda, Sykipot Group, Wisp](https://www.fireeye.com/current-threats/apt-groups.html), [BRONZE EDISON, TG-0623](https://www.secureworks.com/research/threat-profiles)
+* Full aliases = [Maverick Panda, Sykipot Group, Wisp](https://www.fireeye.com/current-threats/apt-groups.html), [BRONZE EDISON, TG-0623](https://www.secureworks.com/research/threat-profiles), [Salmon Typhoon](https://www.microsoft.com/en-us/security/blog/2024/02/14/staying-ahead-of-threat-actors-in-the-age-of-ai/)
 * Organisation = 
 
 ---

@@ -265,6 +265,9 @@
 ---
 
 * Name = APT37
+* Full aliases = [Thallium](https://www.cybereason.com/blog/back-to-the-future-inside-the-kimsuky-kgh-spyware-suite), [Reaper](https://www.fireeye.com/blog/threat-research/2018/02/apt37-overlooked-north-korean-actor.html), [ScarCruft](https://cyware.com/news/researchers-caught-a-north-korean-group-trying-out-a-new-hiding-trick-cc691397), [InkySquid](https://www.volexity.com/blog/2021/08/17/north-korean-apt-inkysquid-infects-victims-using-browser-exploits/), [Velvet Chollima](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi), [TA406](https://www.securityweek.com/north-korean-hacker-group-intensifies-espionage-campaigns), [Konni Group](https://www.proofpoint.com/us/blog/threat-insight/triple-threat-north-korea-aligned-ta406-scams-spies-and-steals), [Black Banshee](https://blog.talosintelligence.com/2021/11/kimsuky-abuses-blogs-delivers-malware.html), [Group 123, RICOCHET CHOLLIMA, NICKEL FOXCROFT, NICKEL KIMBALL](https://www.secureworks.com/research/threat-profiles), [SharpTongue](https://www.volexity.com/blog/2022/07/28/sharptongue-deploys-clever-mail-stealing-browser-extension-sharpext/), [RedEyes](https://asec.ahnlab.com/en/54349/), [Emerald Sleet](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Organisation = [Ministry of State Security](https://www.mandiant.com/resources/blog/mapping-dprk-groups-to-government)
+* Country of organisation = [Democratic People's Republic of Korea](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
 
 ---
 

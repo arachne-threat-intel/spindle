@@ -1530,3 +1530,9 @@
 * Operators = [PLAY/PlayCrypt ransomware](https://chuongdong.com/reverse%20engineering/2022/09/03/PLAYRansomware/)
 
 ---
+
+* Name = Vanguard Panda
+* Full aliases = [Volt Typhoon, BRONZE SILHOUETTE, Dev-0391, UNC3236, Voltzite, and Insidious Taurus](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a)
+* Country of organisation = [People’s Republic of China](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a)
+
+---

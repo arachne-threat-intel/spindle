@@ -1536,3 +1536,8 @@
 * Country of organisation = [People’s Republic of China](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a)
 
 ---
+
+* Name = Cottage Elf
+* Operators = [MedusaLocker](https://www.crowdstrike.com/blog/double-trouble-ransomware-data-leak-extortion-part-1/)
+
+---

@@ -1541,3 +1541,8 @@
 * Operators = [MedusaLocker](https://www.crowdstrike.com/blog/double-trouble-ransomware-data-leak-extortion-part-1/)
 
 ---
+
+* Name = Fan Elf
+* Operators = [Mallox ransomware](https://www.suspectfile.com/interview-with-mallox-ransomware-group/)
+
+---

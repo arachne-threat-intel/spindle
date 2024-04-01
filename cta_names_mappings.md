@@ -1546,3 +1546,7 @@
 * Operators = [Mallox ransomware](https://www.suspectfile.com/interview-with-mallox-ransomware-group/)
 
 ---
+
+* Name = Water Orthrus
+
+---

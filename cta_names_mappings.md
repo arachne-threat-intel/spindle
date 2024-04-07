@@ -1550,3 +1550,7 @@
 * Name = Water Orthrus
 
 ---
+
+* Name = Mysterious Elephant
+
+---

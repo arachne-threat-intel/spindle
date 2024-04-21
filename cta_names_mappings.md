@@ -1559,3 +1559,7 @@
 * Full aliases = [TA473](https://www.proofpoint.com/au/blog/threat-insight/exploitation-dish-best-served-cold-winter-vivern-uses-known-zimbra-vulnerability)
 
 ---
+
+* Name = Flax Typhoon
+
+---

@@ -1572,3 +1572,7 @@
 * Operators = [Royal ransomware](https://www.fortinet.com/blog/threat-research/ransomware-roundup-royal-ransomware)
 
 ---
+
+* Name = MoustachedBouncer
+
+---

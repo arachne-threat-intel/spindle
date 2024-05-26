@@ -1592,3 +1592,10 @@
 * Name = TA581
 
 ---
+
+* Name =  TraderTraitor
+* Full aliases = [UNC4899](https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain/)
+* Organisation = [Reconnaissance General Bureau](https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain/)
+* Country of organisation = [Democratic People's Republic of Korea](https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain/)
+
+---

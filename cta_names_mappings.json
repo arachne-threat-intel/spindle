@@ -606,8 +606,8 @@
   "Lapsus$": {
     "full_aliases": ["DEV-0537", "Strawberry Tempest"]
   },
-  "WhisperGate": {
-    "full_aliases": ["DEV-0586", "Cadet Blizzard"],
+  "Cadet Blizzard": {
+    "full_aliases": ["DEV-0586"],
     "countries": ["RU"]
   },
   "Wisteria Tsunami": {

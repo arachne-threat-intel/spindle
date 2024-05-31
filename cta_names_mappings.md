@@ -1037,8 +1037,8 @@
 
 ---
 
-* Name = WhisperGate
-* Full aliases = [DEV-0586, Cadet Blizzard](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Name = Cadet Blizzard
+* Full aliases = [DEV-0586](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 * Country of organisation = [Russian Federation](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---

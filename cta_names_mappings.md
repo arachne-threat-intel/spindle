@@ -1599,3 +1599,9 @@
 * Country of organisation = [Democratic People's Republic of Korea](https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain/)
 
 ---
+
+* Name = Scrap Elf
+* Operators = [BlackCat, ALPHV](https://unit42.paloaltonetworks.com/blackcat-ransomware/), [Noberus](https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/noberus-blackcat-alphv-rust-ransomware)
+* Ransomware affiliates = [DEV-0504](https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/#DEV-0504)
+
+---

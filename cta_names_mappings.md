@@ -1605,3 +1605,8 @@
 * Ransomware affiliates = [DEV-0504](https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/#DEV-0504)
 
 ---
+
+* Name = Bolt Elf
+* Deploys = [GlobeImposter Ransomware](https://asec.ahnlab.com/en/48940/)
+
+---

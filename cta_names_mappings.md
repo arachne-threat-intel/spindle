@@ -1610,3 +1610,7 @@
 * Deploys = [GlobeImposter Ransomware](https://asec.ahnlab.com/en/48940/)
 
 ---
+
+* Name = MoustachedBouncer
+
+---

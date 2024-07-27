@@ -302,10 +302,10 @@
 ---
 
 * Name = APT38
-* Full aliases = [Lazarus Group](https://www.fireeye.com/current-threats/apt-groups.html#north-korea), [Hidden Cobra, Guardians of Peace](https://www.cisa.gov/uscert/ncas/alerts/TA17-164A), [NICKEL ACADEMY](https://www.secureworks.com/about/press/media-alert-secureworks-discovers-north-korean-cyber-threat-group-lazarus-spearphishing), [Black Artemis, COVELLITE, CTG-2460, Dark Seoul, High Anonymous, Labyrinth Chollima, New Romanic Cyber Army Team, NNPT Group, Who Am I?, Whois Team, ZINC](https://www.secureworks.com/research/threat-profiles), [TA404](https://www.proofpoint.com/us/blog/threat-insight/above-fold-and-your-inbox-tracing-state-aligned-activity-targeting-journalists), [APT-C-26](https://mp-weixin-qq-com.translate.goog/s/W4hkBRJnwN1G32QCpaNNoA?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp&utm_source=substack&utm_medium=email), [ZINC, Diamond Sleet](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
-* Subgroups = [AndAriel](https://home.treasury.gov/news/press-releases/sm774)
-* Country of organisation = [Democratic People's Republic of Korea](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
-* Campaigns = [Operation AppleJeus](https://www.cisa.gov/uscert/ncas/alerts/aa21-048a), [Operation Dream Job](https://www.clearskysec.com/wp-content/uploads/2020/08/Dream-Job-Campaign.pdf)
+* Full aliases = [TraderTraitor](https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine)
+* Partial Aliases = [CryptoCore](https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine) - shared between APT38 and APT43
+* Organisation = [Reconnaissance General Bureau](https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine)
+* Country of organisation = [Democratic People's Republic of Korea](https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine)
 
 ---
 
@@ -381,6 +381,22 @@
 ---
 
 * Name = APT42
+
+---
+
+* Name = APT43
+* Partial Aliases = [CryptoCore](https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine) - shared between APT38 and APT43
+
+---
+
+* Name = APT44
+
+---
+
+* Name = APT45
+* Full aliases = [Lazarus Group](https://www.fireeye.com/current-threats/apt-groups.html#north-korea), [Hidden Cobra, Guardians of Peace](https://www.cisa.gov/uscert/ncas/alerts/TA17-164A), [NICKEL ACADEMY](https://www.secureworks.com/about/press/media-alert-secureworks-discovers-north-korean-cyber-threat-group-lazarus-spearphishing), [Black Artemis, COVELLITE, CTG-2460, Dark Seoul, High Anonymous, Labyrinth Chollima, New Romanic Cyber Army Team, NNPT Group, Who Am I?, Whois Team, ZINC](https://www.secureworks.com/research/threat-profiles), [TA404](https://www.proofpoint.com/us/blog/threat-insight/above-fold-and-your-inbox-tracing-state-aligned-activity-targeting-journalists), [APT-C-26](https://mp-weixin-qq-com.translate.goog/s/W4hkBRJnwN1G32QCpaNNoA?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp&utm_source=substack&utm_medium=email), [ZINC, Diamond Sleet](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Subgroups = [AndAriel](https://home.treasury.gov/news/press-releases/sm774)
+* Country of organisation = [Democratic People's Republic of Korea](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
 
 ---
 

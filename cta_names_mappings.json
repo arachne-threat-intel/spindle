@@ -160,7 +160,7 @@
   },
   "APT38": {
     "full_aliases": ["TraderTraitor"],
-    "partial_aliases": ["CryptoCore"],
+    "partial_aliases": ["CryptoCore"]
   },
   "BlueNorOff": {
     "full_aliases": ["Stardust Chollima", "BeagleBoyz", "CTG-6459", "NICKEL GLADSTONE", "COPERNICIUM", "Genie Spider", "Sapphire Sleet"],
@@ -206,7 +206,7 @@
   "APT42": {
   },
   "APT43": {
-    "partial_aliases": ["CryptoCore"],
+    "partial_aliases": ["CryptoCore"]
   },
   "APT44": {
   },
@@ -215,7 +215,7 @@
       "COVELLITE", "CTG-2460", "Dark Seoul", "High Anonymous", "Labyrinth Chollima", "New Romanic Cyber Army Team",
       "NNPT Group", "Who Am I?", "Whois Team", "ZINC", "TA404", "APT-C-26", "Diamond Sleet"],
     "subgroups": ["AndAriel"],
-    "countries": ["KP"],
+    "countries": ["KP"]
   },
   "FIN6": {
     "full_aliases": ["ITG08", "MageCart Group 6", "Skeleton Spider", "White Giant", "GOLD FRANKLIN", "TAAL", "Camouflage Tempest"]

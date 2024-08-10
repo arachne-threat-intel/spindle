@@ -32,6 +32,11 @@ Spindle is an open-source cyber threat actor (CTA) tracker developed by Arachne 
 ### Milestone 5: Enhancing Core Functionality 
 * Frontend Development: Begin developing a frontend interface that allows users to add new CTAs and associated information. This frontend will automate the population of the markdown and JSON files, ensuring consistency and reducing manual effort.
 
-### Milestone 6: Global Impact
+### Milestone 6: Scaling and Sustainability
+* Scaling Infrastructure: Optimise the infrastructure to handle increased traffic and usage, ensuring that the public instance of Spindle remains performant and reliable as its user base grows.
+* Long-term Sustainability Planning: Develop a sustainability plan for Spindle, including potential funding sources, partnerships, and governance structures to ensure its continued development and maintenance.
+* Global Outreach and Localisation: Begin efforts to localise Spindle, translating the interface and documentation into multiple languages to support a global user base. Engage with international privacy and open-source communities to broaden Tracery’s reach.
+
+### Milestone 7: Global Impact
 * Global Outreach: Expand outreach efforts to engage with international CTI communities, translating key documentation and interfaces to support non-English speaking users.
 Recognition as a Key Resource: Focus on positioning Spindle as a recognized and widely cited resource within the cybersecurity community, promoting its use in academic research, industry reports, and other publications.

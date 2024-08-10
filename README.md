@@ -47,6 +47,9 @@ While we need various naming conventions, this causes problems such as:
 
 To combat these problems, Arachne Digital is trying to promote standardisation where possible, assigning our own names only when a viable alternative does not exist, and dropping our name when one does.
 
+## What are the long term plans for Spindle?
+Check out our roadmap for Spindle [here](https://github.com/arachne-threat-intel/spindle/blob/Community-docs/ROADMAP.md).
+
 ## License
 
 This repository is [licensed](LICENSE.md) under Creative Commons Attribution Share Alike 4.0 International.

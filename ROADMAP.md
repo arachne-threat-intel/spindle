@@ -3,49 +3,73 @@
 ## Project Mission and Summary
 Spindle is an open-source cyber threat actor (CTA) tracker developed by Arachne Digital to serve the cyber threat intelligence (CTI) community. Our mission is to simplify CTA identification and attribution by providing a centralised, accurate, and community-driven repository of CTA names, aliases, and connections. Spindle integrates with the Thread application to enhance threat analysis workflows and promotes standardisation to reduce confusion within the CTI landscape. With a focus on data accuracy through human analyst review and community contributions, Spindle aims to become a widely recognised and trusted resource in global cybersecurity efforts.
 
-## Milestones
+## Milestones and Rationale
 
 ### Milestone 1: Security Testing and Remediation
-* Conduct Penetration Testing: Identify security vulnerabilities in the application through comprehensive penetration testing. Collaborate with the assigned penetration tester to perform a detailed security assessment, covering all aspects of the project.
-* Review and Prioritise Findings: Understand and categorise the security risks identified during the penetration testing. Analyse the findings provided by the penetration tester, categorise them based on severity, and prioritise them for remediation based on potential impact and ease of exploitation.
-* Implement Remediation Measures: Address all identified security vulnerabilities to ensure the safety and integrity of the application. Develop and deploy fixes for the identified vulnerabilities, ensuring that each issue is resolved in line with best security practices. 
-* Update Security Documentation: Maintain accurate records of the security posture and mitigation steps taken for the project. Document all findings, remediation steps, and testing results, and update the security policy and procedures to reflect any new security practices or lessons learned from the testing process.
+- **Tasks**:
+  - Conduct penetration testing to identify security issues.
+  - Review and prioritise findings based on severity and impact.
+  - Implement remediation measures to address identified issues.
+  - Update security documentation to reflect findings and actions taken.
+
+- **Rationale**: Ensuring Spindle’s security is critical to maintaining trust. Addressing security issues early establishes a secure foundation for future developments and ensures that the platform remains robust as it scales. Note that security testing will become an annual event as Arachne Digital grows.
 
 ### Milestone 2: Transition to Memory Safe Programming
-* Comprehensive Codebase Audit: Identify and document all instances of memory-unsafe code. Conduct a thorough audit of the codebase, cataloguing memory-unsafe code and third-party dependencies, particularly those written in languages like C and C++.
-* Software Architecture Analysis and Component Prioritisation: Map the architecture of Thread and Tracery to identify and prioritise critical components for migration to memory safe languages. Understand the overall architecture, focusing on security-critical and performance-critical areas, and prioritise components that handle sensitive data or are frequently targeted by attacks.
-* Review and Enhance Current Mitigation Strategies: Assess and improve current security practices related to memory safety. Evaluate existing SAST/DAST tools, code reviews, and secure coding guidelines, with a focus on identifying and enhancing measures specifically targeting memory safety.
-Development Workflow and Tool Assessment: Ensure that memory safe practices are effectively integrated into the development workflow. Analyse the current CI/CD processes, testing frameworks, and deployment practices to ensure compatibility with memory safe languages and identify necessary adjustments.
-* Team Training and Skill Development: Equip the development team with the necessary skills in memory safe programming languages. Assess current team expertise and develop targeted training programs to upskill developers in languages like Rust, Go, and Swift.
-* Align with Long-term Business Goals: Ensure the memory safe roadmap aligns with Arachne Digital’s long-term objectives and resource constraints. Integrate the roadmap with business objectives, taking into account budget, time, and personnel constraints, to create a realistic and achievable plan.
-* Implementation and Monitoring: Execute the transition to memory safe programming and monitor progress. Begin migrating prioritised components to memory safe languages, continuously monitor progress, and adjust the plan as necessary to ensure successful implementation.
+- **Tasks**:
+  - Audit the codebase for memory-unsafe code.
+  - Prioritise critical components for migration to memory-safe languages.
+  - Enhance current security practices related to memory safety.
+  - Train the development team in memory-safe programming languages.
+  - Align the transition with Arachne Digital’s long-term business goals.
+  - Implement and monitor the migration process.
+
+- **Rationale**: Transitioning to memory-safe programming strengthens Spindle’s security by reducing vulnerabilities related to unsafe memory management. This milestone builds on the security foundation established in Milestone 1 and ensures long-term resilience against threats.
 
 ### Milestone 3: Standardisation and Feature Expansion
-* DISARM Framework Integration: Begin the integration of the DISARM disinformation framework into Thread and, subsequently, into Spindle. Develop a structure within Spindle to track disinformation CTAs alongside traditional hacking CTAs.
-* Enhanced Documentation: Expand Spindle’s documentation to include detailed guides for contributors, including best practices for adding and vetting CTAs. Ensure that documentation is user-friendly and accessible.
-* Pilot Community Contributions: Start a pilot program to allow a select group of community members to contribute to Spindle, focusing on adding new CTAs and vetting information. Use this pilot to refine the contribution process and address any issues before broader community involvement.
-* Community Outreach: Launch initiatives to increase community contributions, such as webinars, blog posts, and social media campaigns to raise awareness and invite collaboration from the CTI community.
+- **Tasks**:
+  - Integrate the DISARM disinformation framework into Spindle.
+  - Expand documentation to guide contributors on best practices.
+  - Pilot community contributions to refine the process before broader involvement.
+  - Launch community outreach initiatives to raise awareness and invite collaboration.
+
+- **Rationale**: This milestone focuses on expanding Spindle’s capabilities and establishing a standardised framework for data collection and contribution. Integrating DISARM and engaging the community ensures that Spindle evolves with industry needs and benefits from diverse input.
 
 ### Milestone 4: Scaling and Automation
-* Data Validation Process: Strengthen the existing process for validating CTA aliases by implementing more robust checks and clearer guidelines for contributors. Ensure that every alias is attributed to a primary source, with links for transparency.
-* Scaling Up Contributions: Open up Spindle contributions to a wider community, based on the learnings from the pilot program. Promote the importance of accurate, well-sourced contributions through community channels.
-* Automation Enhancements: Introduce automation for repetitive tasks, such as linking new CTAs to existing ones and checking for duplicate entries, while maintaining a human-in-the-loop system for final approvals.
-* Threat Intelligence Feeds Integration: Explore integrating other threat intelligence feeds with Spindle, while maintaining human analyst oversight to ensure the integrity and accuracy of the data.
-* Metrics and Feedback Collection: Implement systems to track KPIs, particularly focusing on the number of active community members contributing to Spindle. Regularly review feedback from GitHub issues, Slack, and email to inform development priorities.
+- **Tasks**:
+  - Strengthen the data validation process with robust checks and clear guidelines.
+  - Open contributions to a wider community, building on pilot program insights.
+  - Introduce automation for repetitive tasks while maintaining human oversight.
+  - Explore integration with other threat intelligence feeds, ensuring data integrity.
+  - Implement systems to track KPIs and gather feedback for continuous improvement.
+
+- **Rationale**: Scaling contributions and integrating automation enhances Spindle’s efficiency and accuracy. By building on the community engagement and standardisation from Milestone 3, this milestone ensures that Spindle can handle increased data input and maintain high-quality standards.
 
 ### Milestone 5: Advanced Features and Strategic Partnerships
-* Advanced Search and Visualisation: Develop advanced search and visualisation features within Spindle, allowing users to explore connections between CTAs and understand the broader threat landscape. Current plans involve publishing Spindle data to the Arachne Digital website, but other options can be explored as well.
-* Strategic Partnership with DISARM: Strengthen the partnership with DISARM Foundation, incorporating their feedback into Spindle’s development. Begin tracking disinformation CTAs and integrating this data into Thread.
-* Long-Term Sustainability Planning: Start planning for the long-term sustainability of Spindle, including potential funding sources, governance structures, and strategies for maintaining relevance in the evolving CTI landscape.
+- **Tasks**:
+  - Develop advanced search and visualisation features for exploring CTA connections.
+  - Strengthen the partnership with DISARM Foundation and incorporate their feedback.
+  - Plan for long-term sustainability, including funding and governance strategies.
 
-### Milestone 6: Enhancing Core Functionality 
-* Frontend Development: Begin developing a frontend interface that allows users to add new CTAs and associated information. This frontend will automate the population of the markdown and JSON files, ensuring consistency and reducing manual effort.
+- **Rationale**: Introducing advanced features and strategic partnerships enhances Spindle’s functionality and relevance. This milestone builds on the expanded capabilities from previous milestones and ensures that Spindle remains a valuable resource in the evolving CTI landscape.
+
+### Milestone 6: Enhancing Core Functionality
+- **Tasks**:
+  - Develop a frontend interface for adding new CTAs and associated information.
+  - Automate the population of markdown and JSON files to ensure consistency.
+
+- **Rationale**: Enhancing core functionality with a user-friendly frontend streamlines the contribution process and reduces manual effort. This milestone builds on the infrastructure and community engagement from earlier milestones, making Spindle more accessible and efficient.
 
 ### Milestone 7: Scaling and Sustainability
-* Scaling Infrastructure: Optimise the infrastructure to handle increased traffic and usage, ensuring that the public instance of Spindle remains performant and reliable as its user base grows.
-* Long-term Sustainability Planning: Develop a sustainability plan for Spindle, including potential funding sources, partnerships, and governance structures to ensure its continued development and maintenance.
-* Global Outreach and Localisation: Begin efforts to localise Spindle, translating the interface and documentation into multiple languages to support a global user base. Engage with international privacy and open-source communities to broaden Tracery’s reach.
+- **Tasks**:
+  - Optimise infrastructure to handle increased traffic and usage.
+  - Develop a sustainability plan including funding sources and partnerships.
+  - Begin localisation efforts to translate Spindle into multiple languages.
+
+- **Rationale**: Scaling infrastructure and planning for sustainability are critical as Spindle grows. This milestone ensures that Spindle can support a larger user base and maintain long-term relevance and reliability.
 
 ### Milestone 8: Global Impact
-* Global Outreach: Expand outreach efforts to engage with international CTI communities, translating key documentation and interfaces to support non-English speaking users.
-Recognition as a Key Resource: Focus on positioning Spindle as a recognized and widely cited resource within the cybersecurity community, promoting its use in academic research, industry reports, and other publications.
+- **Tasks**:
+  - Expand global outreach to engage international CTI communities.
+  - Position Spindle as a recognised resource within the cybersecurity community.
+
+- **Rationale**: Achieving global impact is the culmination of Spindle’s development. By expanding outreach and positioning Spindle as a key resource, this milestone ensures that Spindle’s contributions to cybersecurity are widely recognised and utilised.

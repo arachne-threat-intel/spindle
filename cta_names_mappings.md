@@ -875,11 +875,6 @@
 
 ---
 
-* Name = LuminousMoth
-* Country of organisation = [People's Republic of China](https://securelist.com/apt-luminousmoth/103332/)
-
----
-
 * Name = MalKamak
 
 ---

@@ -606,7 +606,7 @@
 ---
 
 * Name = Red Delta
-* Full aliases = [BRONZE PRESIDENT, HoneyMyte, Red Lich, Temp.Hex](https://www.secureworks.com/research/threat-profiles), [Earth Preta](https://www.trendmicro.com/en_us/research/22/k/earth-preta-spear-phishing-governments-worldwide.html), [Mustang Panda](https://www.trendmicro.com/en_au/research/23/c/earth-preta-cyberespionage-campaign-hits-over-200.html)
+* Full aliases = [BRONZE PRESIDENT, HoneyMyte, Red Lich, Temp.Hex](https://www.secureworks.com/research/threat-profiles), [Earth Preta](https://www.trendmicro.com/en_us/research/22/k/earth-preta-spear-phishing-governments-worldwide.html), [Mustang Panda](https://www.trendmicro.com/en_au/research/23/c/earth-preta-cyberespionage-campaign-hits-over-200.html), [Stately Taurus, Luminous Moth, Camaro Dragon](https://unit42.paloaltonetworks.com/stately-taurus-targets-philippines-government-cyberespionage/)
 * Subgroups = [Groups 724, Group 1358, Group 5171](https://www.trendmicro.com/en_au/research/23/c/earth-preta-cyberespionage-campaign-hits-over-200.html)
 * Country of organisation = [People's Republic of China](https://www.secureworks.com/research/bronze-president-targets-ngos)
 

@@ -1654,3 +1654,8 @@
 * Name = Twisted Spider
 
 ---
+
+* Name = MeowCorp
+* Operators = [Meow ransomware](https://www.bitdefender.com/en-us/blog/businessinsights/meow-meow-leaks-and-the-chaos-of-ransomware-attribution/)
+
+---

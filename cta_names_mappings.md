@@ -1664,3 +1664,8 @@
 * Operators = [Agenda/Qilin ransomware](https://www.trendmicro.com/en_us/research/22/l/agenda-ransomware-uses-rust-to-target-more-vital-industries.html)
 
 ---
+
+* Name = Decade Elf
+* Operators = [Rhysida Ransomware](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-319a)
+
+---

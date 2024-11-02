@@ -1659,3 +1659,8 @@
 * Operators = [Meow ransomware](https://www.bitdefender.com/en-us/blog/businessinsights/meow-meow-leaks-and-the-chaos-of-ransomware-attribution/)
 
 ---
+
+* Name = Day Elf
+* Operators = [Agenda/Qilin ransomware](https://www.trendmicro.com/en_us/research/22/l/agenda-ransomware-uses-rust-to-target-more-vital-industries.html)
+
+---

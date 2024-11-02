@@ -1669,3 +1669,8 @@
 * Operators = [Rhysida Ransomware](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-319a)
 
 ---
+
+* Name = Battery Elf
+* Operators = [Abyss Ransomware/Abyss Locker](https://www.fortinet.com/blog/threat-research/ransomware-roundup-abyss-locker)
+
+---

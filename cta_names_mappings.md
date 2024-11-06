@@ -1674,3 +1674,7 @@
 * Operators = [Abyss Ransomware/Abyss Locker](https://www.fortinet.com/blog/threat-research/ransomware-roundup-abyss-locker)
 
 ---
+
+* Name = Water Curupira
+
+---

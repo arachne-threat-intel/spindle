@@ -1596,10 +1596,6 @@
 
 ---
 
-* Name = TA577
-
----
-
 * Name = TA581
 
 ---
@@ -1676,6 +1672,7 @@
 ---
 
 * Name = Water Curupira
+* Full aliases = [TA577](https://darktrace.com/blog/pikabot-malware-battling-a-fast-moving-loader-malware-in-the-wild)
 
 ---
 

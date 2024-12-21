@@ -897,8 +897,6 @@
   },
   "TA578": {
   },
-  "TA577": {
-  },
   "TA581": {
   },
   "TraderTraitor": {
@@ -935,6 +933,7 @@
   "Battery Elf": {
   },
   "Water Curupira": {
+    "full_aliases": ["TA577"]
   },
   "Ganosec Team": {
   },

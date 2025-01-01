@@ -1687,3 +1687,8 @@
 * Name = WIRTE
 
 ---
+
+* Name = Fireplace Elf
+* Operators = [Sarcoma ransomware](https://www.cyberdaily.au/security/11225-exclusive-new-zealand-accounting-firm-confirms-sarcoma-ransomware-attack)
+
+---

@@ -1692,3 +1692,8 @@
 * Operators = [Sarcoma ransomware](https://www.cyberdaily.au/security/11225-exclusive-new-zealand-accounting-firm-confirms-sarcoma-ransomware-attack)
 
 ---
+
+* Name = Climb Hag
+* Operators = Stormous ransomware
+
+---

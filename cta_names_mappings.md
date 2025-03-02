@@ -1702,3 +1702,8 @@
 * Operators = [Akira ransomware](https://securityintelligence.com/x-force/spotlight-akira-ransomware-x-force/)
 
 ---
+
+* Name = Window Elf
+* Operators = [SafePay ransomware](https://www.cybervergent.com/articles/safepay-ransomware-a-rising-threat-to-payment-processors-and-banks)
+
+---

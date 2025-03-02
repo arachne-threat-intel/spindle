@@ -1697,3 +1697,8 @@
 * Operators = Stormous ransomware
 
 ---
+
+* Name = Cherry Elf
+* Operators = [Akira ransomware](https://securityintelligence.com/x-force/spotlight-akira-ransomware-x-force/)
+
+---

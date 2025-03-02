@@ -1707,3 +1707,8 @@
 * Operators = [SafePay ransomware](https://www.cybervergent.com/articles/safepay-ransomware-a-rising-threat-to-payment-processors-and-banks)
 
 ---
+
+* Name = CosmicBeetle
+* Operators = [ScRansom](https://www.welivesecurity.com/en/eset-research/cosmicbeetle-steps-up-probation-period-ransomhub/)
+
+---

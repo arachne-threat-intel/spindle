@@ -390,6 +390,10 @@
 ---
 
 * Name = APT44
+* Full aliases = [Sandworm](https://cloud.google.com/blog/topics/threat-intelligence/apt44-unearthing-sandworm), [Electrum](https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america), [Telebots, BlackEnergy](https://www.zdnet.com/article/us-charges-russian-hackers-behind-notpetya-killdisk-olympicdestroyer-attacks/#ftag=RSSbaffb68), [Quedagh](https://blog-assets.f-secure.com/wp-content/uploads/2019/10/15163408/BlackEnergy_Quedagh.pdf), [Voodoo Bear](https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-january-voodoo-bear/), [CTG-7263, Hades, OlympicDestroyer, IRIDIUM, TEMP.Noble, IRON VIKING](https://www.secureworks.com/research/threat-profiles), [Seashell Blizzard](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide), [FROZENBARENTS](https://blog.google/threat-analysis-group/ukraine-remains-russias-biggest-cyber-focus-in-2023/)
+* Department = [Unit 74455 of the Main Center of Special Technologies, GTsST](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
+* Organisation =  [Main Directorate of the General Staff of the Armed Forces, GRU](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
+* Country of organisation = [Russian Federation](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
 
@@ -504,14 +508,6 @@
 * Organisation = [Ministry of Defense](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
 * Country of organisation = [Russian Federation](https://www.securityweek.com/us-charges-russian-hackers-over-infamous-triton-havex-cyberattacks-energy-sector)
 * Members = [Evgeny Viktorovich Gladkikh](https://www.securityweek.com/us-charges-russian-hackers-over-infamous-triton-havex-cyberattacks-energy-sector)
-
----
-
-* Name = Sandworm
-* Full aliases = [Electrum](https://www.securityweek.com/more-threat-groups-target-electric-utilities-north-america), [Telebots, BlackEnergy](https://www.zdnet.com/article/us-charges-russian-hackers-behind-notpetya-killdisk-olympicdestroyer-attacks/#ftag=RSSbaffb68), [Quedagh](https://blog-assets.f-secure.com/wp-content/uploads/2019/10/15163408/BlackEnergy_Quedagh.pdf), [Voodoo Bear](https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-january-voodoo-bear/), [CTG-7263, Hades, OlympicDestroyer, IRIDIUM, TEMP.Noble, IRON VIKING](https://www.secureworks.com/research/threat-profiles), [Seashell Blizzard](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide), [FROZENBARENTS](https://blog.google/threat-analysis-group/ukraine-remains-russias-biggest-cyber-focus-in-2023/)
-* Department = [Unit 74455 of the Main Center of Special Technologies, GTsST](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
-* Organisation =  [Main Directorate of the General Staff of the Armed Forces, GRU](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
-* Country of organisation = [Russian Federation](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
 
 ---
 

@@ -209,6 +209,12 @@
     "partial_aliases": ["CryptoCore"]
   },
   "APT44": {
+    "full_aliases": ["Sandworm", "Electrum", "Telebots", "BlackEnergy", "Quedagh", "Voodoo Bear", "CTG-7263",
+      "Hades", "OlympicDestroyer", "IRIDIUM", "TEMP.Noble", "IRON VIKING", "Seashell Blizzard", "FROZENBARENTS"],
+    "subgroups": ["Kamacite"],
+    "organisations": ["Unit 74455 of the Main Center of Special Technologies", "GTsST",
+      "Main Directorate of the General Staff of the Armed Forces", "GRU"],
+    "countries": ["RU"]
   },
   "APT45": {
     "full_aliases": ["Lazarus Group", "Hidden Cobra", "Guardians of Peace", "NICKEL ACADEMY", "Black Artemis",
@@ -277,14 +283,6 @@
     "full_aliases": ["Triton", "Trisis", "Temp.Veles"],
     "organisations": ["Applied Developments Center of the Central Scientific Research Institute of Chemistry and Mechanics",
       "TsNIIKhM", "State Research Center", "Ministry of Defense", "Evgeny Viktorovich Gladkikh"],
-    "countries": ["RU"]
-  },
-  "Sandworm": {
-    "full_aliases": ["Electrum", "Telebots", "BlackEnergy", "Quedagh", "Voodoo Bear", "CTG-7263",
-      "Hades", "OlympicDestroyer", "IRIDIUM", "TEMP.Noble", "IRON VIKING", "Seashell Blizzard", "FROZENBARENTS"],
-    "subgroups": ["Kamacite"],
-    "organisations": ["Unit 74455 of the Main Center of Special Technologies", "GTsST",
-      "Main Directorate of the General Staff of the Armed Forces", "GRU"],
     "countries": ["RU"]
   },
   "Black Energy": {

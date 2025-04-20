@@ -1708,3 +1708,8 @@
 * Operators = [ScRansom](https://www.welivesecurity.com/en/eset-research/cosmicbeetle-steps-up-probation-period-ransomhub/)
 
 ---
+
+* Name = Suburb Elf
+* Operators = [Silent ransom ransomware](https://twitter.com/VK_Intel/status/1557003350541242369/photo/1)
+
+---

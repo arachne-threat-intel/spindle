@@ -1714,3 +1714,7 @@
 * Full aliases = [EncryptHub, Larva-208](https://www.trendmicro.com/en_us/research/25/c/cve-2025-26633-water-gamayun.html)
 
 ---
+
+* Name = Silver Fox
+
+---

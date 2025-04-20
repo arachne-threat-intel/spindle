@@ -1709,3 +1709,8 @@
 * Operators = [ScRansom](https://www.welivesecurity.com/en/eset-research/cosmicbeetle-steps-up-probation-period-ransomhub/)
 
 ---
+
+* Name = Water Gamayun
+* Full aliases = [EncryptHub, Larva-208](https://www.trendmicro.com/en_us/research/25/c/cve-2025-26633-water-gamayun.html)
+
+---

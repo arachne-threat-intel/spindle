@@ -1722,3 +1722,8 @@
 * Name = Storm-2139
 
 ---
+
+* Name = Careto
+* Full aliases = [The Mask](https://techcrunch.com/2025/05/23/mysterious-hacking-group-careto-was-run-by-the-spanish-government-sources-say/)
+
+---

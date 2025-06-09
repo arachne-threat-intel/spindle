@@ -1727,3 +1727,8 @@
 * Full aliases = [The Mask](https://techcrunch.com/2025/05/23/mysterious-hacking-group-careto-was-run-by-the-spanish-government-sources-say/)
 
 ---
+
+* Name = Embox Elf
+* Operators = [Phobos ransomware](https://blogs.blackberry.com/en/2021/09/threat-thursday-phobos-ransomware)
+
+---

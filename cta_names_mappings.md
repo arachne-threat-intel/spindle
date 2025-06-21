@@ -1732,3 +1732,7 @@
 * Operators = [Phobos ransomware](https://blogs.blackberry.com/en/2021/09/threat-thursday-phobos-ransomware)
 
 ---
+
+* Name = Gelsemium
+
+---

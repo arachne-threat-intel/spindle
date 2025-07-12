@@ -1744,3 +1744,8 @@
 * Name = Moonstone Sleet
 
 ---
+
+* Name = Mora_001
+* Operators = SuperBlack ransomware
+
+---

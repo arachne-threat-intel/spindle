@@ -1753,3 +1753,7 @@
 * Name = Stealth Falcon
 
 ---
+
+* Name = JavaGhost
+
+---

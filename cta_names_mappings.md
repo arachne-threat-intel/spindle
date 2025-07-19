@@ -1749,3 +1749,7 @@
 * Operators = SuperBlack ransomware
 
 ---
+
+* Name = Stealth Falcon
+
+---

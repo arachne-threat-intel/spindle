@@ -1757,3 +1757,8 @@
 * Name = JavaGhost
 
 ---
+
+* Name = Adopt Elf
+* Operators = Hezb
+
+---

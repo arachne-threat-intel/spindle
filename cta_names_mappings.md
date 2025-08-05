@@ -1776,3 +1776,8 @@
 * Operators = Termite ransomware
 
 ---
+
+* Name = Revise Elf
+* Operators = DragonForce ransomware
+
+---

@@ -1781,3 +1781,7 @@
 * Operators = DragonForce ransomware
 
 ---
+
+* Name = Fire Ant
+
+---

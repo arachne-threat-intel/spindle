@@ -1785,3 +1785,8 @@
 * Name = Fire Ant
 
 ---
+
+* Name = Storm-2603
+* Country of organisation = [People's Republic of China](https://research.checkpoint.com/2025/before-toolshell-exploring-storm-2603s-previous-ransomware-operations/)
+
+---

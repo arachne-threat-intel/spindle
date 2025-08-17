@@ -1790,3 +1790,7 @@
 * Country of organisation = [People's Republic of China](https://research.checkpoint.com/2025/before-toolshell-exploring-storm-2603s-previous-ransomware-operations/)
 
 ---
+
+* Name = ShinyHunters
+
+---

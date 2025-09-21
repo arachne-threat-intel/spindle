@@ -1792,6 +1792,7 @@
 ---
 
 * Name = ShinyHunters
+* Full aliases = [UNC6040](https://www.varonis.com/blog/salesforce-vishing-threat-unc604)
 
 ---
 
@@ -1845,9 +1846,5 @@
 
 * Name = Sabbath
 * Full aliases = [UNC2190](https://www.techtarget.com/searchsecurity/news/252510169/Hack-Sabbath-Elusive-new-ransomware-detected), [Storm-0501](https://app.tidalcyber.com/groups/de72d564-6487-4cf3-be3e-0a961cf15d5d)
-
----
-
-* Name = UNC5518
 
 ---

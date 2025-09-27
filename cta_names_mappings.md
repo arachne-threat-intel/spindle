@@ -1852,3 +1852,8 @@
 * Name = UNC6395
 
 ---
+
+* Name = Accumulation Elf
+* Operators = DireWolf ransomware
+
+---

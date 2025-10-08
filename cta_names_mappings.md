@@ -1857,3 +1857,7 @@
 * Operators = DireWolf ransomware
 
 ---
+
+Name = Dadsec
+
+---

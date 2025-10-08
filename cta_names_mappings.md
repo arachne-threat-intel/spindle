@@ -1858,6 +1858,12 @@
 
 ---
 
-Name = Dadsec
+* Name = Dadsec
+
+---
+
+* Name = RedNovember
+* Full aliases = [TAG-100](https://www.recordedfuture.com/research/rednovember-targets-government-defense-and-technology-organizations)
+* Partial aliases = [Storm-2077](https://www.recordedfuture.com/research/rednovember-targets-government-defense-and-technology-organizations)
 
 ---

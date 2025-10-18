@@ -744,8 +744,6 @@
   },
   "NoName057(16)": {
   },
-  "PureCoder": {
-  },
   "Viking Spider": {
   },
   "Gold Fairfax": {
@@ -1030,5 +1028,7 @@
   "RedNovember": {
     "full_aliases": ["TAG-100"],
     "partial_aliases": ["Storm-2077"]
+  },
+  "Variable Elf": {
   }
 }

@@ -1867,3 +1867,8 @@
 * Partial aliases = [Storm-2077](https://www.recordedfuture.com/research/rednovember-targets-government-defense-and-technology-organizations)
 
 ---
+
+* Name = Variable Elf
+* Operators = Sinobi ransomware
+
+---

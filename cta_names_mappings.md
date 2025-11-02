@@ -1872,3 +1872,7 @@
 * Operators = Sinobi ransomware
 
 ---
+
+* Name = Detour Dog
+
+---

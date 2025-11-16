@@ -1884,3 +1884,7 @@
 * Name = UNC4487
 
 ---
+
+* Name = Scattered LAPSUS$ Hunters
+
+---

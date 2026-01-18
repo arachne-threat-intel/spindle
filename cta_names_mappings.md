@@ -1899,3 +1899,10 @@
 * Deployed by = Storm-1175 (Microsoft tracking label; known for deploying Medusa) [Source](https://www.microsoft.com/en-us/security/blog/2025/10/06/investigating-active-exploitation-of-cve-2025-10035-goanywhere-managed-file-transfer-vulnerability/)
 * Notes = Medusa ransomware is frequently confused with MedusaLocker, but Symantec reports there is no evidence they are linked. [Source](https://www.security.com/threat-intelligence/medusa-ransomware-operator-spearwing-targets-firms-globally)
 
+---
+
+* Name = Arcane Werewolf
+* Full aliases = [Mythic Likho](https://bi-zone.medium.com/arcane-werewolf-revamps-its-arsenal-with-loki-2-1-implant-b67298a9bffe)
+* Partial Aliases =
+
+---

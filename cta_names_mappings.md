@@ -1906,3 +1906,23 @@
 * Partial Aliases =
 
 ---
+
+* Name = Forge Elf
+* Full aliases = [Devman](https://analyst1.com/devmans-raas-launch-the-affiliate-who-aims-to-become-the-boss/)
+* Deploys = [DevMan ransomware / DEVMAN ransomware variant (DragonForce-derived)](https://any.run/cybersecurity-blog/devman-ransomware-analysis/)
+* Ransomware affiliate of = [Day Elf, Ledger Elf, Revise Elf](https://cyble.com/blog/qilin-tops-april-2025-ransomware-report/)
+
+---
+
+* Name = Harbour Elf
+* Full aliases = [Water Bakunawa](https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-ransomhub)
+* Prior name = [Knight, Cyclops](https://www.ic3.gov/CSA/2024/240829.pdf)
+* Operators = [RansomHub](https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-ransomhub) 
+
+---
+
+* Name = Ledger Elf
+* Full aliases = [Apos Security](https://www.watchguard.com/wgrd-security-hub/ransomware-tracker/apos-security)
+* Members = [Bezzle](https://www.zerofox.com/intelligence/the-underground-economist-volume-4-issue-9/)
+
+

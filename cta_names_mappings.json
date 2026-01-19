@@ -1046,5 +1046,14 @@
   },
   "Arcane Werewolf": {
     "full_aliases": ["Mythic Likho"]
+  },
+  "Forge Elf": {
+    "full_aliases": ["Devman"]
+  },
+  "Harbour Elf": {
+    "full_aliases": ["Water Bakunawa"]
+  },
+  "Ledger Elf": {
+    "full_aliases": ["Apos Security"]
   }
 }

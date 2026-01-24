@@ -1055,5 +1055,9 @@
   },
   "Ledger Elf": {
     "full_aliases": ["Apos Security"]
+  },
+  "Famous Chollima": {
+    "full_aliases": ["BadClone"]
+    "countries": ["KP"]
   }
 }

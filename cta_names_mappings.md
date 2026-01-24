@@ -1925,4 +1925,10 @@
 * Full aliases = [Apos Security](https://www.watchguard.com/wgrd-security-hub/ransomware-tracker/apos-security)
 * Members = [Bezzle](https://www.zerofox.com/intelligence/the-underground-economist-volume-4-issue-9/)
 
+---
 
+* Name = Famous Chollima
+* Full Aliases = [BadClone](https://www.crowdstrike.com/adversaries/famous-chollima/)
+* Country of organisation = [Democratic People's Republic of Korea](https://www.crowdstrike.com/adversaries/famous-chollima/) 
+
+---

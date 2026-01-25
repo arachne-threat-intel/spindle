@@ -394,6 +394,7 @@
 * Department = [Unit 74455 of the Main Center of Special Technologies, GTsST](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
 * Organisation =  [Main Directorate of the General Staff of the Armed Forces, GRU](https://www.cisa.gov/uscert/ncas/alerts/aa22-110a)
 * Country of organisation = [Russian Federation](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
+* Uses initial access broker services of = [UAC-0099](https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-apt-activity-report-q2-2025-q3-2025.pdf)
 
 ---
 
@@ -1930,5 +1931,10 @@
 * Name = Famous Chollima
 * Full Aliases = [BadClone](https://www.crowdstrike.com/adversaries/famous-chollima/)
 * Country of organisation = [Democratic People's Republic of Korea](https://www.crowdstrike.com/adversaries/famous-chollima/) 
+
+---
+
+* Name = UAC-0099
+* Initial access broker for = [APT44](https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-apt-activity-report-q2-2025-q3-2025.pdf)
 
 ---

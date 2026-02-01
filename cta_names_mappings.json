@@ -160,7 +160,7 @@
   },
   "APT38": {
     "full_aliases": ["BlueNoroff", "Stardust Chollima", "BeagleBoyz", "NICKEL GLADSTONE"],
-    "partial_aliases": ["CryptoCore", "UNC4899", "TraderTraitor", "Pressure Chollima"]
+    "partial_aliases": ["CryptoCore", "UNC4899", "TraderTraitor", "Pressure Chollima"],
     "countries": ["KP"]
   },
   "Pompilios": {
@@ -211,7 +211,7 @@
   },
   "APT45": {
     "full_aliases": ["NICKEL ACADEMY", "TA404", "APT-C-26", "AndAriel", "Silent Chollima", "Dark Seoul", "Rifle", "Wassonite", "PLUTONIUM", "Stonefly", "Onyx Sleet"],
-    "partial_aliases": ["TA444", "NICKEL HYATT", "Lazarus Group", "Hidden Cobra", "Guardians of Peace", "ZINC", "Diamond Sleet", "Black Artemis", "COVELLITE", "CTG-2460", "Dark Seoul", "High Anonymous", "Labyrinth Chollima", "New Romanic Cyber Army Team", "NNPT Group", "Who Am I?", "Whois Team"]
+    "partial_aliases": ["TA444", "NICKEL HYATT", "Lazarus Group", "Hidden Cobra", "Guardians of Peace", "ZINC", "Diamond Sleet", "Black Artemis", "COVELLITE", "CTG-2460", "Dark Seoul", "High Anonymous", "Labyrinth Chollima", "New Romanic Cyber Army Team", "NNPT Group", "Who Am I?", "Whois Team"],
     "countries": ["KP"]
   },
   "FIN6": {
@@ -1053,6 +1053,6 @@
   },
   "UAC-0099": {
   },
-  "Golden Chollima"
+  "Golden Chollima": {
   }
 }

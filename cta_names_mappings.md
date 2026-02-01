@@ -302,22 +302,10 @@
 ---
 
 * Name = APT38
-* Full aliases = [TraderTraitor](https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine)
-* Partial Aliases = [CryptoCore](https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine) - shared between APT38 and APT43
+* Full aliases = [BlueNoroff; Stardust Chollima; BeagleBoyz; NICKEL GLADSTONE](https://www.hhs.gov/sites/default/files/dprk-cyber-espionage.pdf), [Sapphire Sleet, COPERNICIUM](https://learn.microsoft.com/en-us/unified-secops/microsoft-threat-actor-naming)
+* Partial Aliases = [CryptoCore](https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine) shared between APT38 and APT43. [UNC4899](https://cloud.google.com/blog/topics/threat-intelligence/north-korea-supply-chain/), [TraderTraitor](https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine), [Pressure Chollima](https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/)
 * Organisation = [Reconnaissance General Bureau](https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine)
 * Country of organisation = [Democratic People's Republic of Korea](https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine)
-
----
-
-* Name = BlueNorOff
-* Full aliases = [Stardust Chollima](https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-april-stardust-chollima/), [BeagleBoyz](https://us-cert.cisa.gov/ncas/alerts/aa20-239a), [CTG-6459, NICKEL GLADSTONE](https://www.secureworks.com/research/threat-profiles), [COPERNICIUM, Genie Spider, Sapphire Sleet](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
-* Country of organisation = [Democratic People's Republic of Korea](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
-
----
-
-* Name = AndAriel
-* Full aliases = [Silent Chollima](https://adversary.crowdstrike.com/en-US/adversary/silent-chollima/), [Dark Seoul, Rifle, Wassonite](https://www.hhs.gov/sites/default/files/dprk-cyber-espionage.pdf), [NICKEL HYATT](https://www.secureworks.com/research/threat-profiles), [PLUTONIUM](https://www.microsoft.com/security/blog/2022/07/14/north-korean-threat-actor-targets-small-and-midsize-businesses-with-h0lygh0st-ransomware/), [Stonefly](https://securelist.com/apt-trends-report-q3-2022/107787/)
-* Country of organisation = [Democratic People's Republic of Korea](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
 
 ---
 
@@ -399,10 +387,10 @@
 ---
 
 * Name = APT45
-* Full aliases = [Lazarus Group](https://www.fireeye.com/current-threats/apt-groups.html#north-korea), [Hidden Cobra, Guardians of Peace](https://www.cisa.gov/uscert/ncas/alerts/TA17-164A), [NICKEL ACADEMY](https://www.secureworks.com/about/press/media-alert-secureworks-discovers-north-korean-cyber-threat-group-lazarus-spearphishing), [Black Artemis, COVELLITE, CTG-2460, Dark Seoul, High Anonymous, Labyrinth Chollima, New Romanic Cyber Army Team, NNPT Group, Who Am I?, Whois Team, ZINC](https://www.secureworks.com/research/threat-profiles), [TA404](https://www.proofpoint.com/us/blog/threat-insight/above-fold-and-your-inbox-tracing-state-aligned-activity-targeting-journalists), [APT-C-26](https://mp-weixin-qq-com.translate.goog/s/W4hkBRJnwN1G32QCpaNNoA?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp&utm_source=substack&utm_medium=email), [ZINC, Diamond Sleet](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide)
-* Subgroups = [AndAriel](https://home.treasury.gov/news/press-releases/sm774)
+* Full aliases = [NICKEL ACADEMY](https://www.secureworks.com/about/press/media-alert-secureworks-discovers-north-korean-cyber-threat-group-lazarus-spearphishing), [TA404](https://www.proofpoint.com/us/blog/threat-insight/above-fold-and-your-inbox-tracing-state-aligned-activity-targeting-journalists), [APT-C-26](https://mp-weixin-qq-com.translate.goog/s/W4hkBRJnwN1G32QCpaNNoA?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp&utm_source=substack&utm_medium=email), [AndAriel](https://home.treasury.gov/news/press-releases/sm774), [Silent Chollima](https://adversary.crowdstrike.com/en-US/adversary/silent-chollima/), [Dark Seoul, Rifle, Wassonite](https://www.hhs.gov/sites/default/files/dprk-cyber-espionage.pdf), [PLUTONIUM](https://www.microsoft.com/security/blog/2022/07/14/north-korean-threat-actor-targets-small-and-midsize-businesses-with-h0lygh0st-ransomware/), [Stonefly](https://securelist.com/apt-trends-report-q3-2022/107787/), [Onyx Sleet](https://www.microsoft.com/en-us/security/blog/2024/07/25/onyx-sleet-uses-array-of-malware-to-gather-intelligence-for-north-korea/)
+* Partial Aliases: [TA444](https://www.proofpoint.com/au/blog/threat-insight/ta444-apt-startup-aimed-at-your-funds), [NICKEL HYATT](https://www.secureworks.com/research/threat-profiles), [Lazarus Group](https://www.fireeye.com/current-threats/apt-groups.html#north-korea), [Hidden Cobra, Guardians of Peace](https://www.cisa.gov/uscert/ncas/alerts/TA17-164A), [ZINC, Diamond Sleet](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide), [Black Artemis, COVELLITE, CTG-2460, Dark Seoul, High Anonymous, Labyrinth Chollima, New Romanic Cyber Army Team, NNPT Group, Who Am I?, Whois Team](https://www.secureworks.com/research/threat-profiles)
 * Country of organisation = [Democratic People's Republic of Korea](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWMFIi)
-
+* Breakaway groups = [Golden Chollima, Pressure Chollima](https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/)
 ---
 
 * Name = FIN6
@@ -1929,12 +1917,18 @@
 ---
 
 * Name = Famous Chollima
-* Full Aliases = [BadClone](https://www.crowdstrike.com/adversaries/famous-chollima/)
+* Full Aliases = [BadClone](https://www.crowdstrike.com/adversaries/famous-chollima/), [Nickel Tapestry, UNC5267 (Mandiant), Storm-0287 (Microsoft), CL-STA-0237, CL-STA-0241](https://www.sophos.com/en-us/threat-profiles/nickel-tapestry), [Jasper Sleet (Microsoft)](https://learn.microsoft.com/en-us/unified-secops/microsoft-threat-actor-naming?view=o365-worldwide)
 * Country of organisation = [Democratic People's Republic of Korea](https://www.crowdstrike.com/adversaries/famous-chollima/) 
 
 ---
 
 * Name = UAC-0099
 * Initial access broker for = [APT44](https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-apt-activity-report-q2-2025-q3-2025.pdf)
+
+---
+
+* Name = Golden Chollima
+* Broke away from = [Labyrinth Chollima](https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/), 
+* Country of organisation = [Democratic People's Republic of Korea](https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/)
 
 ---

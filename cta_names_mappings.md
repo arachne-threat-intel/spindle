@@ -1932,3 +1932,7 @@
 * Country of organisation = [Democratic People's Republic of Korea](https://www.crowdstrike.com/en-us/blog/labyrinth-chollima-evolves-into-three-adversaries/)
 
 ---
+
+* Name = Bloody Wolf
+
+---

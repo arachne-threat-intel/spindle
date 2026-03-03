@@ -1937,3 +1937,7 @@
 * Name = Bloody Wolf
 
 ---
+
+* Name = ChainedShark
+
+---

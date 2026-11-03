@@ -1,7 +1,7 @@
 # Spindle Roadmap
 
 ## Project Mission and Summary
-Spindle is an open-source cyber threat actor (CTA) tracker developed by Arachne Digital to serve the cyber threat intelligence (CTI) community. Our mission is to simplify CTA identification and attribution by providing a centralised, accurate, and community-driven repository of CTA names, aliases, and connections. Spindle integrates with the Thread application to enhance threat analysis workflows and promotes standardisation to reduce confusion within the CTI landscape. With a focus on data accuracy through human analyst review and community contributions, Spindle aims to become a widely recognised and trusted resource in global cybersecurity efforts.
+Spindle is an open-source cyber threat actor (CTA) tracker developed by Vrax to serve the cyber threat intelligence (CTI) community. Our mission is to simplify CTA identification and attribution by providing a centralised, accurate, and community-driven repository of CTA names, aliases, and connections. Spindle integrates with the Thread application to enhance threat analysis workflows and promotes standardisation to reduce confusion within the CTI landscape. With a focus on data accuracy through human analyst review and community contributions, Spindle aims to become a widely recognised and trusted resource in global cybersecurity efforts.
 
 ## Milestones and Rationale
 
@@ -12,7 +12,7 @@ Spindle is an open-source cyber threat actor (CTA) tracker developed by Arachne 
   - Implement remediation measures to address identified issues.
   - Update security documentation to reflect findings and actions taken.
 
-- **Rationale**: Ensuring Spindle’s security is critical to maintaining trust. Addressing security issues early establishes a secure foundation for future developments and ensures that the platform remains robust as it scales. Note that security testing will become an annual event as Arachne Digital grows.
+- **Rationale**: Ensuring Spindle’s security is critical to maintaining trust. Addressing security issues early establishes a secure foundation for future developments and ensures that the platform remains robust as it scales. Note that security testing will become an annual event as Vrax grows.
 
 ### Milestone 2: Transition to Memory Safe Programming
 - **Tasks**:
@@ -20,7 +20,7 @@ Spindle is an open-source cyber threat actor (CTA) tracker developed by Arachne 
   - Prioritise critical components for migration to memory-safe languages.
   - Enhance current security practices related to memory safety.
   - Train the development team in memory-safe programming languages.
-  - Align the transition with Arachne Digital’s long-term business goals.
+  - Align the transition with Vrax’s long-term business goals.
   - Implement and monitor the migration process.
 
 - **Rationale**: Transitioning to memory-safe programming strengthens Spindle’s security by reducing vulnerabilities related to unsafe memory management. This milestone builds on the security foundation established in Milestone 1 and ensures long-term resilience against threats.

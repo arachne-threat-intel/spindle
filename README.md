@@ -1,14 +1,14 @@
 # Welcome to Spindle!
 
-Hello and welcome to the Arachne Digital cyber threat actor (CTA) tracker, Spindle. This is a resource for the cyber threat intelligence (CTI) community. Arachne Digital has also introduced its own unique naming convention that is open source for people to use.
+Hello and welcome to Spindle, Vrax's cyber threat actor (CTA) tracker. It is a resource for the cyber threat intelligence (CTI) community. Vrax has also introduced its own unique naming convention that is open source for people to use.
 
 ## The various CTAs
 
 Spindle is open source and available on GitHub. It serves as a reference document capturing different names, aliases, and connections of CTAs. [Here](cta_names_mappings.md) is a human readable document and [here](cta_names_mappings.json) is a machine readable document.
 
-## The Arachne Digital naming convention
+## The Vrax naming convention
 
-The Arachne Digital naming convention consists of a random word with one of the below suffixes:
+The Vrax naming convention consists of a random word with one of the below suffixes:
 * State sponsored CTAs — Nymphs
 * Organised crime groups — Elves
 * Hacktivists — Mermaids
@@ -17,15 +17,15 @@ The Arachne Digital naming convention consists of a random word with one of the 
 * Low sophistication CTAs — Fairies
 * Unknown — Changelings
 
-Arachne Digital names are only assigned when there is no widely accepted existing name. When there is a widely accepted existing name, Arachne Digital will try to align to that name for the sake of promoting standardisation. Our names are liminal, meaning that they will disappear if another name for the exact same group becomes widely accepted.
+Vrax names are only assigned when there is no widely accepted existing name. When there is a widely accepted existing name, Vrax will try to align to that name for the sake of promoting standardisation. Our names are liminal, meaning that they will disappear if another name for the exact same group becomes widely accepted.
 
-## How you can contribute to the Arachne Digital naming convention
+## How you can contribute to the Vrax naming convention
 
 If you want to have a name assigned to a new CTA or add to the information around an existing CTA, open an issue on this GitHub repository. 
 
-For new CTAs, outline the research you have done to establish the CTA and that the CTA does not already have a name. This research to establish a CTA can vary, be it primary research or simply public reports about a campaign that is not attributed to a known CTA. This will be reviewed by Arachne Digital staff and if approved, an entry will be added to Spindle.
+For new CTAs, outline the research you have done to establish the CTA and that the CTA does not already have a name. This research to establish a CTA can vary, be it primary research or simply public reports about a campaign that is not attributed to a known CTA. This will be reviewed by Vrax staff and if approved, an entry will be added to Spindle.
 
-For existing CTAs, outline the information you would like to include in Spindle, and please link back to online sources. If you have performed original research, publish a blog post and link to that. This will be reviewed by Arachne Digital staff and if approved, an entry will be added to Spindle.
+For existing CTAs, outline the information you would like to include in Spindle, and please link back to online sources. If you have performed original research, publish a blog post and link to that. This will be reviewed by Vrax staff and if approved, an entry will be added to Spindle.
 
 ## What? Another naming convention in CTI?
 
@@ -45,7 +45,7 @@ While we need various naming conventions, this causes problems such as:
 * Time-Consuming Analysis: Analysts may spend excessive time trying to reconcile multiple aliases for the same CTA, slowing down the intelligence analysis process.
 * Loss of Relevant Information: Valuable context and insights about CTAs may be lost when multiple names are used for the same threat actor, making it difficult to identify patterns and trends.
 
-To combat these problems, Arachne Digital is trying to promote standardisation where possible, assigning our own names only when a viable alternative does not exist, and dropping our name when one does.
+To combat these problems, Vrax is trying to promote standardisation where possible, assigning our own names only when a viable alternative does not exist, and dropping our name when one does.
 
 ## What are the long term plans for Spindle?
 Check out our roadmap for Spindle [here](ROADMAP.md).
@@ -56,4 +56,4 @@ This repository is [licensed](LICENSE.md) under Creative Commons Attribution Sha
 
 ## Contact
 
-If you have any questions about Arachne Digital's approach to naming CTAs or need further information, please reach out to us at contact[at]arachne[dot]digital.
+If you have any questions about Vrax's approach to naming CTAs or need further information, please reach out to us at [contact@vrax.io](mailto:contact@vrax.io).

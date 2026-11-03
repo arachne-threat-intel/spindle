@@ -6,7 +6,7 @@ If you believe you have found a security vulnerability in Spindle, we encourage 
 
 To report a vulnerability, please follow these steps:
 
-1. **Email us:** Send an email to [contact@arachne.digital](mailto:contact@arachne.digital) with the subject line "Security Vulnerability Report".
+1. **Email us:** Send an email to [contact@vrax.io](mailto:contact@vrax.io) with the subject line "Security Vulnerability Report".
 2. **Provide details:** Include as much information as possible about the vulnerability. This should include:
     - A detailed description of the vulnerability.
     - Steps to reproduce the vulnerability.

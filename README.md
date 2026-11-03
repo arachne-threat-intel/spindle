@@ -25,7 +25,7 @@ If you want to have a name assigned to a new CTA or add to the information aroun
 
 For new CTAs, outline the research you have done to establish the CTA and that the CTA does not already have a name. This research to establish a CTA can vary, be it primary research or simply public reports about a campaign that is not attributed to a known CTA. This will be reviewed by Vrax staff and if approved, an entry will be added to Spindle.
 
-For existing CTAs, outline the information you would like to include in Spindle, and please link back to online sources. If you have performed original research, publish a blog post and link to that. This will be reviewed by Arachne Digital staff and if approved, an entry will be added to Spindle.
+For existing CTAs, outline the information you would like to include in Spindle, and please link back to online sources. If you have performed original research, publish a blog post and link to that. This will be reviewed by Vrax staff and if approved, an entry will be added to Spindle.
 
 ## What? Another naming convention in CTI?
 

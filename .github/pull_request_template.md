@@ -9,13 +9,15 @@ sensitive data. Only mark a checklist item complete when it has been verified.
 ## Linked work
 
 <!--
-Vrax implementation PRs normally track issues in Procuratio. Use the full
-cross-repository reference so the correct ticket closes when this PR merges.
-Replace "ISSUE_NUMBER", or replace "Closes" with "Related to" when the PR does
-not fully resolve the ticket.
--->
+Link a public issue when one exists. Use "Closes #ISSUE_NUMBER" only when this
+PR resolves it; otherwise use "Related to #ISSUE_NUMBER". For another public
+repository, use its full public reference. Remove placeholders before submitting.
+If no public issue exists, briefly state the public-safe purpose of the change.
 
-Closes arachne-threat-intel/Procuratio#ISSUE_NUMBER
+Never disclose private repository names, issue links, functionality, internal
+discussions, secrets or customer information in this public PR, its commits,
+comments, logs, screenshots or artifacts.
+-->
 
 Related issues, pull requests, specifications, or design documents:
 

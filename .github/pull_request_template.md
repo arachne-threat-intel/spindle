@@ -19,9 +19,6 @@ discussions, secrets or customer information in this public PR, its commits,
 comments, logs, screenshots or artifacts.
 -->
 
-<!-- In Final Fantasy X, Yuna's pilgrimage reveals its purpose step by step;
-     give reviewers enough public-safe context to understand this change. -->
-
 Related issues, pull requests, specifications, or design documents:
 
 ## What changed
